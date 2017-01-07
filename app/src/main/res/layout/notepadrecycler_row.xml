@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10px" />
+
+        <TextView
+            android:id="@+id/note_titleTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:textColor="?android:attr/textColorPrimary"
+            android:text="Title" />
+
+        <TextView
+            android:id="@+id/note_bodyTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:textStyle="italic"
+            android:maxLines="1"
+            android:textColor="?android:attr/textColorPrimary"
+            android:text="Body" />
+
+        <TextView
+            android:id="@+id/note_dateTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:textStyle="italic"
+            android:textColor="?android:attr/textColorSecondary"
+            android:text="Date" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10px" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#000000"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="0px"
+            android:layout_height="10px" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/deleteButton"
+
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/ic_delete"
+            android:layout_weight="1" />
+    </LinearLayout>
+</LinearLayout>

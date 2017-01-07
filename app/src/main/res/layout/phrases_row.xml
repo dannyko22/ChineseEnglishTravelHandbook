@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/phrasesLayout"
+    android:layout_width="match_parent"
+    android:clickable="true"
+    android:layout_weight="2"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+        <View
+            android:id="@+id/topemptyview"
+            android:layout_width="0px"
+            android:layout_height="30px"
+            android:clickable="true"/>
+
+        <TextView
+            android:text="homePhraseTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/homePhraseTextView"
+
+            android:textColor="?android:attr/textColorPrimary"
+            android:layout_weight="1"
+            android:textSize="18sp"
+            android:gravity="bottom" />
+
+        <TextView
+            android:text="pronounciationTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pronounciationTextView"
+            android:layout_weight="0"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textSize="18sp" />
+
+        <TextView
+            android:text="travelPhraseTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/travelPhraseTextView"
+            android:layout_weight="1"
+            android:textSize="18sp" />
+
+        <View
+            android:id="@+id/bottomemptyview"
+            android:clickable="true"
+            android:layout_width="0px"
+            android:layout_height="35px" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <View
+            android:layout_width="0px"
+            android:layout_height="140px"
+            android:background="#000000"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:layout_marginRight="10dp"
+                app:srcCompat="@drawable/copy"
+                android:background="@android:color/transparent"
+                android:id="@+id/copyImageButton"
+                android:layout_weight="1" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:scaleType="fitXY"
+                android:layout_marginRight="10dp"
+                app:srcCompat="@drawable/speaker"
+                android:background="@android:color/transparent"
+                android:id="@+id/voiceImageButton"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

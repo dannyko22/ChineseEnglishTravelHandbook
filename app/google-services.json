@@ -1,0 +1,383 @@
+{
+  "project_info": {
+    "project_number": "83925054587",
+    "firebase_url": "https://admob-app-id-4655462485.firebaseio.com",
+    "project_id": "admob-app-id-4655462485",
+    "storage_bucket": "admob-app-id-4655462485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:ad9179725f4a75dd",
+        "android_client_info": {
+          "package_name": "com.arabicdictionary.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:974ec53478bc2d06",
+        "android_client_info": {
+          "package_name": "com.californiatrafficcam.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:897407c7c057aef3",
+        "android_client_info": {
+          "package_name": "com.chinesedictionary.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:323831081de6d4f4",
+        "android_client_info": {
+          "package_name": "com.zaplight.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:9af97be0122aa271",
+        "android_client_info": {
+          "package_name": "com.hindidictionary.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:034b0ecb4d658f53",
+        "android_client_info": {
+          "package_name": "com.japanesedictionary.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:bc360c6a7043e425",
+        "android_client_info": {
+          "package_name": "com.koreandictionary.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:030c06b92647d6ef",
+        "android_client_info": {
+          "package_name": "com.ontariofishingmap.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:221ab08d7a91780f",
+        "android_client_info": {
+          "package_name": "com.russiandictionary.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:befd0030afeef6dc",
+        "android_client_info": {
+          "package_name": "com.spanishdictionary.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:34ac55794d0de99c",
+        "android_client_info": {
+          "package_name": "com.torontotraffic.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83925054587:android:a8a4c08cdb48951b",
+        "android_client_info": {
+          "package_name": "com.chineseenglishtravelhandbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83925054587-kkk5aav2racdukv773un7u7bcshahlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBaDEoRK2NbCzxg-wFdptsEvALpsWD-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
