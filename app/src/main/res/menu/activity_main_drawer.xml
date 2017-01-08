@@ -5,7 +5,7 @@
         <item
             android:id="@+id/notepad"
             android:icon="@drawable/clipboard"
-            android:title="Notepad" />
+            android:title="Learning Notepad" />
     </group>
 
     <item android:title="Communicate">

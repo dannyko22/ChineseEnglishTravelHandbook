@@ -3,6 +3,7 @@ package com.chineseenglishtravelhandbook;
 import android.content.ClipData;
 import android.content.ClipboardManager;
 import android.content.Context;
+import android.graphics.Outline;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.database.SQLException;
@@ -15,6 +16,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.ViewOutlineProvider;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ImageButton;
@@ -67,6 +69,29 @@ public class PhrasesAdapterClass extends ArrayAdapter {
 
         final ImageButton copyPhraseButton = (ImageButton) row.findViewById(R.id.copyImageButton);
         final ImageButton voicePhraseButton = (ImageButton) row.findViewById(R.id.voiceImageButton);
+
+        //Outline
+        ViewOutlineProvider viewOutlineProviderVoice = new ViewOutlineProvider() {
+            @Override
+            public void getOutline(View view, Outline outline) {
+                // Or read size directly from the view's width/height
+                int size = context.getResources().getDimensionPixelSize(R.dimen.fab_size);
+                outline.setOval(0, 0, size, size);
+            }
+        };
+        voicePhraseButton.setOutlineProvider(viewOutlineProviderVoice);
+
+        //Outline
+        ViewOutlineProvider viewOutlineProviderCopy = new ViewOutlineProvider() {
+            @Override
+            public void getOutline(View view, Outline outline) {
+                // Or read size directly from the view's width/height
+                int size = context.getResources().getDimensionPixelSize(R.dimen.fab_size);
+                outline.setOval(0, 0, size, size);
+            }
+        };
+        voicePhraseButton.setOutlineProvider(viewOutlineProviderCopy);
+
         final View topemptyview = (View) row.findViewById(R.id.topemptyview);
         final View bottomemptyview = (View) row.findViewById(R.id.bottomemptyview);
 

@@ -72,22 +72,26 @@
             android:orientation="horizontal">
 
             <ImageButton
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
                 android:scaleType="fitXY"
                 android:layout_marginRight="10dp"
                 app:srcCompat="@drawable/copy"
-                android:background="@android:color/transparent"
                 android:id="@+id/copyImageButton"
+                android:background="@drawable/ripple"
+                android:stateListAnimator="@animator/anim"
+                android:elevation="4dp"
                 android:layout_weight="1" />
 
             <ImageButton
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
                 android:scaleType="fitXY"
                 android:layout_marginRight="10dp"
+                android:background="@drawable/ripple"
+                android:stateListAnimator="@animator/anim"
+                android:elevation="4dp"
                 app:srcCompat="@drawable/speaker"
-                android:background="@android:color/transparent"
                 android:id="@+id/voiceImageButton"
                 android:layout_weight="1" />
 

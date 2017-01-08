@@ -49,7 +49,7 @@ public class activity_notepadrecycler extends AppCompatActivity {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("Notepad");
+        getSupportActionBar().setTitle("Learning Notepad");
 
 
 

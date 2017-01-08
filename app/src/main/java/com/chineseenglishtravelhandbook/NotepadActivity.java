@@ -29,7 +29,7 @@ public class NotepadActivity extends AppCompatActivity {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("Notepad");
+        getSupportActionBar().setTitle("Learning Notepad");
 
         Bundle data = getIntent().getExtras();
         notepadData = data.getParcelable("notes");

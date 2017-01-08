@@ -2,6 +2,7 @@ package com.chineseenglishtravelhandbook;
 
 import android.Manifest;
 import android.app.AlertDialog;
+import android.app.ProgressDialog;
 import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -9,6 +10,7 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.database.SQLException;
 import android.net.Uri;
+import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
@@ -99,8 +101,6 @@ public class MainActivity extends AppCompatActivity
 
         myDbHelper = new DatabaseHelper(this);
 
-
-
         try {
 
             myDbHelper.createDataBase();
@@ -129,6 +129,7 @@ public class MainActivity extends AppCompatActivity
         //initializeAdNetwork();
 
         checkEngineExist(this);
+
     }
 
     private void initializeAdNetwork() {
