@@ -2,9 +2,12 @@ package com.chineseenglishtravelhandbook;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
+import android.preference.PreferenceManager;
 import android.speech.tts.TextToSpeech;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.WindowManager;
@@ -37,6 +40,10 @@ public class CategoryPhrasesActivity extends AppCompatActivity {
 
 
         setupPhrasesListView();
+
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
+        Boolean name = preferences.getBoolean("traditional_switch", true);
+        Log.e("TAG", name.toString());
 
     }
 

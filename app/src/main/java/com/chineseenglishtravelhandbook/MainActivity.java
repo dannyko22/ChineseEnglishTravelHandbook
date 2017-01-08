@@ -243,7 +243,12 @@ public class MainActivity extends AppCompatActivity
                     Toast.makeText(this, "Could not open Android market, please install the market app.", Toast.LENGTH_SHORT).show();
                 }
             }
+        } else if (id == R.id.settingstoolbar)
+        {
+            Intent intent = new Intent(context, SettingsActivity.class);
+            startActivity(intent);
         }
+
 
         return super.onOptionsItemSelected(item);
     }

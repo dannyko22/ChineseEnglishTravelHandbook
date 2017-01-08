@@ -20,6 +20,7 @@ public class TravelPhraseData implements Parcelable {
     String category;
     String homePhrase;
     String travelPhrase;
+    String simpTravelPhrase;
     String pronounciation;
     String filename;
 
@@ -29,6 +30,7 @@ public class TravelPhraseData implements Parcelable {
         this.category = null;
         this.homePhrase = null;
         this.travelPhrase = null;
+        this.simpTravelPhrase = null;
         this.pronounciation = null;
         this.filename = null;
     }
