@@ -48,6 +48,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     private static final String CATEGORY = "Category";
     private static final String HOME_PHRASE = "homePhrase";
     private static final String TRAVEL_PHRASE = "travelPhrase";
+    private static final String TRAVEL_SIMP_PHRASE = "travelSimpPhrase";
     private static final String PRONOUNCIATION_PHRASE = "pronounciation";
     private static final String FILENAME = "Filename";
 
@@ -195,7 +196,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         String selectQuery = "SELECT * FROM " + TABLE_TRAVELPHRASES;
 
         //SQLiteDatabase db = this.getReadableDatabase();
-        cursor = myDataBase.query(TABLE_TRAVELPHRASES, new String[]{KEY_ID, CATEGORY, HOME_PHRASE, TRAVEL_PHRASE, PRONOUNCIATION_PHRASE, FILENAME}, null, null, null, null, null);
+        cursor = myDataBase.query(TABLE_TRAVELPHRASES, new String[]{KEY_ID, CATEGORY, HOME_PHRASE, TRAVEL_PHRASE, TRAVEL_SIMP_PHRASE, PRONOUNCIATION_PHRASE, FILENAME}, null, null, null, null, null);
 
         if (cursor.moveToFirst()) {
             do {
@@ -204,8 +205,9 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 travelPhraseData.setCategory(cursor.getString(1));
                 travelPhraseData.setHomePhrase(cursor.getString(2));
                 travelPhraseData.setTravelPhrase(cursor.getString(3));
-                travelPhraseData.setPronounciation(cursor.getString(4));
-                travelPhraseData.setFilename(cursor.getString(5));
+                travelPhraseData.setTravelSimpPhrase(cursor.getString(4));
+                travelPhraseData.setPronounciation(cursor.getString(5));
+                travelPhraseData.setFilename(cursor.getString(6));
                 // Adding contact to list
                 items.add(travelPhraseData);
             } while (cursor.moveToNext());
@@ -222,7 +224,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         //String selectQuery = "SELECT * FROM " + TABLE_TRAVELPHRASES;
 
         //SQLiteDatabase db = this.getReadableDatabase();
-        cursor = myDataBase.query(TABLE_TRAVELPHRASES, new String[]{KEY_ID, CATEGORY, HOME_PHRASE, TRAVEL_PHRASE, PRONOUNCIATION_PHRASE, FILENAME}, CATEGORY + "= ?", new String[]{_category}, null, null, null);
+        cursor = myDataBase.query(TABLE_TRAVELPHRASES, new String[]{KEY_ID, CATEGORY, HOME_PHRASE, TRAVEL_PHRASE, TRAVEL_SIMP_PHRASE, PRONOUNCIATION_PHRASE, FILENAME}, CATEGORY + "= ?", new String[]{_category}, null, null, null);
 
         if (cursor.moveToFirst()) {
             do {
@@ -231,8 +233,9 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 travelPhraseData.setCategory(cursor.getString(1));
                 travelPhraseData.setHomePhrase(cursor.getString(2));
                 travelPhraseData.setTravelPhrase(cursor.getString(3));
-                travelPhraseData.setPronounciation(cursor.getString(4));
-                travelPhraseData.setFilename(cursor.getString(5));
+                travelPhraseData.setTravelSimpPhrase(cursor.getString(4));
+                travelPhraseData.setPronounciation(cursor.getString(5));
+                travelPhraseData.setFilename(cursor.getString(6));
                 // Adding contact to list
                 items.add(travelPhraseData);
             } while (cursor.moveToNext());
@@ -250,7 +253,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         //String selectQuery = "SELECT DISTINCT Category FROM " + TABLE_TRAVELPHRASES;
 
         //SQLiteDatabase db = this.getReadableDatabase();
-        cursor = myDataBase.query(TABLE_TRAVELPHRASES, new String[]{KEY_ID, CATEGORY, HOME_PHRASE, TRAVEL_PHRASE, PRONOUNCIATION_PHRASE, FILENAME}, null, null, CATEGORY, null, null);
+        cursor = myDataBase.query(TABLE_TRAVELPHRASES, new String[]{KEY_ID, CATEGORY, HOME_PHRASE, TRAVEL_PHRASE, TRAVEL_SIMP_PHRASE, PRONOUNCIATION_PHRASE, FILENAME}, null, null, CATEGORY, null, null);
 
         if (cursor.moveToFirst()) {
             do {
@@ -258,7 +261,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 travelCategoryData = new TravelCategoryData();
                 travelCategoryData.setID(id);
                 travelCategoryData.setCategory(cursor.getString(1));
-                travelCategoryData.setFilename(cursor.getString(5));
+                travelCategoryData.setFilename(cursor.getString(6));
                 // Adding contact to list
                 items.add(travelCategoryData);
             } while (cursor.moveToNext());

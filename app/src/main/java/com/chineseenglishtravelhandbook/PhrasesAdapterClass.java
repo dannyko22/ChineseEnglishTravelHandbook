@@ -3,6 +3,7 @@ package com.chineseenglishtravelhandbook;
 import android.content.ClipData;
 import android.content.ClipboardManager;
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.graphics.Outline;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
@@ -10,6 +11,7 @@ import android.database.SQLException;
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.os.Build;
+import android.preference.PreferenceManager;
 import android.speech.tts.TextToSpeech;
 import android.support.annotation.NonNull;
 import android.util.Log;
@@ -55,6 +57,9 @@ public class PhrasesAdapterClass extends ArrayAdapter {
         //travelPhrase.setTypeface(null, Typeface.BOLD);
         travelPhrase.setTextColor(Color.BLACK);
 
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(context);
+        final Boolean traditional_switch = preferences.getBoolean("traditional_switch", true);
+
         TextView homePhrase = (TextView) row.findViewById(R.id.homePhraseTextView);
         final TextView pronounciation = (TextView) row.findViewById(R.id.pronounciationTextView);
 
@@ -63,7 +68,14 @@ public class PhrasesAdapterClass extends ArrayAdapter {
         pronounciation.setTextColor(Color.rgb(20, 99, 255));
         travelPhrase.setTextColor(Color.rgb(153, 26, 0));
 
-        travelPhrase.setText("▶ " + (CharSequence) travelPhraseData.get(position).getTravelPhrase());
+        if (traditional_switch == true)
+        {
+            travelPhrase.setText("▶ " + (CharSequence) travelPhraseData.get(position).getTravelPhrase());
+        } else
+        {
+            travelPhrase.setText("▶ " + (CharSequence) travelPhraseData.get(position).getTravelSimpPhrase());
+        }
+
         homePhrase.setText((CharSequence) travelPhraseData.get(position).getHomePhrase());
         pronounciation.setText("▶ " + (CharSequence) travelPhraseData.get(position).getPronounciation());
 
@@ -136,13 +148,26 @@ public class PhrasesAdapterClass extends ArrayAdapter {
                 ListView parentparentListview = ((ListView) parentLinearview2.getParent());
                 int position = parentparentListview.getPositionForView(view);
 
-                String phrase = "\n" + travelPhraseData.get(position).getHomePhrase() + "\n" + travelPhraseData.get(position).getPronounciation() + "\n" + travelPhraseData.get(position).getTravelPhrase();
+                String phrase = "";
+                if (traditional_switch == true) {
+                    phrase = "\n" + travelPhraseData.get(position).getHomePhrase() + "\n" + travelPhraseData.get(position).getPronounciation() + "\n" + travelPhraseData.get(position).getTravelPhrase();
+                } else
+                {
+                    phrase = "\n" + travelPhraseData.get(position).getHomePhrase() + "\n" + travelPhraseData.get(position).getPronounciation() + "\n" + travelPhraseData.get(position).getTravelSimpPhrase();
+                }
                 Toast.makeText(context, "Copied to Notepad" + "\n" + phrase, Toast.LENGTH_SHORT).show();
 
                 // insert phrase to notepad
                 NotepadDatabaseHelper notepadDBHelper;
                 notepadDBHelper = setupDatabaseHelper();
-                notepadDBHelper.insertNotepadData(travelPhraseData.get(position).getHomePhrase(), travelPhraseData.get(position).getTravelPhrase()+ "\n"+ travelPhraseData.get(position).getPronounciation(), new Date());
+
+                if (traditional_switch == true) {
+                    notepadDBHelper.insertNotepadData(travelPhraseData.get(position).getHomePhrase(), travelPhraseData.get(position).getTravelPhrase() + "\n" + travelPhraseData.get(position).getPronounciation(), new Date());
+                }
+                else
+                {
+                    notepadDBHelper.insertNotepadData(travelPhraseData.get(position).getHomePhrase(), travelPhraseData.get(position).getTravelSimpPhrase() + "\n" + travelPhraseData.get(position).getPronounciation(), new Date());
+                }
                 notepadDBHelper.close();
             }
         });

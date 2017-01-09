@@ -20,7 +20,7 @@ public class TravelPhraseData implements Parcelable {
     String category;
     String homePhrase;
     String travelPhrase;
-    String simpTravelPhrase;
+    String travelSimpPhrase;
     String pronounciation;
     String filename;
 
@@ -30,17 +30,18 @@ public class TravelPhraseData implements Parcelable {
         this.category = null;
         this.homePhrase = null;
         this.travelPhrase = null;
-        this.simpTravelPhrase = null;
+        this.travelSimpPhrase = null;
         this.pronounciation = null;
         this.filename = null;
     }
 
     // constructor
-    public TravelPhraseData(int id, String category, String homePhrase, String travelPhrase, String pronounciation, String filename){
+    public TravelPhraseData(int id, String category, String homePhrase, String travelPhrase, String travelSimpPhrase, String pronounciation, String filename){
         this._id = id;
         this.homePhrase = homePhrase;
         this.category = category;
         this.travelPhrase = travelPhrase;
+        this.travelSimpPhrase = travelSimpPhrase;
         this.pronounciation = pronounciation;
         this.filename = filename;
     }
@@ -51,6 +52,7 @@ public class TravelPhraseData implements Parcelable {
         category = in.readString();
         homePhrase = in.readString();
         travelPhrase = in.readString();
+        travelSimpPhrase = in.readString();
         pronounciation = in.readString();
         filename = in.readString();
     }
@@ -87,6 +89,11 @@ public class TravelPhraseData implements Parcelable {
         this.travelPhrase = _travelPhrase;
     }
 
+    public void setTravelSimpPhrase(String _travelSimpPhrase)
+    {
+        this.travelSimpPhrase = _travelSimpPhrase;
+    }
+
     public void setFilename(String _filename) {this.filename = _filename;}
 
     public void setPronounciation(String _pronounciation) {this.pronounciation = _pronounciation;}
@@ -99,6 +106,11 @@ public class TravelPhraseData implements Parcelable {
     public String getTravelPhrase()
     {
         return travelPhrase;
+    }
+
+    public String getTravelSimpPhrase()
+    {
+        return travelSimpPhrase;
     }
 
     public String getHomePhrase()
@@ -121,6 +133,7 @@ public class TravelPhraseData implements Parcelable {
         parcel.writeString(category);
         parcel.writeString(homePhrase);
         parcel.writeString(travelPhrase);
+        parcel.writeString(travelSimpPhrase);
         parcel.writeString(pronounciation);
         parcel.writeString(filename);
     }

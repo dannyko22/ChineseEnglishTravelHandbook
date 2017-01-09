@@ -41,9 +41,7 @@ public class CategoryPhrasesActivity extends AppCompatActivity {
 
         setupPhrasesListView();
 
-        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
-        Boolean name = preferences.getBoolean("traditional_switch", true);
-        Log.e("TAG", name.toString());
+
 
     }
 
