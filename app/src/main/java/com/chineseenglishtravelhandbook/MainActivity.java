@@ -263,7 +263,11 @@ public class MainActivity extends AppCompatActivity
             // Handle the notepad action
             Intent intent = new Intent(context, activity_notepadrecycler.class);
             startActivity(intent);
-        } else if (id == R.id.homeapps) {
+        } else if (id == R.id.settingsdrawer){
+            Intent intent = new Intent(context, SettingsActivity.class);
+            startActivity(intent);
+        }
+        else if (id == R.id.homeapps) {
             final Intent intent = new Intent(Intent.ACTION_VIEW).setData(Uri.parse("https://play.google.com/store/apps/developer?id=Danny%20Ko&hl=en"));
             startActivity(intent);
         } else if (id == R.id.rateme) {

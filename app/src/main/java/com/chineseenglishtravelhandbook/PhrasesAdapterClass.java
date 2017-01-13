@@ -117,7 +117,7 @@ public class PhrasesAdapterClass extends ArrayAdapter {
 
 
         // set visible to off by default
-        hideButtons(travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
+//        hideButtons(travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
 
         //set click listener such that it expands when layout is clicked.
         phrasesLayout.setOnClickListener(new View.OnClickListener() {
@@ -125,11 +125,11 @@ public class PhrasesAdapterClass extends ArrayAdapter {
             public void onClick(View view) {
                 if (pronounciation.getVisibility() == View.GONE)
                 {
-                    showButtons(travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
+//                    showButtons(travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
                 }
                 else
                 {
-                    hideButtons(travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
+//                    hideButtons(travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
                 }
 
             }
@@ -197,28 +197,28 @@ public class PhrasesAdapterClass extends ArrayAdapter {
         return row;
     }
 
-    private void hideButtons(TextView travelPhrase, TextView pronounciation, ImageButton voicePhraseButton, ImageButton copyPhraseButton)
-    {
-        copyPhraseButton.setVisibility(View.GONE);
-        voicePhraseButton.setVisibility(View.GONE);
-        pronounciation.setVisibility(View.GONE);
-        travelPhrase.setVisibility(View.GONE);
-
-    }
-
-    private void showButtons(TextView travelPhrase, TextView pronounciation, ImageButton voicePhraseButton, ImageButton copyPhraseButton)
-    {
-        copyPhraseButton.setVisibility(View.VISIBLE);
-        //hide speaker button if google TTS not available
-        if (!ttsManager.isGoogleTTSAvailable())
-        {
-            voicePhraseButton.setVisibility(View.GONE);
-        } else {
-            voicePhraseButton.setVisibility(View.VISIBLE);
-        }
-        pronounciation.setVisibility(View.VISIBLE);
-        travelPhrase.setVisibility(View.VISIBLE);
-    }
+//    private void hideButtons(TextView travelPhrase, TextView pronounciation, ImageButton voicePhraseButton, ImageButton copyPhraseButton)
+//    {
+//        copyPhraseButton.setVisibility(View.GONE);
+//        voicePhraseButton.setVisibility(View.GONE);
+//        pronounciation.setVisibility(View.GONE);
+//        travelPhrase.setVisibility(View.GONE);
+//
+//    }
+//
+//    private void showButtons(TextView travelPhrase, TextView pronounciation, ImageButton voicePhraseButton, ImageButton copyPhraseButton)
+//    {
+//        copyPhraseButton.setVisibility(View.VISIBLE);
+//        //hide speaker button if google TTS not available
+//        if (!ttsManager.isGoogleTTSAvailable())
+//        {
+//            voicePhraseButton.setVisibility(View.GONE);
+//        } else {
+//            voicePhraseButton.setVisibility(View.VISIBLE);
+//        }
+//        pronounciation.setVisibility(View.VISIBLE);
+//        travelPhrase.setVisibility(View.VISIBLE);
+//    }
 
 
 

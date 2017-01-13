@@ -1,985 +1,983 @@
-﻿1|Academic Subjects|a major|專業|专业|zhuān yè |file:///android_asset/academic.png
-2|Academic Subjects|assignment/homework|作業|作业|zuò yè |file:///android_asset/academic.png
-3|Academic Subjects|Biology|生物|生物|shēng wù |file:///android_asset/academic.png
-4|Academic Subjects|book bag|書包|书包|shū bāo |file:///android_asset/academic.png
-5|Academic Subjects|cell phone|手機|手机|shǒu jī |file:///android_asset/academic.png
-6|Academic Subjects|Chemistry|化学|化学|huà xué |file:///android_asset/academic.png
-7|Academic Subjects|Chinese |中文|中文|zhōng wén |file:///android_asset/academic.png
-8|Academic Subjects|Computer Science|電腦|电脑|diàn nǎo |file:///android_asset/academic.png
-9|Academic Subjects|Dictionary|字典|字典|zì diǎn |file:///android_asset/academic.png
-10|Academic Subjects|Economics |經濟|经济|jīng jì |file:///android_asset/academic.png
-11|Academic Subjects|Engineering |工程|工程|gōng chéng |file:///android_asset/academic.png
-12|Academic Subjects|English|英文|英文|yīng wén |file:///android_asset/academic.png
-13|Academic Subjects|exam|考試|考试|kǎo shì |file:///android_asset/academic.png
-14|Academic Subjects|flunk|不及格|不及格|bù jí gé |file:///android_asset/academic.png
-15|Academic Subjects|Foreign Language|外语|外语|wài yǔ |file:///android_asset/academic.png
-16|Academic Subjects|go to class|上課|上课|shàng kè |file:///android_asset/academic.png
-17|Academic Subjects|grade|成績|成绩|chéng jì |file:///android_asset/academic.png
-18|Academic Subjects|History|历史|历史|lì shǐ |file:///android_asset/academic.png
-19|Academic Subjects|International Relations|國際關係|国际关系|guó jì guān xì |file:///android_asset/academic.png
-20|Academic Subjects|laptop/notebook|筆记本|笔记本|bǐ jì běn |file:///android_asset/academic.png
-21|Academic Subjects|Literature|文學|文学|wén xué |file:///android_asset/academic.png
-22|Academic Subjects|mark|分數|分数|fēn shù |file:///android_asset/academic.png
-23|Academic Subjects|notebook|筆记本|笔记本|bǐ jì běn |file:///android_asset/academic.png
-24|Academic Subjects|oral test|口試|口试|kǒu shì |file:///android_asset/academic.png
-25|Academic Subjects|paper|紙|纸|zhǐ |file:///android_asset/academic.png
-26|Academic Subjects|pass|及格|及格|jí gé |file:///android_asset/academic.png
-27|Academic Subjects|pen|筆|笔|bǐ |file:///android_asset/academic.png
-28|Academic Subjects|pencil|鉛筆|铅笔|qiān bǐ |file:///android_asset/academic.png
-29|Academic Subjects|Philosophy|哲学|哲学|zhé xué |file:///android_asset/academic.png
-30|Academic Subjects|Physics|物理|物理|wù lǐ |file:///android_asset/academic.png
-31|Academic Subjects|printer|打印機|打印机|dǎ yìn jī |file:///android_asset/academic.png
-32|Academic Subjects|Psychology|心理学|心理学|xīn lǐ xué |file:///android_asset/academic.png
-33|Academic Subjects|quiz|小考|小考|xiǎo kǎo |file:///android_asset/academic.png
-34|Academic Subjects|register|注册|注册|zhù cè |file:///android_asset/academic.png
-35|Academic Subjects|shop for courses|選课|逃选课|táo xuǎn kè |file:///android_asset/academic.png
-36|Academic Subjects|student ID|學生證|学生证|xué shēng zhèng |file:///android_asset/academic.png
-37|Academic Subjects|textbook|課本|课本|kè běn |file:///android_asset/academic.png
-38|Academic Subjects|to graduate|畢業|毕业|bì yè |file:///android_asset/academic.png
-39|Academic Subjects|to major |主修|主修|zhǔ xiū |file:///android_asset/academic.png
-40|Academic Subjects|written test|筆试|笔试|bǐ shì |file:///android_asset/academic.png
-41|Bank|Deposit funds|我想存一筆錢|我想存一笔钱|Wǒ  xiǎng  cún  yī  bī  qián |file:///android_asset/bank.png
-42|Bank|Do any of your colleagues speak English|請問你的同事有說英文的嗎|请问你的同事有说英文的吗|Qǐng  wēn  ní  de tóng  shì  yǒu  shuō  yīng  wén  de ma|file:///android_asset/bank.png
-43|Bank|How long will it take|要多長時間|要多长时间|Yào  duō  cháng  shí  jiān |file:///android_asset/bank.png
-44|Bank|I would like to transfer funds|我要轉賬|我要转账|Wǒ  yào  zhuǎn  zhàng |file:///android_asset/bank.png
-45|Bank|Is there a charge for this?|這個收費嗎？|这个收费吗？|Zhège shōufèi ma?|file:///android_asset/bank.png
-46|Bank|Is there an English interface|有英文版本嗎|有英文版本吗|Yǒu  yīng  wēn  bán  běn  ma|file:///android_asset/bank.png
-47|Bank|Open a web-banking account|我要開一個網上銀行賬戶|我要开一个网上银行帐户|Wǒ  yào  kāi  yí  gè  wǎng  shàng  yín  háng  zhàng  hù |file:///android_asset/bank.png
-48|Bank|Open an account|我要開一個賬戶|我要开一个帐户|Wǒ  yāo  kāi  yí  gè  zhàng  hù |file:///android_asset/bank.png
-49|Bank|Pay internet bill|我想付網費|我想付网费|Wǒ  xiáng  fǔ  wǎng  fei|file:///android_asset/bank.png
-50|Bank|Pay telephone bill|我想付電話費|我想付电话费|Wǒ  xiáng  fǔ  diàn  huà  fei|file:///android_asset/bank.png
-51|Bank|Please check my balance|請查一下餘額|请查一下余额|Qǐng  chā  yi xià  yú  é |file:///android_asset/bank.png
-52|Bank|Transfer funds to a foreign account|我要轉一筆錢到國外|我要转一笔钱到国外|Wǒ  yào  zhuǎn  yi bi qián  dào  guó  wài |file:///android_asset/bank.png
-53|Bank|What are the transfer costs|轉賬費用是多少|转账费用是多少|Zhuǎn  zhàng  fèi  yòng  shī  duō  shǎo |file:///android_asset/bank.png
-54|Bank|Withdraw|我要領錢|我要领钱|Wǒ  yào  lǐng  qián |file:///android_asset/bank.png
-55|Basics|Come on in. |請进|请进|qǐng jìn |file:///android_asset/basics.png
-56|Basics|Could you go lower? |便宜一點儿，好嗎|便宜一点儿，好吗|biàn yí yī diǎn ér ， hǎo má |file:///android_asset/basics.png
-57|Basics|Do you speak English? |您會不會说英文|您会不会说英文|nín huì bù huì shuō yīng wén |file:///android_asset/basics.png
-58|Basics|Excuse me (I am sorry) |對不起|对不起|duì bù qǐ |file:///android_asset/basics.png
-59|Basics|Excuse me (May I ask ...) |請问|请问|qǐng wèn |file:///android_asset/basics.png
-60|Basics|Good afternoon. |下午好|下午好|xià wǔ hǎo |file:///android_asset/basics.png
-61|Basics|Good evening. |晚上好|晚上好|wǎn shàng hǎo |file:///android_asset/basics.png
-62|Basics|Good morning. |早；早上好|早；早上好|zǎo ； zǎo shàng hǎo |file:///android_asset/basics.png
-63|Basics|Good night|晚安|晚安|wǎn ān |file:///android_asset/basics.png
-64|Basics|Good-bye. |再見|再见|zài jiàn |file:///android_asset/basics.png
-65|Basics|Have a seat. |請坐|请坐|qǐng zuò |file:///android_asset/basics.png
-66|Basics|Hello. |你好|你好|nǐ hǎo |file:///android_asset/basics.png
-67|Basics|How much is it? |多少钱|多少钱|duō shǎo qián |file:///android_asset/basics.png
-68|Basics|I am American. |我是美国人|我是美国人|wǒ shì měi guó rén |file:///android_asset/basics.png
-69|Basics|See you in a little bit. |一會兒見|一会儿见|yī huì ér jiàn |file:///android_asset/basics.png
-70|Basics|Thank you. |谢谢|谢谢|xiè xiè |file:///android_asset/basics.png
-71|Basics|That's all right. Never mind. |沒關係|没关系；没事|méi guān xì|file:///android_asset/basics.png
-72|Basics|That's too expensive. |太贵了|太贵了|tài guì liǎo |file:///android_asset/basics.png
-73|Basics|Welcome. |歡迎|欢迎|huān yíng |file:///android_asset/basics.png
-74|Basics|What time is it? |几點了|几点了|jī diǎn liǎo |file:///android_asset/basics.png
-75|Basics|Where is the bathroom? |洗手間在哪兒|洗手间在哪儿|xǐ shǒu jiān zài nǎ ér |file:///android_asset/basics.png
-76|Basics|Wonderful! |太好了|太好了|tài hǎo liǎo |file:///android_asset/basics.png
-77|Basics|You are welcome. |不客氣|不客气；没事|bù kè qì|file:///android_asset/basics.png
-78|Beverages|alcohol|酒|酒|jiǔ |file:///android_asset/beverages.png
-79|Beverages|Apple juice|蘋果汁|苹果汁|Píng  guǒ  zhī |file:///android_asset/beverages.png
-80|Beverages|Beer|啤酒|啤酒|Pí  jiǔ |file:///android_asset/beverages.png
-81|Beverages|black tea|紅茶|红茶|hóng chá |file:///android_asset/beverages.png
-82|Beverages|Chrysanthemum tea|菊花茶|菊花茶|Jù  huā  chá |file:///android_asset/beverages.png
-83|Beverages|Coca cola|可口可樂|可口可乐|Ké  kǒu  kě  lè |file:///android_asset/beverages.png
-84|Beverages|cocoa|可可|可可|kě kě |file:///android_asset/beverages.png
-85|Beverages|Coffee|咖啡|咖啡|Kā  fēi |file:///android_asset/beverages.png
-86|Beverages|Coke – diet|健怡可樂|健怡可乐|Jiàn  yí  kě  lè |file:///android_asset/beverages.png
-87|Beverages|cola|可樂|可乐|kě lè |file:///android_asset/beverages.png
-88|Beverages|fruit juice|果汁|果汁|guǒ zhī |file:///android_asset/beverages.png
-89|Beverages|Green tea|綠茶|绿茶|Lü chá |file:///android_asset/beverages.png
-90|Beverages|Ice|冰|冰|Bīng |file:///android_asset/beverages.png
-91|Beverages|jasmine tea|茉莉花茶/香片|茉莉花茶/香片|mò lì huā chá / xiāng piàn |file:///android_asset/beverages.png
-92|Beverages|lemonade|檸檬水|柠檬水|níng méng shuǐ |file:///android_asset/beverages.png
-93|Beverages|milk|牛奶|牛奶|niú nǎi |file:///android_asset/beverages.png
-94|Beverages|mineral water|礦泉水|矿泉水|kuàng quán shuǐ |file:///android_asset/beverages.png
-95|Beverages|No ice|不要冰|不要冰|Bú  yào  bīng |file:///android_asset/beverages.png
-96|Beverages|oolong tea|烏龍茶|乌龙茶|wū lóng chá |file:///android_asset/beverages.png
-97|Beverages|orange juice|橘子汁|橘子汁|jú zǐ zhī |file:///android_asset/beverages.png
-98|Beverages|Orange juice|橙汁|橙汁|Chéng  zhī |file:///android_asset/beverages.png
-99|Beverages|Pepsi|百事可樂|百事可乐|Bǎi  shì  kě  lè |file:///android_asset/beverages.png
-100|Beverages|Pepsi – diet|健怡百事可樂|健怡百事可乐|Jiàn  yí  bǎi  shī  kě  lè |file:///android_asset/beverages.png
-101|Beverages|red wine|紅葡萄酒|红葡萄酒|hóng pú táo jiǔ |file:///android_asset/beverages.png
-102|Beverages|soda|汽水|汽水|qì shuǐ |file:///android_asset/beverages.png
-103|Beverages|Sprite|雪碧|雪碧|Xuě  bī |file:///android_asset/beverages.png
-104|Beverages|tea |茶|茶|chá |file:///android_asset/beverages.png
-105|Beverages|water|水|水|shuǐ |file:///android_asset/beverages.png
-106|Beverages|White spirit (Chinese hard liquor)|白酒|白酒|bái jiǔ |file:///android_asset/beverages.png
-107|Beverages|white wine|白葡萄酒|白葡萄酒|bái pú táo jiǔ |file:///android_asset/beverages.png
-108|Beverages|yoghurt|酸奶|酸奶|suān nǎi |file:///android_asset/beverages.png
-109|Body  |abdomen|腹部/肚子|腹部/肚子|fù bù / dù zǐ |file:///android_asset/body.png
-110|Body  |arm|手臂|手臂|shǒu bì |file:///android_asset/body.png
-111|Body  |back|背部|背部|bèi bù |file:///android_asset/body.png
-112|Body  |beard/mustache|鬍子|胡子|hú zǐ |file:///android_asset/body.png
-113|Body  |body|身體|身体|shēn tǐ |file:///android_asset/body.png
-114|Body  |buttocks|臀部/屁股|臀部/屁股|tún bù / pì gǔ |file:///android_asset/body.png
-115|Body  |chest|胸部|胸部|xiōng bù |file:///android_asset/body.png
-116|Body  |ear|耳朵|耳朵|ěr duǒ |file:///android_asset/body.png
-117|Body  |eye|眼睛|眼睛|yǎn jīng |file:///android_asset/body.png
-118|Body  |eyebrow|眉毛|眉毛|méi máo |file:///android_asset/body.png
-119|Body  |eyelash|睫毛|睫毛|jié máo |file:///android_asset/body.png
-120|Body  |face|臉|脸|liǎn |file:///android_asset/body.png
-121|Body  |finger|手指|手指|shǒu zhǐ |file:///android_asset/body.png
-122|Body  |foot|脚|脚|jiǎo |file:///android_asset/body.png
-123|Body  |hair|頭髮|头发|tóu fā |file:///android_asset/body.png
-124|Body  |hand|手|手|shǒu |file:///android_asset/body.png
-125|Body  |head|頭髮|头|tóu |file:///android_asset/body.png
-126|Body  |knee|膝蓋|膝盖|xī gài |file:///android_asset/body.png
-127|Body  |leg|腿|腿|tuǐ |file:///android_asset/body.png
-128|Body  |lip|嘴唇|嘴唇|zuǐ chún |file:///android_asset/body.png
-129|Body  |mouth|嘴|嘴|zuǐ |file:///android_asset/body.png
-130|Body  |nail|指甲|指甲|zhǐ jiǎ |file:///android_asset/body.png
-131|Body  |neck|脖子|脖子|bó zǐ |file:///android_asset/body.png
-132|Body  |nose|鼻子|鼻子|bí zǐ |file:///android_asset/body.png
-133|Body  |tongue|舌頭|舌头|shé tóu |file:///android_asset/body.png
-134|Clothings|belt|皮带|皮带|pí dài |file:///android_asset/clothing.png
-135|Clothings|clothes|衣服|衣服|yī fú |file:///android_asset/clothing.png
-136|Clothings|dress|洋装/連衣裙|洋装/连衣裙|yáng zhuāng / lián yī qún |file:///android_asset/clothing.png
-137|Clothings|eyeglasses |眼鏡|眼镜|yǎn jìng |file:///android_asset/clothing.png
-138|Clothings|gloves |手套|手套|shǒu tào |file:///android_asset/clothing.png
-139|Clothings|hat|帽子|帽子|mào zǐ |file:///android_asset/clothing.png
-140|Clothings|jeans|牛仔裤|牛仔裤|niú zī kù |file:///android_asset/clothing.png
-141|Clothings|necktie|领带|领带|lǐng dài |file:///android_asset/clothing.png
-142|Clothings|overcoat |大衣|大衣|dà yī |file:///android_asset/clothing.png
-143|Clothings|pants|裤子/长裤|裤子/长裤|kù zǐ / cháng kù |file:///android_asset/clothing.png
-144|Clothings|shirt/blouse|襯衫|衬衫|chèn shān |file:///android_asset/clothing.png
-145|Clothings|shoes|鞋|鞋|xié |file:///android_asset/clothing.png
-146|Clothings|shorts|短裤|短裤|duǎn kù |file:///android_asset/clothing.png
-147|Clothings|skirt|裙子|裙子|qún zǐ |file:///android_asset/clothing.png
-148|Clothings|sneakers|球鞋/運動鞋|球鞋/运动鞋|qiú xié / yùn dòng xié |file:///android_asset/clothing.png
-149|Clothings|socks|襪子|袜子|wà zǐ |file:///android_asset/clothing.png
-150|Clothings|suit|西装|西装|xī zhuāng |file:///android_asset/clothing.png
-151|Clothings|sweater|毛衣|毛衣|máo yī |file:///android_asset/clothing.png
-152|Clothings|top|上衣|上衣|shàng yī |file:///android_asset/clothing.png
-153|Clothings|T-shirt |T恤衬|T恤衬|T xù chèn |file:///android_asset/clothing.png
-154|Colors|black|黑色|黑色|hēi sè |file:///android_asset/colors.png
-155|Colors|blue|藍色|蓝色|lán sè |file:///android_asset/colors.png
-156|Colors|brown|咖啡色/棕色|咖啡色/棕色|kā fēi sè / zōng sè |file:///android_asset/colors.png
-157|Colors|color|顏色|颜色|yán sè |file:///android_asset/colors.png
-158|Colors|dark purple|深紫色|深紫色|shēn zǐ sè |file:///android_asset/colors.png
-159|Colors|gold|金色|金色|jīn sè |file:///android_asset/colors.png
-160|Colors|green|綠色|绿色|lǜ sè |file:///android_asset/colors.png
-161|Colors|light purple/lavender|淺紫色/淡紫色|浅紫色/淡紫色|qiǎn zǐ sè / dàn zǐ sè |file:///android_asset/colors.png
-162|Colors|orange |橘色|橘色|jú sè |file:///android_asset/colors.png
-163|Colors|pink|粉紅色|粉红色|fěn hóng sè |file:///android_asset/colors.png
-164|Colors|purple|紫色|紫色|zǐ sè |file:///android_asset/colors.png
-165|Colors|red|紅色|红色|hóng sè |file:///android_asset/colors.png
-166|Colors|silver|銀色|银色|yín sè |file:///android_asset/colors.png
-167|Colors|white|白色|白色|bái sè |file:///android_asset/colors.png
-168|Colors|yellow|黃色|黄色|huáng sè |file:///android_asset/colors.png
-169|Cooking methods|boil |煮|煮|zhǔ |file:///android_asset/cooking.png
-170|Cooking methods|cube|丁|丁|dīng |file:///android_asset/cooking.png
-171|Cooking methods|deep fry|炸|炸|zhà |file:///android_asset/cooking.png
-172|Cooking methods|diced|末|末|mò |file:///android_asset/cooking.png
-173|Cooking methods|piece|塊|块|kuài |file:///android_asset/cooking.png
-174|Cooking methods|shredded|絲|丝|sī |file:///android_asset/cooking.png
-175|Cooking methods|sliced|片|片|piàn |file:///android_asset/cooking.png
-176|Cooking methods|steam|蒸|蒸|zhēng |file:///android_asset/cooking.png
-177|Cooking methods|stir fry|炒|炒|chǎo |file:///android_asset/cooking.png
-178|Counters|academic course|門|门|mén |file:///android_asset/counter.png
-179|Counters|"appliance/machine;  EX: computer,  dryer "|台|台|tái |file:///android_asset/counter.png
-180|Counters|"brisk action;  EX: pat, knock, pinch"|下|下|xià |file:///android_asset/counter.png
-181|Counters|chunk/piece/cube;  EX: piece of cake|塊|块|kuài |file:///android_asset/counter.png
-182|Counters|class period|節|节|jié |file:///android_asset/counter.png
-183|Counters|class period|堂|堂|táng |file:///android_asset/counter.png
-184|Counters|day|天|天|tiān |file:///android_asset/counter.png
-185|Counters|"flat object; EX: paper, photo, bed"|張|张|zhāng |file:///android_asset/counter.png
-186|Counters|from beginning to end|遍|遍|biàn |file:///android_asset/counter.png
-187|Counters|hour|小時|小时|xiǎo shí |file:///android_asset/counter.png
-188|Counters|"in bound form;  EX: books, magazine"|本|本|běn |file:///android_asset/counter.png
-189|Counters|"institution/building;  EX: school, hospital"|所|所|suǒ |file:///android_asset/counter.png
-190|Counters|lesson|课|课|kè |file:///android_asset/counter.png
-191|Counters|"limited actions: heat, scold, heat up "|顿|顿|dùn |file:///android_asset/counter.png
-192|Counters|minute|分鐘|分钟|fēn zhōng |file:///android_asset/counter.png
-193|Counters|object usually in pair;  EX: earrings|副|副|fù |file:///android_asset/counter.png
-194|Counters|"object with handle;  EX: umbrella, knife"|把|把|bǎ |file:///android_asset/counter.png
-195|Counters|"piece of clothing;  EX: shirt, coat"|件|件|jiàn |file:///android_asset/counter.png
-196|Counters|"piece of writing;  EX: article, paper"|篇|篇|piān |file:///android_asset/counter.png
-197|Counters|repeatable action ( more informal) |回|回|huí |file:///android_asset/counter.png
-198|Counters|"reputable action;  EX: go, discuss, say "|次|次|cì |file:///android_asset/counter.png
-199|Counters|"room;  EX: classroom, restroom "|間|间|jiān |file:///android_asset/counter.png
-200|Counters|second|秒鐘|秒钟|miǎo zhōng |file:///android_asset/counter.png
-201|Counters|"stick-like object; EX: pen, ruler"|枝|枝|zhī |file:///android_asset/counter.png
-202|Counters|"strip of object;  EX: belt, fish, river"|條|条|tiáo |file:///android_asset/counter.png
-203|Counters|"vehicle;  EX: car, bus, truck "|辆|辆|liàng |file:///android_asset/counter.png
-204|Counters|week|星期|星期|xīng qī |file:///android_asset/counter.png
-205|Counters|year|年|年|nián |file:///android_asset/counter.png
-206|Directions & Taxi|Close the window|關上窗戶|关上窗户|Guān  shang chuāng  hù |file:///android_asset/taxi.png
-207|Directions & Taxi|Don’t smoke|請忽抽煙|请忽抽烟|Qǐng  wù  chōu  yān |file:///android_asset/taxi.png
-208|Directions & Taxi|Don’t stop the meter|繼續打表|继续打表|Jì  xù  dá  biǎo |file:///android_asset/taxi.png
-209|Directions & Taxi|Drive carefully|開車小心點兒|开车小心点儿|Kāi  chē  xiǎo  xīn  diǎn  er|file:///android_asset/taxi.png
-210|Directions & Taxi|Go east|往東走|往东走|Wǎng  dōng  zǒu |file:///android_asset/taxi.png
-211|Directions & Taxi|Go north|往北走|往北走|Wǎng  bēi  zǒu |file:///android_asset/taxi.png
-212|Directions & Taxi|Go south|往南走|往南走|Wǎng  nān  zǒu |file:///android_asset/taxi.png
-213|Directions & Taxi|Go straight|直走|直走|Zhí  zǒu |file:///android_asset/taxi.png
-214|Directions & Taxi|Go west|往西走|往西走|Wǎng  xī  zǒu |file:///android_asset/taxi.png
-215|Directions & Taxi|How far is ...|有多遠…|有多远…|Yǒu  duō  yuǎn |file:///android_asset/taxi.png
-216|Directions & Taxi|How long will it take to get to ...|去…用多長時間|去...用多长时间|Qù  ... yòng  duō  cháng  shí  jiān |file:///android_asset/taxi.png
-217|Directions & Taxi|Open the window|開開窗戶|开开窗户|Kāi  kāi  chuāng  hù |file:///android_asset/taxi.png
-218|Directions & Taxi|Pick my friend up|接下我朋友|接下我朋友|Jiē  xià  wǒ  péng  yǒu |file:///android_asset/taxi.png
-219|Directions & Taxi|Please wait|稍等|稍等|Shāo  děng |file:///android_asset/taxi.png
-220|Directions & Taxi|Receipt|發票|发票|Fā  piào |file:///android_asset/taxi.png
-221|Directions & Taxi|Stop|停車|停车|Tíng  chē |file:///android_asset/taxi.png
-222|Directions & Taxi|Straight ahead|一直走|一直走|Yì  zhí  zhǒu |file:///android_asset/taxi.png
-223|Directions & Taxi|Take me to airport|去機場|去机场|Qù  jī  chǎng |file:///android_asset/taxi.png
-224|Directions & Taxi|Take me to nearest subway station|去最近的地鐵站|去最近的地铁站|Qù  zuì  jīn  de dì  tiě  zhàn |file:///android_asset/taxi.png
-225|Directions & Taxi|Thank you|謝謝你|谢谢你|Xiē  xiē  nǐ |file:///android_asset/taxi.png
-226|Directions & Taxi|Turn left|左轉|左转|Zuó  zhuǎn |file:///android_asset/taxi.png
-227|Directions & Taxi|Turn off the heating|關上暖氣|关上暖气|Guān  shàng  nuǎn  qī |file:///android_asset/taxi.png
-228|Directions & Taxi|Turn on the air-conditioning|開空調|开空调|Kāi  kōng  tiáo |file:///android_asset/taxi.png
-229|Directions & Taxi|Turn on the heating|開暖氣|开暖气|Kāi  kāi  nuǎn  qì |file:///android_asset/taxi.png
-230|Directions & Taxi|Turn right|右轉|右转|Yòu  zhuǎn |file:///android_asset/taxi.png
-231|Directions & Taxi|Turn-off the air-conditioning|把空調關了|把空调关了|Bǎ  kōng  tiáo  guān  le|file:///android_asset/taxi.png
-232|Directions & Taxi|Use the meter|打表|打表|Dá  biǎo |file:///android_asset/taxi.png
-233|Directions & Taxi|We’ve arrived|到了|到了|Dào  le|file:///android_asset/taxi.png
-234|Directions & Taxi|Where is ...|...在哪兒|…在哪儿|... zài  nǎ  er?|file:///android_asset/taxi.png
-235|Everyday Activities|brush teeth|刷牙|刷牙|shuā yá |file:///android_asset/everyday.png
-236|Everyday Activities|cook|做飯|做饭|zuò fàn |file:///android_asset/everyday.png
-237|Everyday Activities|do laundry |洗衣服|洗衣服|xǐ yī fú |file:///android_asset/everyday.png
-238|Everyday Activities|drive a car|開車|开车|kāi chē |file:///android_asset/everyday.png
-239|Everyday Activities|eat a meal|吃飯|吃饭|chī fàn |file:///android_asset/everyday.png
-240|Everyday Activities|get dressed|穿衣服|穿衣服|chuān yī fú |file:///android_asset/everyday.png
-241|Everyday Activities|get up|起床|起床|qǐ chuáng |file:///android_asset/everyday.png
-242|Everyday Activities|go to school|上学|上学|shàng xué |file:///android_asset/everyday.png
-243|Everyday Activities|go to the bathroom|上廁所|上厕所|shàng cè suǒ |file:///android_asset/everyday.png
-244|Everyday Activities|go to work |上班|上班|shàng bān |file:///android_asset/everyday.png
-245|Everyday Activities|ride a bicycle|騎自行車|骑自行车|qí zì xíng chē |file:///android_asset/everyday.png
-246|Everyday Activities|shower/bathe|洗澡|洗澡|xǐ zǎo |file:///android_asset/everyday.png
-247|Everyday Activities|sleep|睡觉|睡觉|shuì jué |file:///android_asset/everyday.png
-248|Everyday Activities|wash face|洗臉|洗脸|xǐ liǎn |file:///android_asset/everyday.png
-249|Food Basics|American food|美國菜|美国菜|měi guó cài |file:///android_asset/foodbasics.png
-250|Food Basics|bread|面包|面包|miàn bāo |file:///android_asset/foodbasics.png
-251|Food Basics|breakfast|早點早飯|早点早饭|zǎo diǎn zǎo fàn |file:///android_asset/foodbasics.png
-252|Food Basics|burger|漢堡/包漢堡|汉堡/包汉堡|hàn bǎo / bāo hàn bǎo |file:///android_asset/foodbasics.png
-253|Food Basics|butter|黃油/奶油|黄油/奶油|huáng yóu / nǎi yóu |file:///android_asset/foodbasics.png
-254|Food Basics|cake|蛋糕|蛋糕|dàn gāo |file:///android_asset/foodbasics.png
-255|Food Basics|candy|糖果|糖果|táng guǒ |file:///android_asset/foodbasics.png
-256|Food Basics|cheese|奶酪/起司|奶酪/起司|nǎi lào / qǐ sī |file:///android_asset/foodbasics.png
-257|Food Basics|Chinese food|中國菜|中国菜|zhōng guó cài |file:///android_asset/foodbasics.png
-258|Food Basics|chocolate|巧克力|巧克力|qiǎo kè lì |file:///android_asset/foodbasics.png
-259|Food Basics|cooked rice|飯/米飯|饭/米饭|fàn / mǐ fàn |file:///android_asset/foodbasics.png
-260|Food Basics|cookie/cracker|餅干|饼干|bǐng gān |file:///android_asset/foodbasics.png
-261|Food Basics|dessert|甜點|甜点|tián diǎn |file:///android_asset/foodbasics.png
-262|Food Basics|dinner|晚飯|晚饭|wǎn fàn |file:///android_asset/foodbasics.png
-263|Food Basics|dumpling|餃子/水餃|饺子/水饺|jiǎo zǐ / shuǐ jiǎo |file:///android_asset/foodbasics.png
-264|Food Basics|food (formal)|食品/食物|食品/食物|shí pǐn / shí wù |file:///android_asset/foodbasics.png
-265|Food Basics|"food (informal, ""thing"")"|東西|东西|dōng xī |file:///android_asset/foodbasics.png
-266|Food Basics|French fries|炸薯條|炸薯条|zhà shǔ tiáo |file:///android_asset/foodbasics.png
-267|Food Basics|fruit|水果|水果|shuǐ guǒ |file:///android_asset/foodbasics.png
-268|Food Basics|hot dog|熱狗|热狗|rè gǒu |file:///android_asset/foodbasics.png
-269|Food Basics|hot pot|火鍋|火锅|huǒ guō |file:///android_asset/foodbasics.png
-270|Food Basics|ice cream|冰淇淋|冰淇淋|bīng qí lín |file:///android_asset/foodbasics.png
-271|Food Basics|lunch|中飯|中饭|zhōng fàn |file:///android_asset/foodbasics.png
-272|Food Basics|noodle |面/面條|面/面条|miàn / miàn tiáo |file:///android_asset/foodbasics.png
-273|Food Basics|salad|沙拉|沙拉|shā lā |file:///android_asset/foodbasics.png
-274|Food Basics|sandwich|三明治|三明治|sān míng zhì |file:///android_asset/foodbasics.png
-275|Food Basics|snack|點心|点心|diǎn xīn |file:///android_asset/foodbasics.png
-276|Food Basics|soup|湯|汤|tāng |file:///android_asset/foodbasics.png
-277|Food Basics|Szechwan cuisine|四川菜|四川菜|sì chuān cài |file:///android_asset/foodbasics.png
-278|Food Basics|vegetable|蔬菜|蔬菜|shū cài |file:///android_asset/foodbasics.png
-279|Food Basics|wonton|餛飩|馄饨|hún tún |file:///android_asset/foodbasics.png
-280|Grocery - Dairy|Butter|黃油|黄油|Huáng  yóu |file:///android_asset/dairy.png
-281|Grocery - Dairy|Cheese|奶酪|奶酪|Nǎi  lào |file:///android_asset/dairy.png
-282|Grocery - Dairy|Cream|奶油|奶油|Nǎi  yóu |file:///android_asset/dairy.png
-283|Grocery - Dairy|Fresh cream|鮮奶油|鲜奶油|Xiān  nǎi  yóu |file:///android_asset/dairy.png
-284|Grocery - Dairy|Fresh milk|鮮奶|鲜奶|Xiān  nǎi |file:///android_asset/dairy.png
-285|Grocery - Dairy|Ice cream|冰激凌|冰激凌|Bīng  jì  líng |file:///android_asset/dairy.png
-286|Grocery - Dairy|Low fat milk|脫脂奶|脱脂奶|Tuō  zhī  nǎi |file:///android_asset/dairy.png
-287|Grocery - Dairy|Organic milk|有機奶|有机奶|Yǒu  jī  nǎi |file:///android_asset/dairy.png
-288|Grocery - Dairy|Organic yoghurt|有機酸奶|有机酸奶|Yǒu  jī  suān  nǎi |file:///android_asset/dairy.png
-289|Grocery - Dairy|Soya Milk|豆奶|豆奶|Dòu  nǎi |file:///android_asset/dairy.png
-290|Grocery - Dairy|Yoghurt|酸奶|酸奶|Suān  nāi |file:///android_asset/dairy.png
-291|Grocery - Dry goods|Baking soda|發酵粉|发酵粉|Fā  jiào  fen|file:///android_asset/drygoods.png
-292|Grocery - Dry goods|Brown rice|黑米|黑米|Hēi  mǐ |file:///android_asset/drygoods.png
-293|Grocery - Dry goods|Brown sugar|紅糖|红糖|Hóng  táng |file:///android_asset/drygoods.png
-294|Grocery - Dry goods|Corn starch|玉米澱粉|玉米淀粉|yù  mǐ  dian fěn|file:///android_asset/drygoods.png
-295|Grocery - Dry goods|Egg noodles|雞蛋麵條|鸡蛋面条|Jī  dān  miàn  tiáo |file:///android_asset/drygoods.png
-296|Grocery - Dry goods|Flour|麵粉|面粉|miàn  fěn |file:///android_asset/drygoods.png
-297|Grocery - Dry goods|Jasmine rice|香米|香米|Xiāng  mǐ |file:///android_asset/drygoods.png
-298|Grocery - Dry goods|Kidney beans|奶花芸豆|奶花芸豆|Nǎi  huà  yūn  dòu |file:///android_asset/drygoods.png
-299|Grocery - Dry goods|Oats|燕麥|燕麦|Yàn  māi |file:///android_asset/drygoods.png
-300|Grocery - Dry goods|Organic rice|有機米|有机米|Yǒu  jī  mī |file:///android_asset/drygoods.png
-301|Grocery - Dry goods|Pasta|意大利麵|意大利面|Yì  dà  li miàn |file:///android_asset/drygoods.png
-302|Grocery - Dry goods|Rice|米|米|Mǐ |file:///android_asset/drygoods.png
-303|Grocery - Dry goods|Rice noodles|米粉|米粉|Mí  fěn |file:///android_asset/drygoods.png
-304|Grocery - Dry goods|Salt|鹽|盐|Yán |file:///android_asset/drygoods.png
-305|Grocery - Dry goods|Sugar|糖|糖|Táng |file:///android_asset/drygoods.png
-306|Grocery - Dry goods|Whole wheat|全麥|全麦|Quán  mài |file:///android_asset/drygoods.png
-307|Grocery - Fish & Meat|Bacon|培根|培根|Péi  gēn |file:///android_asset/fishmeat.png
-308|Grocery - Fish & Meat|Beef|牛肉|牛肉|Niú  ròu |file:///android_asset/fishmeat.png
-309|Grocery - Fish & Meat|Beef and mutton|牛羊肉|牛羊肉|Niú  yáng  ròu |file:///android_asset/fishmeat.png
-310|Grocery - Fish & Meat|Beef minced|牛肉餡|牛肉馅|Niú  ròu  xiān |file:///android_asset/fishmeat.png
-311|Grocery - Fish & Meat|Beef steak|牛排|牛排|Niú  pái |file:///android_asset/fishmeat.png
-312|Grocery - Fish & Meat|Chicken|雞肉|鸡肉|Jī  ròu |file:///android_asset/fishmeat.png
-313|Grocery - Fish & Meat|Chicken breast|雞胸肉|鸡胸肉|Jī  xiōng  rōu |file:///android_asset/fishmeat.png
-314|Grocery - Fish & Meat|Cod|鲑魚|鲑鱼|Guī  yú |file:///android_asset/fishmeat.png
-315|Grocery - Fish & Meat|crab|螃蟹|螃蟹|páng xiè |file:///android_asset/fishmeat.png
-316|Grocery - Fish & Meat|duck|鴨/鴨肉|鸭/鸭肉|yā / yā ròu |file:///android_asset/fishmeat.png
-317|Grocery - Fish & Meat|egg (from a chicken)|雞蛋|鸡蛋|jī dàn |file:///android_asset/fishmeat.png
-318|Grocery - Fish & Meat|Fish|魚|鱼|Yú |file:///android_asset/fishmeat.png
-319|Grocery - Fish & Meat|Ham|火腿|火腿|Huó  tuǐ |file:///android_asset/fishmeat.png
-320|Grocery - Fish & Meat|Lamb|羊肉|羊肉|Yáng  ròu |file:///android_asset/fishmeat.png
-321|Grocery - Fish & Meat|Lamb leg|羊排|羊排|Yáng  pái |file:///android_asset/fishmeat.png
-322|Grocery - Fish & Meat|Lean meat|里脊|里脊|Lǐ  ji|file:///android_asset/fishmeat.png
-323|Grocery - Fish & Meat|lobster|龍蝦|龙虾|lóng xiā |file:///android_asset/fishmeat.png
-324|Grocery - Fish & Meat|meat|肉|肉|ròu |file:///android_asset/fishmeat.png
-325|Grocery - Fish & Meat|mutton|羊肉|羊肉|yáng ròu |file:///android_asset/fishmeat.png
-326|Grocery - Fish & Meat|Peking duck|北京烤鴨|北京烤鸭|běi jīng kǎo yā |file:///android_asset/fishmeat.png
-327|Grocery - Fish & Meat|Pork|豬肉|猪肉|Zhū  ròu |file:///android_asset/fishmeat.png
-328|Grocery - Fish & Meat|Salami|色拉米|色拉米|Sè  lā  mǐ |file:///android_asset/fishmeat.png
-329|Grocery - Fish & Meat|Salmon|三文魚|三文鱼|Sān  wén  yú |file:///android_asset/fishmeat.png
-330|Grocery - Fish & Meat|Sausages|香腸|香肠|Xiāng  cháng |file:///android_asset/fishmeat.png
-331|Grocery - Fish & Meat|seafood|海產/海鮮|海产/海鲜|hǎi chǎn / hǎi xiān |file:///android_asset/fishmeat.png
-332|Grocery - Fish & Meat|shrimp|蝦|虾|xiā |file:///android_asset/fishmeat.png
-333|Grocery - Fish & Meat|squid|魷魚|鱿鱼|yóu yú |file:///android_asset/fishmeat.png
-334|Grocery - Fruits|Apple|蘋果|苹果|Píng  guǒ |file:///android_asset/fruits.png
-335|Grocery - Fruits|Avocado|鱷梨|鳄梨|È  lí |file:///android_asset/fruits.png
-336|Grocery - Fruits|banana|香蕉|香蕉|xiāng jiāo |file:///android_asset/fruits.png
-337|Grocery - Fruits|fruit juice|水果|水果|shuǐ guǒ |file:///android_asset/fruits.png
-338|Grocery - Fruits|grape|葡萄|葡萄|pú táo |file:///android_asset/fruits.png
-339|Grocery - Fruits|Grapes|葡萄|葡萄|Pú  táo |file:///android_asset/fruits.png
-340|Grocery - Fruits|Grapes - seedless|無籽葡萄|无籽葡萄|Wú  zǐ  pú  táo |file:///android_asset/fruits.png
-341|Grocery - Fruits|Honey melon|蜜瓜|蜜瓜|Mì  guā |file:///android_asset/fruits.png
-342|Grocery - Fruits|"lemon, lime"|檸檬|柠檬|níng méng |file:///android_asset/fruits.png
-343|Grocery - Fruits|lychee|荔枝|荔枝|lì zhī |file:///android_asset/fruits.png
-344|Grocery - Fruits|mango|芒果|芒果|máng guǒ |file:///android_asset/fruits.png
-345|Grocery - Fruits|Orange|橙子|橙子|Chéng  zi|file:///android_asset/fruits.png
-346|Grocery - Fruits|peach|桃兒/桃子|桃儿/桃子|táo ér / táo zǐ |file:///android_asset/fruits.png
-347|Grocery - Fruits|Pear|梨|梨|Lí |file:///android_asset/fruits.png
-348|Grocery - Fruits|Persimmon|柿子|柿子|Shì  zi|file:///android_asset/fruits.png
-349|Grocery - Fruits|pineapple|菠蘿/鳳梨|菠萝/凤梨|bō luó / fèng lí |file:///android_asset/fruits.png
-350|Grocery - Fruits|plumber and electrician|李子|李子|lǐ zǐ |file:///android_asset/fruits.png
-351|Grocery - Fruits|Ripe|熟了|熟了|Shú  le|file:///android_asset/fruits.png
-352|Grocery - Fruits|Sour (taste)|酸的|酸的|Suān  de|file:///android_asset/fruits.png
-353|Grocery - Fruits|star fruit|楊桃|杨桃|yáng táo |file:///android_asset/fruits.png
-354|Grocery - Fruits|strawberry|草莓|草莓|cǎo méi |file:///android_asset/fruits.png
-355|Grocery - Fruits|Sweet (taste)|甜的|甜的|Tián  de|file:///android_asset/fruits.png
-356|Grocery - Fruits|tangerine|橘子|橘子|jú zǐ |file:///android_asset/fruits.png
-357|Grocery - Fruits|Watermelon|西瓜|西瓜|Xī  guā |file:///android_asset/fruits.png
-358|Grocery - Spices & Preserves|Band aid/Plaster|繃帶/創可貼|绷带/创可贴|Bēng  dài / Chuàng  kě  tiē |file:///android_asset/spices.png
-359|Grocery - Spices & Preserves|Basil|羅勒|罗勒|Luó  lè |file:///android_asset/spices.png
-360|Grocery - Spices & Preserves|Bay leaf|月桂樹葉|月桂树叶|Yuè  guì  shù  yè |file:///android_asset/spices.png
-361|Grocery - Spices & Preserves|cooking oil|油|油|yóu |file:///android_asset/spices.png
-362|Grocery - Spices & Preserves|cooking wine|料酒|料酒|liào jiǔ |file:///android_asset/spices.png
-363|Grocery - Spices & Preserves|Corn oil|玉米油|玉米油|Yù  mǐ  yóu |file:///android_asset/spices.png
-364|Grocery - Spices & Preserves|Garlic powder|蒜粉|蒜粉|Suān  fěn |file:///android_asset/spices.png
-365|Grocery - Spices & Preserves|Honey|蜂蜜|蜂蜜|Fēng  mì |file:///android_asset/spices.png
-366|Grocery - Spices & Preserves|Jam|果醬|果酱|Guǒ  jiàng |file:///android_asset/spices.png
-367|Grocery - Spices & Preserves|MSG|味精|味精|wèi jīng |file:///android_asset/spices.png
-368|Grocery - Spices & Preserves|Olive oil|橄欖油|橄榄油|Gān  lān  yóu |file:///android_asset/spices.png
-369|Grocery - Spices & Preserves|Oregano|小葉薄荷|小叶薄荷|Xiǎo  yè  bó  hé |file:///android_asset/spices.png
-370|Grocery - Spices & Preserves|Oyster sauce|耗油|耗油|Háo  yóu |file:///android_asset/spices.png
-371|Grocery - Spices & Preserves|Paprika|紅燈籠辣椒|红灯笼辣椒|Hóng  dēng  lōng  là  jiāo |file:///android_asset/spices.png
-372|Grocery - Spices & Preserves|Pepper - black|黑胡椒粉|黑胡椒粉|Hēi  hú  jiāo  fěn |file:///android_asset/spices.png
-373|Grocery - Spices & Preserves|Pepper - white|白胡椒粉|白胡椒粉|Bái  hú  jiāo  fěn |file:///android_asset/spices.png
-374|Grocery - Spices & Preserves|salt|鹽|盐|yán |file:///android_asset/spices.png
-375|Grocery - Spices & Preserves|seasoning|佐料|佐料|zuǒ liào |file:///android_asset/spices.png
-376|Grocery - Spices & Preserves|Sesame sauce|芝麻醬|芝麻酱|Zhī  má  jiàng |file:///android_asset/spices.png
-377|Grocery - Spices & Preserves|Soy sauce|醬油|酱油|Jiàng  yóu |file:///android_asset/spices.png
-378|Grocery - Spices & Preserves|Sugar|糖|糖|Táng |file:///android_asset/spices.png
-379|Grocery - Spices & Preserves|Tomato sauce|番茄醬|番茄酱|Fān  qié  jiàng |file:///android_asset/spices.png
-380|Grocery - Spices & Preserves|Vanilla|香草|香草|Xiāng  cǎo |file:///android_asset/spices.png
-381|Grocery - Spices & Preserves|Vanilla stick|香草枝|香草枝|Xiāng  cǎo  zhī |file:///android_asset/spices.png
-382|Grocery - Spices & Preserves|vinegar|醋|醋|cù |file:///android_asset/spices.png
-383|Grocery - Useful|Baking paper|燒烤紙|烧烤纸|Shāo  kǎo  zhǐ |file:///android_asset/grocery.png
-384|Grocery - Useful|Can I pay with a foreign credit card|我可以用國外的信用卡支付嗎|我可以用国外的信用卡支付吗|Wǒ  ké  yí  yòng  guó  wài  de xìn  yòng  kǎ  zhī  fù  ma|file:///android_asset/grocery.png
-385|Grocery - Useful|Cling wrap|保鮮膜|保鲜膜|Bǎo  xiān  mó |file:///android_asset/grocery.png
-386|Grocery - Useful|Large garbage bag|大垃圾袋|大垃圾袋|Dà  lā  jī  dài |file:///android_asset/grocery.png
-387|Grocery - Useful|No plastic bag|沒有塑料袋|没有塑料袋|Méi  yǒu  sù  liào  dà i|file:///android_asset/grocery.png
-388|Grocery - Useful|Plastic bag|塑料袋|塑料袋|Sù  liào  dài |file:///android_asset/grocery.png
-389|Grocery - Useful|Receipt|發票|发票|Fā  piào |file:///android_asset/grocery.png
-390|Grocery - Vegetables|All sorts of feelings well up in one’s heart.|百感交集|百感交集|Bái  gǎn  jiāo  jí |file:///android_asset/vegetables.png
-391|Grocery - Vegetables|bakchoi|小白菜|小白菜|xiǎo bái cài |file:///android_asset/vegetables.png
-392|Grocery - Vegetables|bean curd/tofu|豆腐|豆腐|dòu fǔ |file:///android_asset/vegetables.png
-393|Grocery - Vegetables|Broccoli|西蘭花|西兰花|Xī  lán  huā |file:///android_asset/vegetables.png
-394|Grocery - Vegetables|Cabbage|圓白菜|圆白菜|Yuán  bái  cài |file:///android_asset/vegetables.png
-395|Grocery - Vegetables|Carrot|胡蘿蔔|胡萝卜|Hú  luó  bó |file:///android_asset/vegetables.png
-396|Grocery - Vegetables|Cherry tomato|小番茄|小番茄|Xiǎo  fān  qié |file:///android_asset/vegetables.png
-397|Grocery - Vegetables|Chinese cabbage/Napa cabbage|大白菜|大白菜|dà bái cài |file:///android_asset/vegetables.png
-398|Grocery - Vegetables|Corn|玉米油|玉米|Yù  mǐ |file:///android_asset/vegetables.png
-399|Grocery - Vegetables|cucumber|黃瓜|黄瓜|huáng guā |file:///android_asset/vegetables.png
-400|Grocery - Vegetables|Egg plant|茄子|茄子|Qié  zī |file:///android_asset/vegetables.png
-401|Grocery - Vegetables|French beans|荷蘭豆|荷兰豆|Hé  lán  dòu |file:///android_asset/vegetables.png
-402|Grocery - Vegetables|Garlic|蒜|蒜|Suàn |file:///android_asset/vegetables.png
-403|Grocery - Vegetables|garlic|蒜|蒜|suàn |file:///android_asset/vegetables.png
-404|Grocery - Vegetables|ginger|姜|姜|jiāng |file:///android_asset/vegetables.png
-405|Grocery - Vegetables|green pepper|青椒|青椒|qīng jiāo |file:///android_asset/vegetables.png
-406|Grocery - Vegetables|green vegetable|青菜|青菜|qīng cài |file:///android_asset/vegetables.png
-407|Grocery - Vegetables|hot pepper|辣椒|辣椒|là jiāo |file:///android_asset/vegetables.png
-408|Grocery - Vegetables|Kailan|芥蘭|芥兰|Jiè  lán |file:///android_asset/vegetables.png
-409|Grocery - Vegetables|Leak|大蔥|大葱|Dà  cōng |file:///android_asset/vegetables.png
-410|Grocery - Vegetables|Lettuce|生菜|生菜|Shēng  cài |file:///android_asset/vegetables.png
-411|Grocery - Vegetables|Long beans|長豆角|长豆角|Cháng  dòu  jiǎo |file:///android_asset/vegetables.png
-412|Grocery - Vegetables|Mushroom|蘑菇|蘑菇|Mó  gū |file:///android_asset/vegetables.png
-413|Grocery - Vegetables|Onion|洋蔥|洋葱|Yáng  cōng |file:///android_asset/vegetables.png
-414|Grocery - Vegetables|potato|土豆兒/馬鈴薯|土豆儿/马铃薯|tǔ dòu ér / mǎ líng shǔ |file:///android_asset/vegetables.png
-415|Grocery - Vegetables|radish|蘿卜|萝卜|luó bǔ |file:///android_asset/vegetables.png
-416|Grocery - Vegetables|scallion|蔥|葱|cōng |file:///android_asset/vegetables.png
-417|Grocery - Vegetables|Spinach|菠菜|菠菜|Bō  cài |file:///android_asset/vegetables.png
-418|Grocery - Vegetables|Spring onion|小蔥|小葱|Xiǎo  cōng |file:///android_asset/vegetables.png
-419|Grocery - Vegetables|Squash|西葫蘆|西葫芦|Xī  hú  lú |file:///android_asset/vegetables.png
-420|Grocery - Vegetables|string bean|四季豆/豆角|四季豆/豆角|sì jì dòu / dòu jiǎo |file:///android_asset/vegetables.png
-421|Grocery - Vegetables|tomato|西紅柿/番茄|西红柿/番茄|xī hóng shì / fān qié |file:///android_asset/vegetables.png
-422|Grocery - Vegetables|Yam/Tarot|番薯|番薯|Fān  shú |file:///android_asset/vegetables.png
-423|House|air conditioning |空调/冷气|空调/冷气|kōng diào / lěng qì |file:///android_asset/house.png
-424|House|apartment|公寓|公寓|gōng yù |file:///android_asset/house.png
-425|House|basement|地下室|地下室|dì xià shì |file:///android_asset/house.png
-426|House|door|門|门|mén |file:///android_asset/house.png
-427|House|electric light|電燈|电灯|diàn dēng |file:///android_asset/house.png
-428|House|floor/storey|樓/層|楼/层|lóu / céng |file:///android_asset/house.png
-429|House|heat|暖氣|暖气|nuǎn qì |file:///android_asset/house.png
-430|House|home|家|家|jiā |file:///android_asset/house.png
-431|House|house|房子|房子|fáng zǐ |file:///android_asset/house.png
-432|House|stairs|樓梯|楼梯|lóu tī |file:///android_asset/house.png
-433|House|wall|墻|墙|qiáng |file:///android_asset/house.png
-434|House|window|窗户|窗户|chuāng hù |file:///android_asset/house.png
-435|House|yard|院子|院子|yuàn zǐ |file:///android_asset/house.png
-436|House - Bathroom |Aluminum foil|錫紙|锡纸|Xì  zhǐ |file:///android_asset/bathroom.png
-437|House - Bathroom |bath tub|浴缸|浴缸/澡盆|yù gāng|file:///android_asset/bathroom.png
-438|House - Bathroom |bathroom tissue|手纸|手纸/卫生纸|shǒu zhǐ|file:///android_asset/bathroom.png
-439|House - Bathroom |bathroom |廁所|厕所/浴室|cè suǒ|file:///android_asset/bathroom.png
-440|House - Bathroom |comb/hairbrush|梳子|梳子|shū zǐ |file:///android_asset/bathroom.png
-441|House - Bathroom |Conditioner|護髮素|护发素|Hù  fǎ  sù |file:///android_asset/bathroom.png
-442|House - Bathroom |Diapers|尿不濕|尿不湿|Niào  bù  shī |file:///android_asset/bathroom.png
-443|House - Bathroom |dryer|干衣機|干衣机|gān yī jī |file:///android_asset/bathroom.png
-444|House - Bathroom |faucet|水龍頭|水龙头|shuǐ lóng tóu |file:///android_asset/bathroom.png
-445|House - Bathroom |Lotion|護膚油|护肤油|Hù  fū  yóu |file:///android_asset/bathroom.png
-446|House - Bathroom |mirror |鏡子|镜子|jìng zǐ |file:///android_asset/bathroom.png
-447|House - Bathroom |perfumed soap|香皂|香皂|xiāng zào |file:///android_asset/bathroom.png
-448|House - Bathroom |Sanitary pad|衛生巾|卫生巾|Wèi  shēng  jīn |file:///android_asset/bathroom.png
-449|House - Bathroom |Shampoo|香波|香波|Xiāng  bō |file:///android_asset/bathroom.png
-450|House - Bathroom |Shaving blade|刮鬍刀|刮胡刀|Guā  hú  dāo |file:///android_asset/bathroom.png
-451|House - Bathroom |Shoe polish|鞋油|鞋油|Xié  yóu |file:///android_asset/bathroom.png
-452|House - Bathroom |sink/washbasin|洗臉池|洗脸池|xǐ liǎn chí |file:///android_asset/bathroom.png
-453|House - Bathroom |tissue |面紙|面纸|miàn zhǐ |file:///android_asset/bathroom.png
-454|House - Bathroom |toilet|馬桶|马桶|mǎ tǒng |file:///android_asset/bathroom.png
-455|House - Bathroom |Toothbrush|牙刷|牙刷|Yá  shuā |file:///android_asset/bathroom.png
-456|House - Bathroom |Toothpaste|牙膏|牙膏|Yá  gāo |file:///android_asset/bathroom.png
-457|House - Bathroom |towel|毛巾|毛巾|máo jīn |file:///android_asset/bathroom.png
-458|House - Bathroom |washer|洗衣機|洗衣机|xǐ yī jī |file:///android_asset/bathroom.png
-459|House - Bedroom|alarm clock|鬧鐘|闹钟|nào zhōng |file:///android_asset/bedroom.png
-460|House - Bedroom|bed|床|床|chuáng |file:///android_asset/bedroom.png
-461|House - Bedroom|bed sheet|床單|床单|chuáng dān |file:///android_asset/bedroom.png
-462|House - Bedroom|bedroom|卧室|卧室|wò shì |file:///android_asset/bedroom.png
-463|House - Bedroom|blanket|毯子|毯子|tǎn zǐ |file:///android_asset/bedroom.png
-464|House - Bedroom|comforter |被子|被子|bèi zǐ |file:///android_asset/bedroom.png
-465|House - Bedroom|pajama|睡衣|睡衣|shuì yī |file:///android_asset/bedroom.png
-466|House - Bedroom|pillow|枕頭|枕头|zhěn tóu |file:///android_asset/bedroom.png
-467|House - Bedroom|wardrobe|衣櫃|衣柜|yī guì |file:///android_asset/bedroom.png
-468|House - Dining room|bowl|碗|碗|wǎn |file:///android_asset/housedining.png
-469|House - Dining room|chair|椅子|椅子|yǐ zǐ |file:///android_asset/housedining.png
-470|House - Dining room|chopsticks|筷子|筷子|kuài zǐ |file:///android_asset/housedining.png
-471|House - Dining room|cup|杯子|杯子|bēi zǐ |file:///android_asset/housedining.png
-472|House - Dining room|dining room|飯廳|饭厅|fàn tīng |file:///android_asset/housedining.png
-473|House - Dining room|dining table|飯桌|饭桌|fàn zhuō |file:///android_asset/housedining.png
-474|House - Dining room|napkin|餐巾|餐巾|cān jīn |file:///android_asset/housedining.png
-475|House - Dining room|plate|盤子|盘子|pán zǐ |file:///android_asset/housedining.png
-476|House - Kitchen|coffee maker|咖啡壶|咖啡壶|kā fēi hú |file:///android_asset/kitchen.png
-477|House - Kitchen|kitchen knife|菜刀|菜刀|cài dāo |file:///android_asset/kitchen.png
-478|House - Kitchen|kitchen |厨房|厨房|chú fáng |file:///android_asset/kitchen.png
-479|House - Kitchen|microwave|微波爐|微波炉|wēi bō lú |file:///android_asset/kitchen.png
-480|House - Kitchen|refrigerator|電冰箱|电冰箱|diàn bīng xiāng |file:///android_asset/kitchen.png
-481|House - Kitchen|stove|爐子|炉子|lú zǐ |file:///android_asset/kitchen.png
-482|House - Kitchen|telephone|電话|电话|diàn huà |file:///android_asset/kitchen.png
-483|House - Kitchen|wok/pot|锅子|锅子|guō zǐ |file:///android_asset/kitchen.png
-484|House - Living Room|coffee table|茶几|茶几|chá jī |file:///android_asset/livingroom.png
-485|House - Living Room|living room|客廳|客厅|kè tīng |file:///android_asset/livingroom.png
-486|House - Living Room|rug/carpet|地毯|地毯|dì tǎn |file:///android_asset/livingroom.png
-487|House - Living Room|sofa|沙發|沙发|shā fā |file:///android_asset/livingroom.png
-488|House - Living Room|television|電視|电视|diàn shì |file:///android_asset/livingroom.png
-489|Job Status|benefits |福利|福利|fú lì |file:///android_asset/jobstatus.png
-490|Job Status|between jobs|待業|待业|dài yè |file:///android_asset/jobstatus.png
-491|Job Status|employed/employment |就業|就业|jiù yè |file:///android_asset/jobstatus.png
-492|Job Status|interview|面試|面试|miàn shì |file:///android_asset/jobstatus.png
-493|Job Status|pension|退休金|退休金|tuì xiū jīn |file:///android_asset/jobstatus.png
-494|Job Status|probation |試用|试用|shì yòng |file:///android_asset/jobstatus.png
-495|Job Status|raise|加薪|加薪|jiā xīn |file:///android_asset/jobstatus.png
-496|Job Status|salary deduction|减薪|减薪|jiǎn xīn |file:///android_asset/jobstatus.png
-497|Job Status|to apply for job|申请工作|申请工作|shēn qǐng gōng zuò |file:///android_asset/jobstatus.png
-498|Job Status|to demote|降级|降级|jiàng jí |file:///android_asset/jobstatus.png
-499|Job Status|to fire|解雇|解雇|jiě gù |file:///android_asset/jobstatus.png
-500|Job Status|to promote|提升|提升|tí shēng |file:///android_asset/jobstatus.png
-501|Job Status|to retire|退休|退休|tuì xiū |file:///android_asset/jobstatus.png
-502|Job Status|unemployed/to lose job|失業|失业|shī yè |file:///android_asset/jobstatus.png
-503|Money|basic unit of money|塊|块|kuài |file:///android_asset/money.png
-504|Money|cash|現金|现金|xiàn jīn |file:///android_asset/money.png
-505|Money|cent|分|分|fēn |file:///android_asset/money.png
-506|Money|Chinese currency|人民幣|人民币|rén mín bì |file:///android_asset/money.png
-507|Money|credit card|信用卡|信用卡|xìn yòng qiǎ |file:///android_asset/money.png
-508|Money|money|錢|钱|qián |file:///android_asset/money.png
-509|Money|Taiwanese currency|台幣|台币|tái bì |file:///android_asset/money.png
-510|Money|ten cents|角/毛|角/毛|jiǎo / máo |file:///android_asset/money.png
-511|Money|three Chinese yuan|三塊人民幣|三块人民币|sān kuài rén mín bì |file:///android_asset/money.png
-512|Money|three U.S. dollars|三塊美元|三块美元|sān kuài měi yuán |file:///android_asset/money.png
-513|Money|U.S. dollar|美元|美元|měi yuán |file:///android_asset/money.png
-514|Numbers|1|一|一|yī |file:///android_asset/numbers.png
-515|Numbers|2|二|二|èr |file:///android_asset/numbers.png
-516|Numbers|3|三|三|sān |file:///android_asset/numbers.png
-517|Numbers|4|四|四|sì |file:///android_asset/numbers.png
-518|Numbers|5|五|五|wǔ |file:///android_asset/numbers.png
-519|Numbers|6|六|六|liù |file:///android_asset/numbers.png
-520|Numbers|7|七|七|qī |file:///android_asset/numbers.png
-521|Numbers|8|八|八|bā |file:///android_asset/numbers.png
-522|Numbers|9|九|九|jiǔ |file:///android_asset/numbers.png
-523|Numbers|10|十|十|shí |file:///android_asset/numbers.png
-524|Numbers|11|十一|十一|shí yī |file:///android_asset/numbers.png
-525|Numbers|12|十二|十二|shí èr |file:///android_asset/numbers.png
-526|Numbers|20|二十|二十|èr shí |file:///android_asset/numbers.png
-527|Numbers|21|二十一|二十一|èr shí yī |file:///android_asset/numbers.png
-528|Numbers|22|二十二|二十二|èr shí èr |file:///android_asset/numbers.png
-529|Numbers|30|三十|三十|sān shí |file:///android_asset/numbers.png
-530|Numbers|31|三十一|三十一|sān shí yī |file:///android_asset/numbers.png
-531|Numbers|32|三十二|三十二|sān shí èr |file:///android_asset/numbers.png
-532|Numbers|40|四十|四十|sì shí |file:///android_asset/numbers.png
-533|Numbers|50|五十|五十|wǔ shí |file:///android_asset/numbers.png
-534|Numbers|60|六十|六十|liù shí |file:///android_asset/numbers.png
-535|Numbers|70|七十|七十|qī shí |file:///android_asset/numbers.png
-536|Numbers|80|八十|八十|bā shí |file:///android_asset/numbers.png
-537|Numbers|90|九十|九十|jiǔ shí |file:///android_asset/numbers.png
-538|Numbers|100|一百|一百|yī bǎi |file:///android_asset/numbers.png
-539|Numbers|101|一百零一|一百零一|yī bǎi líng yī |file:///android_asset/numbers.png
-540|Numbers|102|一百零二|一百零二|yī bǎi líng èr |file:///android_asset/numbers.png
-541|Numbers|110|一百一十|一百一十|yī bǎi yī shí |file:///android_asset/numbers.png
-542|Numbers|111|一百一十一|一百一十一|yī bǎi yī shí yī |file:///android_asset/numbers.png
-543|Numbers|112|一百一十二|一百一十二|yī bǎi yī shí èr |file:///android_asset/numbers.png
-544|Numbers|200|兩百|两百|liǎng bǎi |file:///android_asset/numbers.png
-545|Numbers|201|兩百零一|两百零一|liǎng bǎi líng yī |file:///android_asset/numbers.png
-546|Numbers|202|兩百零二|两百零二|liǎng bǎi líng èr |file:///android_asset/numbers.png
-547|Numbers|210|兩百一十|两百一十|liǎng bǎi yī shí |file:///android_asset/numbers.png
-548|Numbers|211|兩百一十一|两百一十一|liǎng bǎi yī shí yī |file:///android_asset/numbers.png
-549|Numbers|212|兩百一十二|两百一十二|liǎng bǎi yī shí èr |file:///android_asset/numbers.png
-550|Numbers|"1,000"|一千|一千|yī qiān |file:///android_asset/numbers.png
-551|Numbers|"1,001"|一千零一|一千零一|yī qiān líng yī |file:///android_asset/numbers.png
-552|Numbers|"1,011"|一千零一十一|一千零一十一|yī qiān líng yī shí yī |file:///android_asset/numbers.png
-553|Numbers|"1,100"|一千一百|一千一百|yī qiān yī bǎi |file:///android_asset/numbers.png
-554|Numbers|"1,101"|一千一百零一|一千一百零一|yī qiān yī bǎi líng yī |file:///android_asset/numbers.png
-555|Numbers|"2,000"|兩千|两千|liǎng qiān |file:///android_asset/numbers.png
-556|Numbers|"10,000"|一萬|一万|yī wàn |file:///android_asset/numbers.png
-557|Numbers|"11,111"|一萬一千一百一十一|一万一千一百一十一|yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
-558|Numbers|"20,000"|兩萬|两万|liǎng wàn |file:///android_asset/numbers.png
-559|Numbers|"100,000"|十萬|十万|shí wàn |file:///android_asset/numbers.png
-560|Numbers|"111,111"|十一萬一千一百一十一|十一万一千一百一十一|shí yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
-561|Numbers|"200,000"|二十萬|二十万|èr shí wàn |file:///android_asset/numbers.png
-562|Numbers|"1,000,000"|一百萬|一百万|yī bǎi wàn |file:///android_asset/numbers.png
-563|Numbers|"1,111,111"|一百一十一萬一千一百一十一|一百一十一万一千一百一十一|yī bǎi yī shí yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
-564|Numbers|"2,000,000"|兩百萬|两百万|liǎng bǎi wàn |file:///android_asset/numbers.png
-565|Numbers|"10,000,000"|一千萬|一千万|yī qiān wàn |file:///android_asset/numbers.png
-566|Numbers|"11,111,111"|一千一百一十一萬一千一百一十一|一千一百一十一万一千一百一十一|yī qiān yī bǎi yī shí yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
-567|Numbers|"100,000,000"|一億|一亿|yī yì |file:///android_asset/numbers.png
-568|Numbers|"111,111,111"|一億一千一百一十一萬一千一百一十一|一亿一千一百一十一万一千一百一十一|yī yì yī qiān yī bǎi yī shí yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
-569|Numbers|"1,000,000,000"|十億|十亿|shí yì |file:///android_asset/numbers.png
-570|Numbers|"1,111,111,111"|十一億一千一百一十一萬一千一百一十一|十一亿一千一百一十一万一千一百一十一|shí yī yì yī qiān yī bǎi yī shí yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
-571|Occupations|accountant |會計|会计|huì jì |file:///android_asset/occupation.png
-572|Occupations|actor/actress|演員|演员|yǎn yuán |file:///android_asset/occupation.png
-573|Occupations|artist/painter |畫家|画家|huà jiā |file:///android_asset/occupation.png
-574|Occupations|athlete|運動員|运动员|yùn dòng yuán |file:///android_asset/occupation.png
-575|Occupations|bellhop|行李員|行李员|xíng lǐ yuán |file:///android_asset/occupation.png
-576|Occupations|chef|廚師|厨师|chú shī |file:///android_asset/occupation.png
-577|Occupations|dentist|牙醫|牙医|yá yī |file:///android_asset/occupation.png
-578|Occupations|doorman|門房|门房|mén fáng |file:///android_asset/occupation.png
-579|Occupations|driver|司機|司机|sī jī |file:///android_asset/occupation.png
-580|Occupations|engineer|工程师|工程师|gōng chéng shī |file:///android_asset/occupation.png
-581|Occupations|farmer|農人|农人|nóng rén |file:///android_asset/occupation.png
-582|Occupations|government employee |公務员|公务员|gōng wù yuán |file:///android_asset/occupation.png
-583|Occupations|hairdresser|美發师|美发师|měi fā shī |file:///android_asset/occupation.png
-584|Occupations|housewife |家庭主婦|家庭主妇|jiā tíng zhǔ fù |file:///android_asset/occupation.png
-585|Occupations|janitor|清潔工|清洁工|qīng jié gōng |file:///android_asset/occupation.png
-586|Occupations|lawyer|律师|律师|lǜ shī |file:///android_asset/occupation.png
-587|Occupations|musician|音樂家|音乐家|yīn lè jiā |file:///android_asset/occupation.png
-588|Occupations|nurse|護士|护士|hù shì |file:///android_asset/occupation.png
-589|Occupations|owner of business|老板|老板|lǎo bǎn |file:///android_asset/occupation.png
-590|Occupations|physician|醫生|医生|yī shēng |file:///android_asset/occupation.png
-591|Occupations|plumber and electrician|水電匠|水电匠|shuǐ diàn jiàng |file:///android_asset/occupation.png
-592|Occupations|policeman |警察|警察|jǐng chá |file:///android_asset/occupation.png
-593|Occupations|professor|教授|教授|jiào shòu |file:///android_asset/occupation.png
-594|Occupations|programmer|程式设计师|程式设计师|chéng shì shè jì shī |file:///android_asset/occupation.png
-595|Occupations|receptionist|接待员|接待员|jiē dài yuán |file:///android_asset/occupation.png
-596|Occupations|secretary |秘書|秘书|mì shū |file:///android_asset/occupation.png
-597|Occupations|security guard|警衛|警卫|jǐng wèi |file:///android_asset/occupation.png
-598|Occupations|soldier|軍人|军人|jūn rén |file:///android_asset/occupation.png
-599|Occupations|store attendant |店員|店员|diàn yuán |file:///android_asset/occupation.png
-600|Occupations|surgeon|外科醫生|外科医生|wài kē yī shēng |file:///android_asset/occupation.png
-601|Occupations|teacher |老师|老师|lǎo shī |file:///android_asset/occupation.png
-602|Occupations|veterinarian|獸醫|兽医|shòu yī |file:///android_asset/occupation.png
-603|Occupations|waiter/waitress|服务員|服务员|fú wù yuán |file:///android_asset/occupation.png
-604|Occupations|worker|工人|工人|gōng rén |file:///android_asset/occupation.png
-605|Occupations|writer/author|作家|作家|zuò jiā |file:///android_asset/occupation.png
-606|People|advisor|指導教授|指导教授|zhǐ dǎo jiào shòu |file:///android_asset/people.png
-607|People|boyfriend|男朋友|男朋友|nán péng yǒu |file:///android_asset/people.png
-608|People|classmate|同學|同学|tóng xué |file:///android_asset/people.png
-609|People|college student|大學生|大学生|dà xué shēng |file:///android_asset/people.png
-610|People|dad/father |爸爸|爸爸|bà bà |file:///android_asset/people.png
-611|People|elementary student|小學生|小学生|xiǎo xué shēng |file:///android_asset/people.png
-612|People|father's older brother |伯伯|伯伯|bó bó |file:///android_asset/people.png
-613|People|father's sister|姑姑/姑媽|姑姑/姑妈|gū gū / gū mā |file:///android_asset/people.png
-614|People|father's younger brother|叔叔|叔叔|shū shū |file:///android_asset/people.png
-615|People|foreign student|留學生|留学生|liú xué shēng |file:///android_asset/people.png
-616|People|freshman year|一年级|一年级|yī nián jí |file:///android_asset/people.png
-617|People|friend|朋友|朋友|péng yǒu |file:///android_asset/people.png
-618|People|girlfriend|女朋友|女朋友|nǚ péng yǒu |file:///android_asset/people.png
-619|People|graduate student|研究生|研究生|yán jiū shēng |file:///android_asset/people.png
-620|People|granddaughter from daughter |外孫女|外孙女|wài sūn nǚ |file:///android_asset/people.png
-621|People|granddaughter from son|孫女|孙女|sūn nǚ |file:///android_asset/people.png
-622|People|grandson from daughter|外孫|外孙|wài sūn |file:///android_asset/people.png
-623|People|grandson from son|孫子|孙子|sūn zǐ |file:///android_asset/people.png
-624|People|high school student|高中生|高中生|gāo zhōng shēng |file:///android_asset/people.png
-625|People|husband|丈夫/先生|丈夫/先生|zhàng fū / xiān shēng |file:///android_asset/people.png
-626|People|immediate family member|家人|家人|jiā rén |file:///android_asset/people.png
-627|People|junior year|三年级|三年级|sān nián jí |file:///android_asset/people.png
-628|People|maternal grandfather|外公|外公/外祖父|wài gōng|file:///android_asset/people.png
-629|People|maternal grandmother|外婆|外婆/外祖母|wài pó |file:///android_asset/people.png
-630|People|middle school student|中學生|中学生|zhōng xué shēng |file:///android_asset/people.png
-631|People|mom/mother|媽媽|妈妈|mā mā |file:///android_asset/people.png
-632|People|mother's brother |舅舅|舅舅|jiù jiù |file:///android_asset/people.png
-633|People|mother's sister|姨媽/阿姨|姨妈/阿姨|yí mā / ā yí |file:///android_asset/people.png
-634|People|older brother|哥哥|哥哥|gē gē |file:///android_asset/people.png
-635|People|older female cousin (father's brother's side) |堂姐|堂姐|táng jiě |file:///android_asset/people.png
-636|People|older female cousin (last same different from yours) |表姐|表姐|biǎo jiě |file:///android_asset/people.png
-637|People|older male cousin (father's brother's side) |堂哥|堂哥|táng gē |file:///android_asset/people.png
-638|People|older male cousin (last name different from yours) |表哥|表哥|biǎo gē |file:///android_asset/people.png
-639|People|older sister|姐姐|姐姐|jiě jiě |file:///android_asset/people.png
-640|People|paternal grandfather |爺爺|爷爷/祖父|yé yé|file:///android_asset/people.png
-641|People|paternal grandmother |奶奶|奶奶/祖母|nǎi nǎi|file:///android_asset/people.png
-642|People|president of university |校長|校长|xiào cháng |file:///android_asset/people.png
-643|People|professor|教授|教授|jiào shòu |file:///android_asset/people.png
-644|People|relative|親戚|亲戚|qīn qī |file:///android_asset/people.png
-645|People|roommate|同屋|同屋|tóng wū |file:///android_asset/people.png
-646|People|school|學校|学校|xué xiào |file:///android_asset/people.png
-647|People|senior year|四年级|四年级|sì nián jí |file:///android_asset/people.png
-648|People|siblings|兄弟姐妹|兄弟姐妹|xiōng dì jiě mèi |file:///android_asset/people.png
-649|People|sophomore year|二年级|二年级|èr nián jí |file:///android_asset/people.png
-650|People|teacher|老师|老师|lǎo shī |file:///android_asset/people.png
-651|People|teaching assistant |助教|助教|zhù jiào |file:///android_asset/people.png
-652|People|wife|妻子|妻子/太太|qī zǐ|file:///android_asset/people.png
-653|People|younger brother|弟弟|弟弟|dì dì |file:///android_asset/people.png
-654|People|younger female cousin (last name different from yours) |表妹|表妹|biǎo mèi |file:///android_asset/people.png
-655|People|younger female cousin (father's brother's side)|堂妹|堂妹|táng mèi |file:///android_asset/people.png
-656|People|younger male cousin (father's brother's side)|堂弟|堂弟|táng dì |file:///android_asset/people.png
-657|People|younger male cousin) |表弟|表弟|biǎo dì |file:///android_asset/people.png
-658|People|younger sister (last name different from yours) |妹妹|妹妹|mèi mèi |file:///android_asset/people.png
-659|Places|auditorium|禮堂|礼堂|lǐ táng |file:///android_asset/places.png
-660|Places|bookstore|書店|书店|shū diàn |file:///android_asset/places.png
-661|Places|business school|商學院|商学院|shāng xué yuàn |file:///android_asset/places.png
-662|Places|café |咖啡店|咖啡店|kā fēi diàn |file:///android_asset/places.png
-663|Places|cafeteria |食堂|食堂/学生餐厅|shí táng|file:///android_asset/places.png
-664|Places|campus|校圓|校园|xiào yuán |file:///android_asset/places.png
-665|Places|classroom|教室|教室|jiào shì |file:///android_asset/places.png
-666|Places|computer cluster|電腦房|电脑房|diàn nǎo fáng |file:///android_asset/places.png
-667|Places|department|系|系|xì |file:///android_asset/places.png
-668|Places|dormitory|宿舍|宿舍|sù shè |file:///android_asset/places.png
-669|Places|gym|體育管|体育管|tǐ yù guǎn |file:///android_asset/places.png
-670|Places|laboratory|實驗室|实验室|shí yàn shì |file:///android_asset/places.png
-671|Places|language laboratory|语言實驗室|语言实验室|yǔ yán shí yàn shì |file:///android_asset/places.png
-672|Places|law school|法學院|法学院|fǎ xué yuàn |file:///android_asset/places.png
-673|Places|library|圖書館|图书馆|tú shū guǎn |file:///android_asset/places.png
-674|Places|medical school |医學院|医学院|yī xué yuàn |file:///android_asset/places.png
-675|Places|office|辦公室|办公室|bàn gōng shì |file:///android_asset/places.png
-676|Places|stadium |運動場|运动场|yùn dòng cháng |file:///android_asset/places.png
-677|Restaurant - Chinese|Another colour|別的顏色|别的颜色|Bié  de yán  sè |file:///android_asset/food.png
-678|Restaurant - Chinese|Barbecue pork dumpling|燒烤豬肉餃子|烧烤猪肉饺子|Shāo  kǎo  zhū  ròu  jiǎo  zi|file:///android_asset/food.png
-679|Restaurant - Chinese|Chicken and cashew nuts|腰果雞丁|腰果鸡丁|Yāo  guǒ  jī  dīng |file:///android_asset/food.png
-680|Restaurant - Chinese|Fried broccoli with garlic|蒜蓉西蘭花|蒜蓉西兰花|Suàn  róng  xī  lán  huā |file:///android_asset/food.png
-681|Restaurant - Chinese|Fried egg noodles|炒雞蛋麵|炒鸡蛋面|Chǎo  jī  dàn  miàn |file:///android_asset/food.png
-682|Restaurant - Chinese|Fried flat noodles|炒寬麵條|炒宽面条|Chǎo  kuān  miàn  tiáo |file:///android_asset/food.png
-683|Restaurant - Chinese|Fried long beans|乾煸四季豆|干煸四季豆|Gān  biǎn  sì  jì  dòu |file:///android_asset/food.png
-684|Restaurant - Chinese|Fried mixed vegetables|炒時菜|炒时菜|Chǎo  shí  cài |file:///android_asset/food.png
-685|Restaurant - Chinese|Fried rice|炒米飯|炒米饭|Chǎo  mǐ  fàn |file:///android_asset/food.png
-686|Restaurant - Chinese|Fried rice noodles|炒米粉|炒米粉|Chǎo  mí  fěn |file:///android_asset/food.png
-687|Restaurant - Chinese|Fried toufu|炸豆腐|炸豆腐|Zhā  dǒu  fū |file:///android_asset/food.png
-688|Restaurant - Chinese|Lamb on a barbecue skewer|羊肉串兒|羊肉串儿|Yáng  ròu  chuàn  er|file:///android_asset/food.png
-689|Restaurant - Chinese|Naan bread|囊|囊|Náng |file:///android_asset/food.png
-690|Restaurant - Chinese|Noodles with black bean paste - Beijing style|豆麵條|豆面条|Dòu  miàn  tiáo -běi  jīng  fēng  wèi |file:///android_asset/food.png
-691|Restaurant - Chinese|Pan fried spicy lamb|孜然羊肉|孜然羊肉|Zǐ  rán  yáng  ròu |file:///android_asset/food.png
-692|Restaurant - Chinese|Pasta squares in a tangy tomato-lamb sauce|炒麵片兒|炒面片儿|Chǎo  miàn  piàn  er|file:///android_asset/food.png
-693|Restaurant - Chinese|Rice|米飯|米饭|Mǐ  fàn |file:///android_asset/food.png
-694|Restaurant - Chinese|Roast lamb|烤羊肉|烤羊肉|Kǎo  yáng  ròu |file:///android_asset/food.png
-695|Restaurant - Chinese|Sichuan deep fried chicken|四川炸雞|四川炸鸡|Sì  chuān  zhá  jī |file:///android_asset/food.png
-696|Restaurant - Chinese|Steamed broccoli|清蒸西蘭花|清蒸西兰花|Qīng  zhēng  xī  lán  huā |file:///android_asset/food.png
-697|Restaurant - Chinese|Steamed fish|蒸魚|蒸鱼|Zhēng  yú |file:///android_asset/food.png
-698|Restaurant - Chinese|Wonton noodles in soup|雲吞麵湯|云吞面汤|Yún  tūn  miàn  tāng |file:///android_asset/food.png
-699|Restaurant - Dim Sum|Barbecue pork in pastry|叉燒酥|叉烧酥|Chā  shāo  sù |file:///android_asset/dimsum.png
-700|Restaurant - Dim Sum|Beijing beef dumpling|北京牛肉餡餃子|北京牛肉馅饺子|Běi  jīng  niú  ròu  xiān  jiǎo  zi|file:///android_asset/dimsum.png
-701|Restaurant - Dim Sum|Beijing lamb dumpling|北京羊肉餡餃子|北京羊肉馅饺子|Běi  jīng  yáng  ròu  xiān  jiǎo  zi|file:///android_asset/dimsum.png
-702|Restaurant - Dim Sum|Beijing pork dumpling|北京豬肉餡餃子|北京猪肉馅饺子|Běi  jīng  zhū  ròu  xiān  jiǎo  zi|file:///android_asset/dimsum.png
-703|Restaurant - Dim Sum|Beijing vegetarian dumpling|北京素餃子|北京素饺子|Běi  jīng  sū  jiǎo  zi|file:///android_asset/dimsum.png
-704|Restaurant - Dim Sum|Chicken porridge with preserved egg|皮蛋粥|皮蛋粥|Pí  dàn  zhōu |file:///android_asset/dimsum.png
-705|Restaurant - Dim Sum|Crispy deep fried yam dumpling|脆薯餅|脆薯饼|Cuì  shú  bǐng |file:///android_asset/dimsum.png
-706|Restaurant - Dim Sum|Fish porridge|魚粥|鱼粥|Yú  zhōu |file:///android_asset/dimsum.png
-707|Restaurant - Dim Sum|Fried yam cake|煎芋頭餅|煎芋头饼|Jiān  yú  tóu  bǐng |file:///android_asset/dimsum.png
-708|Restaurant - Dim Sum|Pork and shrimp dumpling|豬肉和蝦餡餃子|猪肉和虾馅饺子|Zhū  ròu  hé  xiā  xiàn  jiǎo  zi|file:///android_asset/dimsum.png
-709|Restaurant - Dim Sum|Pork porridge|肉粥|肉粥|Ròu  zhōu |file:///android_asset/dimsum.png
-710|Restaurant - Dim Sum|Prawn dumpling|蝦餃|虾饺|Xiā  jiǎo |file:///android_asset/dimsum.png
-711|Restaurant - Dim Sum|Spring roll|春卷|春卷|Chūn  juǎn |file:///android_asset/dimsum.png
-712|Restaurant - Dim Sum|Sticky rice with chicken wrapped in lotus leaf|荷葉糯米雞|荷叶糯米鸡|Hé  yè  nuò  mǐ  jī |file:///android_asset/dimsum.png
-713|Restaurant - Useful|Bowl|碗|碗|Wǎn |file:///android_asset/restaurant.png
-714|Restaurant - Useful|Can we move to another table|我們可以換到另外的桌子嗎|我们可以换到另外的桌子吗|Wǒ  mén  ké  yǐ  huàn  dào  lìng  wāi  de zhuō  zi ma|file:///android_asset/restaurant.png
-715|Restaurant - Useful|Chopsticks|筷子|筷子|Kuài  zi|file:///android_asset/restaurant.png
-716|Restaurant - Useful|Deep fried|炸狠一點|炸狠一点|Zhà  hěn  yī  diǎn |file:///android_asset/restaurant.png
-717|Restaurant - Useful|Do you have a no smoking area|請問有無吸煙區嗎|请问有无吸烟区吗|Qǐng  wèn  yǒu  wú  xī yān  qū  ma|file:///android_asset/restaurant.png
-718|Restaurant - Useful|I am vegetarian|我是素食者|我是素食者|Wǒ  shi sù  shí  zhě |file:///android_asset/restaurant.png
-719|Restaurant - Useful|I can’t eat beef|我不吃牛肉|我不吃牛肉|Wǒ  bù  chī  niú  ròu |file:///android_asset/restaurant.png
-720|Restaurant - Useful|I can’t eat pork|我不吃豬肉|我不吃猪肉|Wǒ  bù  chī  zhū  ròu |file:///android_asset/restaurant.png
-721|Restaurant - Useful|I think you forgot one of my orders|我想你忘了我們點的東西|我想你忘了我们点的东西|Wó  xiǎng  nǐ  wàng  lè  wǒ  mén  diǎn  de dōng  xī |file:///android_asset/restaurant.png
-722|Restaurant - Useful|Knife|刀|刀|Dāo |file:///android_asset/restaurant.png
-723|Restaurant - Useful|Less salt|少放點鹽|少放点盐|Shǎo  fàng  diǎn  yán |file:///android_asset/restaurant.png
-724|Restaurant - Useful|Napkins|餐巾|餐巾|Cān  jīn |file:///android_asset/restaurant.png
-725|Restaurant - Useful|No MSG|不要味精|不要味精|Bú  yào  wèi  jīng |file:///android_asset/restaurant.png
-726|Restaurant - Useful|No spicy dishes|不要辣的菜|不要辣的菜|Bú  yào  là  dě  cài |file:///android_asset/restaurant.png
-727|Restaurant - Useful|Plate|盤子|盘子|Pān  zi|file:///android_asset/restaurant.png
-728|Restaurant - Useful|Receipt please|請開發票|请开发票|Qǐng  kāi  fā  piào |file:///android_asset/restaurant.png
-729|Restaurant - Useful|Soup|湯|汤|Táng |file:///android_asset/restaurant.png
-730|Restaurant - Useful|Spicy dishes|辣的菜|辣的菜|Là  de cài |file:///android_asset/restaurant.png
-731|Restaurant - Useful|Spoon|勺子|勺子|Shǎo  zi|file:///android_asset/restaurant.png
-732|Restaurant - Useful|Steamed|蒸|蒸|Zhēng |file:///android_asset/restaurant.png
-733|Restaurant - Useful|That was a great meal|飯很好吃|饭很好吃|Fàn  hén  hǎo  chī |file:///android_asset/restaurant.png
-734|Shopping|Battery|電池|电池|Diàn  chí |file:///android_asset/shopping.png
-735|Shopping|Call this number before you deliver|送之前拨這個電話|送之前这个电话|Sòng  zhī  qián  bō  zhè  ge diàn  huà |file:///android_asset/shopping.png
-736|Shopping|Can I pay with a foreign credit card|我可以用國外的信用卡支付嗎|我可以用国外的信用卡支付吗|Wǒ  ké  yǐ  yòng  guó  wài  dè  xìn  yòng  kǎ  zhī  fū  ma|file:///android_asset/shopping.png
-737|Shopping|Can you deliver|可以送貨嗎|可以送货吗|Ké  yǐ  sòng  huò  ma|file:///android_asset/shopping.png
-738|Shopping|Can you lower the price|可以便宜點嗎|可以便宜点吗|Ké  yǐ  pián  yí  diǎn  ma|file:///android_asset/shopping.png
-739|Shopping|Deliver to ...|送到…|送到…|Sòng  dào  ...|file:///android_asset/shopping.png
-740|Shopping|How long will it take|得多長時間|得多长时间|Děi  duō  cháng  shí  jiān |file:///android_asset/shopping.png
-741|Shopping|I live here. I am not a tourist|我住在這，不是遊客|我住在这，不是游客|"Wǒ  zhù  zài  zhè , bú  shì  yóu  kè "|file:///android_asset/shopping.png
-742|Shopping|I will recommend your shop to my friends|我會給我的朋友推薦你的網店|我会给我的朋友推荐你的网店|Wǒ  huì  géi  wǒ  de péng  yǒu  tuī  jiàn  nǐ  de shāng  diàn |file:///android_asset/shopping.png
-743|Shopping|Is there an ATM machine nearby|附近有提款機嗎|附近有提款机吗|Fù  jìn  yǒu  tí  kuǎn  jī  ma|file:///android_asset/shopping.png
-744|Shopping|Receipt|發票|发票|Fā  piào |file:///android_asset/shopping.png
-745|Shopping|Thank you|謝謝|谢谢|Xiē  xiē |file:///android_asset/shopping.png
-746|Shopping|Too big|太大了|太大了|Tài  dà  le|file:///android_asset/shopping.png
-747|Shopping|Too small|太小了|太小了|Tài  xiǎo  le|file:///android_asset/shopping.png
-748|Shopping|When do you close|什麼時候關門|什么时候关门|Shén  me shì  hòu  guān  mén |file:///android_asset/shopping.png
-749|Shopping|Wrap carefully|包裝的時候小心點|包装的时候小心点|Bāo  zhuāng  de shí  hòu  xiǎo  xīn  diǎn |file:///android_asset/shopping.png
-750|Shopping|Your price is very high|太貴了|太贵了|Tài  guì  le|file:///android_asset/shopping.png
-751|Sports & Recreation|American football|美式足球|美式足球|měi shì zú qiú |file:///android_asset/sports.png
-752|Sports & Recreation|baseball|棒球|棒球|bàng qiú |file:///android_asset/sports.png
-753|Sports & Recreation|basketball|籃球|篮球|lán qiú |file:///android_asset/sports.png
-754|Sports & Recreation|bicycling|自行車|自行车|zì xíng chē |file:///android_asset/sports.png
-755|Sports & Recreation|classical music|古典音樂|古典音乐|gǔ diǎn yīn lè |file:///android_asset/sports.png
-756|Sports & Recreation|concert|音樂會|音乐会|yīn lè huì |file:///android_asset/sports.png
-757|Sports & Recreation|golf|高爾夫球|高尔夫球|gāo ěr fū qiú |file:///android_asset/sports.png
-758|Sports & Recreation|ice hockey|冰棍球/冰球|冰棍球/冰球|bīng gùn qiú / bīng qiú |file:///android_asset/sports.png
-759|Sports & Recreation|ice skating|溜冰|溜冰|liū bīng |file:///android_asset/sports.png
-760|Sports & Recreation|jogging|慢跑|慢跑|màn pǎo |file:///android_asset/sports.png
-761|Sports & Recreation|movie|電影|电影|diàn yǐng |file:///android_asset/sports.png
-762|Sports & Recreation|museum|博物館|博物馆|bó wù guǎn |file:///android_asset/sports.png
-763|Sports & Recreation|photography|攝影|摄影|shè yǐng |file:///android_asset/sports.png
-764|Sports & Recreation|rock & roll|搖滾樂|摇滚乐|yáo gǔn lè |file:///android_asset/sports.png
-765|Sports & Recreation|sailing|帆船|帆船|fān chuán |file:///android_asset/sports.png
-766|Sports & Recreation|skiing|滑雪|滑雪|huá xuě |file:///android_asset/sports.png
-767|Sports & Recreation|soccer|足球|足球|zú qiú |file:///android_asset/sports.png
-768|Sports & Recreation|sports|運動|运动|yùn dòng |file:///android_asset/sports.png
-769|Sports & Recreation|swimming|游泳|游泳|yóu yǒng |file:///android_asset/sports.png
-770|Sports & Recreation|television|電視|电视|diàn shì |file:///android_asset/sports.png
-771|Sports & Recreation|tennis|網球|网球|wǎng qiú |file:///android_asset/sports.png
-772|Sports & Recreation|to dance|跳舞|跳舞|tiào wǔ |file:///android_asset/sports.png
-773|Sports & Recreation|to sing|唱歌|唱歌|chàng gē |file:///android_asset/sports.png
-774|Study|book|書|书|shū |file:///android_asset/study.png
-775|Study|bookshelf|書架|书架|shū jià |file:///android_asset/study.png
-776|Study|desk|書桌|书桌|shū zhuō |file:///android_asset/study.png
-777|Study|lamp|檯燈|台灯|tái dēng |file:///android_asset/study.png
-778|Study|magazine|雜誌|杂志|zá zhì |file:///android_asset/study.png
-779|Study|map|地圖|地图|dì tú |file:///android_asset/study.png
-780|Study|newspaper|報紙|报纸|bào zhǐ |file:///android_asset/study.png
-781|Study|study |書房|书房|shū fáng |file:///android_asset/study.png
-782|Tech & Gadget|Bluetooth|藍牙|蓝牙|Lán  yá |file:///android_asset/tech.png
-783|Tech & Gadget|Cordless telephone|無線電話|无线电话|Wú  xiàn  diàn  huā |file:///android_asset/tech.png
-784|Tech & Gadget|Do you have an English version|有英文版本的嗎|有英文版本的吗|Yǒu  yīng  wēn  bǎn  dē  ma|file:///android_asset/tech.png
-785|Tech & Gadget|Duplexer|雙工器|双工器|Shuāng  gōng  qǐ |file:///android_asset/tech.png
-786|Tech & Gadget|Earphone|耳機|耳机|Er3  jī |file:///android_asset/tech.png
-787|Tech & Gadget|Fax|傳真|传真|Chuán  zhēn |file:///android_asset/tech.png
-788|Tech & Gadget|Hard drive|硬盤|硬盘|Yìng  pán |file:///android_asset/tech.png
-789|Tech & Gadget|Headphone with mic|帶麥克的相機|带麦克的耳机|Dài  mài  kē  dě  ēr  jī |file:///android_asset/tech.png
-790|Tech & Gadget|How long is the warranty for|保修期多長|保修期多长|Bǎo  xiū  qī  duó  cháng |file:///android_asset/tech.png
-791|Tech & Gadget|Ink jet cartridge|墨盒|墨盒|Mó  hé |file:///android_asset/tech.png
-792|Tech & Gadget|Ink jet printer|磨粉打印機|磨粉打印机|Mó  fěn  dǎ  yìn  jī |file:///android_asset/tech.png
-793|Tech & Gadget|Is the warranty valid outside of China|保修期在國外有效嗎|保修在国外有效吗|Bǎo  xiū  zài  guō  wài  yǒu  xiào  ma|file:///android_asset/tech.png
-794|Tech & Gadget|Is this compatible with a Mac|這個能用在蘋果機上嗎|这个能用在苹果机上吗|Zhè  gē  néng  yòng  zài  píng  guó  jī  shàng  ma|file:///android_asset/tech.png
-795|Tech & Gadget|Keyboard|鍵盤|键盘|Jiàn  pán |file:///android_asset/tech.png
-796|Tech & Gadget|Laser printer|激光打印機|激光打印机|Jì  guāng  dǎ  yìn  ji|file:///android_asset/tech.png
-797|Tech & Gadget|Laser printer cartridge|鐳射打印機碳粉盒|镭射打印机碳粉盒|Léi  shè  dǎ  yìn  jī  tàn  fěn  hé |file:///android_asset/tech.png
-798|Tech & Gadget|LCD monitor|液晶顯示器|液晶显示器|Yè  jīng  xiǎn  shì  qì |file:///android_asset/tech.png
-799|Tech & Gadget|Lens|鏡頭|镜头|Jìng  tóu |file:///android_asset/tech.png
-800|Tech & Gadget|Mother board|主板|主板|Zhú  bǎn |file:///android_asset/tech.png
-801|Tech & Gadget|Mouse|鼠標|鼠标|Shǔ  biāo |file:///android_asset/tech.png
-802|Tech & Gadget|Photo printer|照片打印機|照片打印机|Zhào  piàn  dǎ  yìn  jī |file:///android_asset/tech.png
-803|Tech & Gadget|RAM|內存|内存|Néi  cún |file:///android_asset/tech.png
-804|Tech & Gadget|Receipt|發票|发票|Fā  piào |file:///android_asset/tech.png
-805|Tech & Gadget|Scanner|掃描儀|扫描仪|Sào  miáo  yí |file:///android_asset/tech.png
-806|Tech & Gadget|SD/CF card reader|SD/CF卡讀卡器|SD/CF卡读卡器|SD kǎ  dú  kǎ  qì |file:///android_asset/tech.png
-807|Tech & Gadget|SLR camera|單反相機|单反相机|Dān  fǎn  xiàng  jī |file:///android_asset/tech.png
-808|Tech & Gadget|Software|軟件|软件|Ruǎn  jiàn |file:///android_asset/tech.png
-809|Tech & Gadget|Video card|視頻卡|视频卡|Shì  pín  kǎ |file:///android_asset/tech.png
-810|Tech & Gadget|Web camera|網絡攝像頭|网络摄像头|Wǎng  luò  shè  xiàng  tóu |file:///android_asset/tech.png
-811|Tech & Gadget|What is the password|密碼是什麼|密码是什么|Mì  mǎ  shī  shén  me|file:///android_asset/tech.png
-812|Tech & Gadget|What is the user name|用戶名是什麼|用户名是什么|Yòng  hù  míng  shī  shén  me|file:///android_asset/tech.png
-813|Tech & Gadget|Wide angle lens|廣角鏡頭|广角镜头|Guáng  jiǎo  jìng  tóu |file:///android_asset/tech.png
-814|Tech & Gadget|Wireless router|無線路由器|无线路由器|Wú  xiàn  lù  yóu  qī |file:///android_asset/tech.png
-815|Time - Days of the Week|day after tomorrow|后天|后天|hòu tiān |file:///android_asset/timeweek.png
-816|Time - Days of the Week|day before yesterday|前天|前天|qián tiān |file:///android_asset/timeweek.png
-817|Time - Days of the Week|Friday|星期五|星期五|xīng qī wǔ |file:///android_asset/timeweek.png
-818|Time - Days of the Week|last Monday (last week)|上個星期一|上个星期一|shàng gè xīng qī yī |file:///android_asset/timeweek.png
-819|Time - Days of the Week|last Monday (this week)|這個星期一|这个星期一|zhè gè xīng qī yī |file:///android_asset/timeweek.png
-820|Time - Days of the Week|Monday|星期一|星期一|xīng qī yī |file:///android_asset/timeweek.png
-821|Time - Days of the Week|next Monday|下個星期一|下个星期一|xià gè xīng qī yī |file:///android_asset/timeweek.png
-822|Time - Days of the Week|next Saturday (next week)|下個星期六|下个星期六|xià gè xīng qī liù |file:///android_asset/timeweek.png
-823|Time - Days of the Week|next Saturday (this week)|這個星期六|这个星期六|zhè gè xīng qī liù |file:///android_asset/timeweek.png
-824|Time - Days of the Week|Saturday|星期六|星期六|xīng qī liù |file:///android_asset/timeweek.png
-825|Time - Days of the Week|Sunday|星期日/星期天|星期日/星期天|xīng qī rì / xīng qī tiān |file:///android_asset/timeweek.png
-826|Time - Days of the Week|this Monday (this week)|這個星期一|这个星期一|zhè gè xīng qī yī |file:///android_asset/timeweek.png
-827|Time - Days of the Week|Thursday|星期四|星期四|xīng qī sì |file:///android_asset/timeweek.png
-828|Time - Days of the Week|today|今天|今天|jīn tiān |file:///android_asset/timeweek.png
-829|Time - Days of the Week|tomorrow|明天|明天|míng tiān |file:///android_asset/timeweek.png
-830|Time - Days of the Week|Tuesday|星期二|星期二|xīng qī èr |file:///android_asset/timeweek.png
-831|Time - Days of the Week|Wednesday|星期三|星期三|xīng qī sān |file:///android_asset/timeweek.png
-832|Time - Days of the Week|yesterday|昨天|昨天|zuó tiān |file:///android_asset/timeweek.png
-833|Time - Months of the Year|April|四月|四月|sì yuè |file:///android_asset/monthyear.png
-834|Time - Months of the Year|August|八月|八月|bā yuè |file:///android_asset/monthyear.png
-835|Time - Months of the Year|December|十二月|十二月|shí èr yuè |file:///android_asset/monthyear.png
-836|Time - Months of the Year|February|二月|二月|èr yuè |file:///android_asset/monthyear.png
-837|Time - Months of the Year|January|一月|一月|yī yuè |file:///android_asset/monthyear.png
-838|Time - Months of the Year|July|七月|七月|qī yuè |file:///android_asset/monthyear.png
-839|Time - Months of the Year|June|六月|六月|liù yuè |file:///android_asset/monthyear.png
-840|Time - Months of the Year|last January (last year)|去年一月|去年一月|qù nián yī yuè |file:///android_asset/monthyear.png
-841|Time - Months of the Year|last January (this year)|今年一月|今年一月|jīn nián yī yuè |file:///android_asset/monthyear.png
-842|Time - Months of the Year|last month|上個月|上个月|shàng gè yuè |file:///android_asset/monthyear.png
-843|Time - Months of the Year|March|三月|三月|sān yuè |file:///android_asset/monthyear.png
-844|Time - Months of the Year|May|五月|五月|wǔ yuè |file:///android_asset/monthyear.png
-845|Time - Months of the Year|month after next|下下個月|下下个月|xià xià gè yuè |file:///android_asset/monthyear.png
-846|Time - Months of the Year|month before last|上上個月|上上个月|shàng shàng gè yuè |file:///android_asset/monthyear.png
-847|Time - Months of the Year|next month|下個月|下个月|xià gè yuè |file:///android_asset/monthyear.png
-848|Time - Months of the Year|November|十一月|十一月|shí yī yuè |file:///android_asset/monthyear.png
-849|Time - Months of the Year|October|十月|十月|shí yuè |file:///android_asset/monthyear.png
-850|Time - Months of the Year|September|九月|九月|jiǔ yuè |file:///android_asset/monthyear.png
-851|Time - Months of the Year|this monfth|這個月|这个月|zhè gè yuè |file:///android_asset/monthyear.png
-852|Time - Years|last year|去年|去年|qù nián |file:///android_asset/timeyear.png
-853|Time - Years|next year|明年|明年|míng nián |file:///android_asset/timeyear.png
-854|Time - Years|this year|今年|今年|jīn nián |file:///android_asset/timeyear.png
-855|Time - Years|year after next|后年|后年|hòu nián |file:///android_asset/timeyear.png
-856|Time - Years|year before last|前年|前年|qián nián |file:///android_asset/timeyear.png
-857|Time of Day|1:00 A.M. |凌晨一點|凌晨一点|líng chén yī diǎn |file:///android_asset/timeday.png
-858|Time of Day|1:05 P.M. |下午一點零五分|下午一点零五分|xià wǔ yī diǎn líng wǔ fēn |file:///android_asset/timeday.png
-859|Time of Day|10:30 A.M. |上午十點半|上午十点半|shàng wǔ shí diǎn bàn |file:///android_asset/timeday.png
-860|Time of Day|12:00 P.M. |中午十二點|中午十二点|zhōng wǔ shí èr diǎn |file:///android_asset/timeday.png
-861|Time of Day|2:55 P.M. |下午差五分三點|下午差五分三点|xià wǔ chà wǔ fēn sān diǎn |file:///android_asset/timeday.png
-862|Time of Day|6:15 A.M. |早上六點一刻|早上六点一刻|zǎo shàng liù diǎn yī kè |file:///android_asset/timeday.png
-863|Time of Day|8:15 P.M. |晚上八點一刻|晚上八点一刻|wǎn shàng bā diǎn yī kè |file:///android_asset/timeday.png
-864|Time of Day|9:45:50 P.M. |九點四十五分五十秒|九点四十五分五十秒|jiǔ diǎn sì shí wǔ fēn wǔ shí miǎo |file:///android_asset/timeday.png
-865|Time of Day|afternoon |下午|下午|xià wǔ |file:///android_asset/timeday.png
-866|Time of Day|early morning|早上|早上|zǎo shàng |file:///android_asset/timeday.png
-867|Time of Day|evening/night|晚上|晚上|wǎn shàng |file:///android_asset/timeday.png
-868|Time of Day|fall short of/ minutes until |差|差|chà |file:///android_asset/timeday.png
-869|Time of Day|half hour |半|半|bàn |file:///android_asset/timeday.png
-870|Time of Day|midnight to early morning|凌晨|凌晨|líng chén |file:///android_asset/timeday.png
-871|Time of Day|minute|分|分|fēn |file:///android_asset/timeday.png
-872|Time of Day|morning (general)|上午|上午|shàng wǔ |file:///android_asset/timeday.png
-873|Time of Day|noon|中午|中午|zhōng wǔ |file:///android_asset/timeday.png
-874|Time of Day|o'clock|点|点|diǎn |file:///android_asset/timeday.png
-875|Time of Day|quarter hour|刻|刻|kè |file:///android_asset/timeday.png
-876|Time of Day|second|秒钟|秒钟|miǎo zhōng |file:///android_asset/timeday.png
-877|Travel & Transportation|airlines|航空公司|航空公司|háng kōng gōng sī |file:///android_asset/airport2.png
-878|Travel & Transportation|airplane|飛機|飞机|fēi jī |file:///android_asset/airport2.png
-879|Travel & Transportation|airport|機場|机场|jī cháng |file:///android_asset/airport2.png
-880|Travel & Transportation|aisle seat|走道|走道|zǒu dào |file:///android_asset/airport2.png
-881|Travel & Transportation|bicycle|自行車|自行车|zì xíng chē |file:///android_asset/airport2.png
-882|Travel & Transportation|boat/ship|船|船|chuán |file:///android_asset/airport2.png
-883|Travel & Transportation|bus|公共汽車|公共汽车|gōng gòng qì chē |file:///android_asset/airport2.png
-884|Travel & Transportation|bus stop|站牌|站牌|zhàn pái |file:///android_asset/airport2.png
-885|Travel & Transportation|car|汽車|汽车|qì chē |file:///android_asset/airport2.png
-886|Travel & Transportation|direct flight|直飛|直飞|zhí fēi |file:///android_asset/airport2.png
-887|Travel & Transportation|direct/through|直達|直达|zhí dá |file:///android_asset/airport2.png
-888|Travel & Transportation|express|特快|特快|tè kuài |file:///android_asset/airport2.png
-889|Travel & Transportation|gas station|加油站|加油站|jiā yóu zhàn |file:///android_asset/airport2.png
-890|Travel & Transportation|hard seater (train)|硬座|硬座|yìng zuò |file:///android_asset/airport2.png
-891|Travel & Transportation|hard sleeper (train)|硬臥|硬卧|yìng wò |file:///android_asset/airport2.png
-892|Travel & Transportation|luggage|行李|行李|xíng lǐ |file:///android_asset/airport2.png
-893|Travel & Transportation|motorcycle|摩托車|摩托车|mó tuō chē |file:///android_asset/airport2.png
-894|Travel & Transportation|one-way ticket|單程票|单程票|dān chéng piào |file:///android_asset/airport2.png
-895|Travel & Transportation|passport|護照|护照|hù zhào |file:///android_asset/airport2.png
-896|Travel & Transportation|round-trip ticket|來回票|来回票|lái huí piào |file:///android_asset/airport2.png
-897|Travel & Transportation|soft seater (train)|軟座|软座|ruǎn zuò |file:///android_asset/airport2.png
-898|Travel & Transportation|soft sleeper (train)|軟臥|软卧|ruǎn wò |file:///android_asset/airport2.png
-899|Travel & Transportation|subway|地鐵|地铁|dì tiě |file:///android_asset/airport2.png
-900|Travel & Transportation|taxi|出租車/計程車|出租车/计程车|chū zū chē / jì chéng chē |file:///android_asset/airport2.png
-901|Travel & Transportation|ticket|票|票|piào |file:///android_asset/airport2.png
-902|Travel & Transportation|time schedule|時刻表|时刻表|shí kè biǎo |file:///android_asset/airport2.png
-903|Travel & Transportation|to arrive|抵達|抵达|dǐ dá |file:///android_asset/airport2.png
-904|Travel & Transportation|to board (aircraft)|登機|登机|dēng jī |file:///android_asset/airport2.png
-905|Travel & Transportation|to book ticket|訂票|订票|dìng piào |file:///android_asset/airport2.png
-906|Travel & Transportation|to check luggage|托運|托运|tuō yùn |file:///android_asset/airport2.png
-907|Travel & Transportation|to depart (train/bus)|發車|发车|fā chē |file:///android_asset/airport2.png
-908|Travel & Transportation|to drive|開車|开车|kāi chē |file:///android_asset/airport2.png
-909|Travel & Transportation|to land (plane)|降落|降落|jiàng luò |file:///android_asset/airport2.png
-910|Travel & Transportation|to ride|騎|骑|qí |file:///android_asset/airport2.png
-911|Travel & Transportation|to take (vehicle)|坐搭|坐搭|zuò dā |file:///android_asset/airport2.png
-912|Travel & Transportation|to take off (plane)|起飛|起飞|qǐ fēi |file:///android_asset/airport2.png
-913|Travel & Transportation|to travel|旅行|旅行|lǚ xíng |file:///android_asset/airport2.png
-914|Travel & Transportation|to walk|走路|走路|zǒu lù |file:///android_asset/airport2.png
-915|Travel & Transportation|train|火車|火车|huǒ chē |file:///android_asset/airport2.png
-916|Travel & Transportation|train station|火車站|火车站|huǒ chē zhàn |file:///android_asset/airport2.png
-917|Travel & Transportation|travel agency|旅行社|旅行社|lǚ xíng shè |file:///android_asset/airport2.png
-918|Travel & Transportation|visa|簽証|签证|qiān zhèng |file:///android_asset/airport2.png
-919|Travel & Transportation|window seat|靠窗|靠窗|kào chuāng |file:///android_asset/airport2.png
-920|Useful Adjective| tired|累|累|léi |file:///android_asset/adjectives.png
-921|Useful Adjective|angry|生氣|生气|shēng qì |file:///android_asset/adjectives.png
-922|Useful Adjective|bad|壞|坏|huài |file:///android_asset/adjectives.png
-923|Useful Adjective|big |大|大|dà |file:///android_asset/adjectives.png
-924|Useful Adjective|busy|忙|忙|máng |file:///android_asset/adjectives.png
-925|Useful Adjective|cheap|便宜|便宜|biàn yí |file:///android_asset/adjectives.png
-926|Useful Adjective|clean|干淨|干净|gān jìng |file:///android_asset/adjectives.png
-927|Useful Adjective|cold|冷|冷|lěng |file:///android_asset/adjectives.png
-928|Useful Adjective|convenient|方便|方便|fāng biàn |file:///android_asset/adjectives.png
-929|Useful Adjective|difficult|難|难|nán |file:///android_asset/adjectives.png
-930|Useful Adjective|dirty|臟|脏|zàng |file:///android_asset/adjectives.png
-931|Useful Adjective|easy|容易|容易|róng yì |file:///android_asset/adjectives.png
-932|Useful Adjective|expensive|貴|贵|guì |file:///android_asset/adjectives.png
-933|Useful Adjective|far|遠|远|yuǎn |file:///android_asset/adjectives.png
-934|Useful Adjective|fast|快|快|kuài |file:///android_asset/adjectives.png
-935|Useful Adjective|fat|胖|胖|pàng |file:///android_asset/adjectives.png
-936|Useful Adjective|female|女|女|nǚ |file:///android_asset/adjectives.png
-937|Useful Adjective|good|好|好|hǎo |file:///android_asset/adjectives.png
-938|Useful Adjective|good-looking|好看|好看|hǎo kàn |file:///android_asset/adjectives.png
-939|Useful Adjective|happy |高興|高兴|gāo xīng |file:///android_asset/adjectives.png
-940|Useful Adjective|hot/warm|熱|热|rè |file:///android_asset/adjectives.png
-941|Useful Adjective|hungry|餓|饿|è |file:///android_asset/adjectives.png
-942|Useful Adjective|interesting|有意思|有意思|yǒu yì sī |file:///android_asset/adjectives.png
-943|Useful Adjective|little/few|少|少|shǎo |file:///android_asset/adjectives.png
-944|Useful Adjective|long|長|长|cháng |file:///android_asset/adjectives.png
-945|Useful Adjective|male|男|男|nán |file:///android_asset/adjectives.png
-946|Useful Adjective|much/many|多|多|duō |file:///android_asset/adjectives.png
-947|Useful Adjective|near|近|近|jìn |file:///android_asset/adjectives.png
-948|Useful Adjective|newspaper|新|新|xīn |file:///android_asset/adjectives.png
-949|Useful Adjective|"old (age, building, etc. )"|老|老|lǎo |file:///android_asset/adjectives.png
-950|Useful Adjective|old (used/not new)|舊|旧|jiù |file:///android_asset/adjectives.png
-951|Useful Adjective|pretty|漂亮|漂亮|piāo liàng |file:///android_asset/adjectives.png
-952|Useful Adjective|sad|難過|难过|nán guò |file:///android_asset/adjectives.png
-953|Useful Adjective|short (height)|矮|矮|ǎi |file:///android_asset/adjectives.png
-954|Useful Adjective|short (length)|短|短|duǎn |file:///android_asset/adjectives.png
-955|Useful Adjective|slow|慢|慢|màn |file:///android_asset/adjectives.png
-956|Useful Adjective|small|小|小|xiǎo |file:///android_asset/adjectives.png
-957|Useful Adjective|tall|高|高|gāo |file:///android_asset/adjectives.png
-958|Useful Adjective|tasteless (liquid)|不好喝|不好喝|bù hǎo hē |file:///android_asset/adjectives.png
-959|Useful Adjective|tasteless (solid food)|不好吃|不好吃|bù hǎo chī |file:///android_asset/adjectives.png
-960|Useful Adjective|tasty (liquid)|好喝|好喝|hǎo hē |file:///android_asset/adjectives.png
-961|Useful Adjective|tasty (solid food)|好吃|好吃|hǎo chī |file:///android_asset/adjectives.png
-962|Useful Adjective|thin|瘦|瘦|shòu |file:///android_asset/adjectives.png
-963|Useful Adjective|ugly|難看|难看|nán kàn |file:///android_asset/adjectives.png
-964|Useful Adjective|young|年輕|年轻|nián qīng |file:///android_asset/adjectives.png
-965|"Weather, Climate Seasons"|autumn|秋天|秋天|qiū tiān |file:///android_asset/weather.png
-966|"Weather, Climate Seasons"|climate|氣候|气候|qì hòu |file:///android_asset/weather.png
-967|"Weather, Climate Seasons"|cold|冷|冷|lěng |file:///android_asset/weather.png
-968|"Weather, Climate Seasons"|fog|霧|雾|wù |file:///android_asset/weather.png
-969|"Weather, Climate Seasons"|hot|熱|热|rè |file:///android_asset/weather.png
-970|"Weather, Climate Seasons"|humid|悶|闷|mèn |file:///android_asset/weather.png
-971|"Weather, Climate Seasons"|overcast day|陰天|阴天|yīn tiān |file:///android_asset/weather.png
-972|"Weather, Climate Seasons"|pleasantly cool|涼快|凉快|liáng kuài |file:///android_asset/weather.png
-973|"Weather, Climate Seasons"|rainbow|彩虹|彩虹|cǎi hóng |file:///android_asset/weather.png
-974|"Weather, Climate Seasons"|spring|春天|春天|chūn tiān |file:///android_asset/weather.png
-975|"Weather, Climate Seasons"|summer|夏天|夏天|xià tiān |file:///android_asset/weather.png
-976|"Weather, Climate Seasons"|sunny day|晴天|晴天|qíng tiān |file:///android_asset/weather.png
-977|"Weather, Climate Seasons"|temperature|氣溫|气温|qì wēn |file:///android_asset/weather.png
-978|"Weather, Climate Seasons"|to blow (wind)|刮風|刮风|guā fēng |file:///android_asset/weather.png
-979|"Weather, Climate Seasons"|to rain |下雨|下雨|xià yǔ |file:///android_asset/weather.png
-980|"Weather, Climate Seasons"|to snow|下雪|下雪|xià xuě |file:///android_asset/weather.png
-981|"Weather, Climate Seasons"|to thunder|打雷|打雷|dǎ léi |file:///android_asset/weather.png
-982|"Weather, Climate Seasons"|tornado|龍卷風|龙卷风|lóng juàn fēng |file:///android_asset/weather.png
-983|"Weather, Climate Seasons"|typhoon/hurricane|台風|台风|tái fēng |file:///android_asset/weather.png
-984|"Weather, Climate Seasons"|weather|天氣|天气|tiān qì |file:///android_asset/weather.png
-985|"Weather, Climate Seasons"|winter|冬天|冬天|dōng tiān |file:///android_asset/weather.png
+﻿1|School|a major|專業|专业|zhuān yè |file:///android_asset/academic.png
+2|School|assignment/homework|作業|作业|zuò yè |file:///android_asset/academic.png
+3|School|Biology|生物|生物|shēng wù |file:///android_asset/academic.png
+4|School|book bag|書包|书包|shū bāo |file:///android_asset/academic.png
+5|School|Chemistry|化学|化学|huà xué |file:///android_asset/academic.png
+6|School|Chinese |中文|中文|zhōng wén |file:///android_asset/academic.png
+7|School|Computer Science|電腦|电脑|diàn nǎo |file:///android_asset/academic.png
+8|School|Dictionary|字典|字典|zì diǎn |file:///android_asset/academic.png
+9|School|Economics |經濟|经济|jīng jì |file:///android_asset/academic.png
+10|School|Engineering |工程|工程|gōng chéng |file:///android_asset/academic.png
+11|School|English|英文|英文|yīng wén |file:///android_asset/academic.png
+12|School|exam|考試|考试|kǎo shì |file:///android_asset/academic.png
+13|School|flunk|不及格|不及格|bù jí gé |file:///android_asset/academic.png
+14|School|Foreign Language|外语|外语|wài yǔ |file:///android_asset/academic.png
+15|School|go to class|上課|上课|shàng kè |file:///android_asset/academic.png
+16|School|grade|成績|成绩|chéng jì |file:///android_asset/academic.png
+17|School|History|历史|历史|lì shǐ |file:///android_asset/academic.png
+18|School|International Relations|國際關係|国际关系|guó jì guān xì |file:///android_asset/academic.png
+19|School|laptop/notebook|筆记本|笔记本|bǐ jì běn |file:///android_asset/academic.png
+20|School|Literature|文學|文学|wén xué |file:///android_asset/academic.png
+21|School|mark|分數|分数|fēn shù |file:///android_asset/academic.png
+22|School|notebook|筆记本|笔记本|bǐ jì běn |file:///android_asset/academic.png
+23|School|oral test|口試|口试|kǒu shì |file:///android_asset/academic.png
+24|School|paper|紙|纸|zhǐ |file:///android_asset/academic.png
+25|School|pass|及格|及格|jí gé |file:///android_asset/academic.png
+26|School|pen|筆|笔|bǐ |file:///android_asset/academic.png
+27|School|pencil|鉛筆|铅笔|qiān bǐ |file:///android_asset/academic.png
+28|School|Philosophy|哲学|哲学|zhé xué |file:///android_asset/academic.png
+29|School|Physics|物理|物理|wù lǐ |file:///android_asset/academic.png
+30|School|Psychology|心理学|心理学|xīn lǐ xué |file:///android_asset/academic.png
+31|School|quiz|小考|小考|xiǎo kǎo |file:///android_asset/academic.png
+32|School|register|注册|注册|zhù cè |file:///android_asset/academic.png
+33|School|shop for courses|選课|逃选课|táo xuǎn kè |file:///android_asset/academic.png
+34|School|student ID|學生證|学生证|xué shēng zhèng |file:///android_asset/academic.png
+35|School|textbook|課本|课本|kè běn |file:///android_asset/academic.png
+36|School|to graduate|畢業|毕业|bì yè |file:///android_asset/academic.png
+37|School|to major |主修|主修|zhǔ xiū |file:///android_asset/academic.png
+38|School|written test|筆试|笔试|bǐ shì |file:///android_asset/academic.png
+39|Bank|Deposit funds|我想存一筆錢|我想存一笔钱|Wǒ  xiǎng  cún  yī  bī  qián |file:///android_asset/bank.png
+40|Bank|Do any of your colleagues speak English|請問你的同事有說英文的嗎|请问你的同事有说英文的吗|Qǐng  wēn  ní  de tóng  shì  yǒu  shuō  yīng  wén  de ma|file:///android_asset/bank.png
+41|Bank|How long will it take|要多長時間|要多长时间|Yào  duō  cháng  shí  jiān |file:///android_asset/bank.png
+42|Bank|I would like to transfer funds|我要轉賬|我要转账|Wǒ  yào  zhuǎn  zhàng |file:///android_asset/bank.png
+43|Bank|Is there a charge for this?|這個收費嗎？|这个收费吗？|Zhège shōufèi ma?|file:///android_asset/bank.png
+44|Bank|Is there an English interface|有英文版本嗎|有英文版本吗|Yǒu  yīng  wēn  bán  běn  ma|file:///android_asset/bank.png
+45|Bank|Open a web-banking account|我要開一個網上銀行賬戶|我要开一个网上银行帐户|Wǒ  yào  kāi  yí  gè  wǎng  shàng  yín  háng  zhàng  hù |file:///android_asset/bank.png
+46|Bank|Open an account|我要開一個賬戶|我要开一个帐户|Wǒ  yāo  kāi  yí  gè  zhàng  hù |file:///android_asset/bank.png
+47|Bank|Pay internet bill|我想付網費|我想付网费|Wǒ  xiáng  fǔ  wǎng  fei|file:///android_asset/bank.png
+48|Bank|Pay telephone bill|我想付電話費|我想付电话费|Wǒ  xiáng  fǔ  diàn  huà  fei|file:///android_asset/bank.png
+49|Bank|Please check my balance|請查一下餘額|请查一下余额|Qǐng  chā  yi xià  yú  é |file:///android_asset/bank.png
+50|Bank|Transfer funds to a foreign account|我要轉一筆錢到國外|我要转一笔钱到国外|Wǒ  yào  zhuǎn  yi bi qián  dào  guó  wài |file:///android_asset/bank.png
+51|Bank|What are the transfer costs|轉賬費用是多少|转账费用是多少|Zhuǎn  zhàng  fèi  yòng  shī  duō  shǎo |file:///android_asset/bank.png
+52|Bank|Withdraw|我要領錢|我要领钱|Wǒ  yào  lǐng  qián |file:///android_asset/bank.png
+53|Basics|Come on in. |請进|请进|qǐng jìn |file:///android_asset/basics.png
+54|Basics|Could you go lower? |便宜一點儿，好嗎|便宜一点儿，好吗|biàn yí yī diǎn ér ， hǎo má |file:///android_asset/basics.png
+55|Basics|Do you speak English? |您會不會说英文|您会不会说英文|nín huì bù huì shuō yīng wén |file:///android_asset/basics.png
+56|Basics|Excuse me (I am sorry) |對不起|对不起|duì bù qǐ |file:///android_asset/basics.png
+57|Basics|Excuse me (May I ask ...) |請问|请问|qǐng wèn |file:///android_asset/basics.png
+58|Basics|Good afternoon. |下午好|下午好|xià wǔ hǎo |file:///android_asset/basics.png
+59|Basics|Good evening. |晚上好|晚上好|wǎn shàng hǎo |file:///android_asset/basics.png
+60|Basics|Good morning. |早；早上好|早；早上好|zǎo ； zǎo shàng hǎo |file:///android_asset/basics.png
+61|Basics|Good night|晚安|晚安|wǎn ān |file:///android_asset/basics.png
+62|Basics|Good-bye. |再見|再见|zài jiàn |file:///android_asset/basics.png
+63|Basics|Have a seat. |請坐|请坐|qǐng zuò |file:///android_asset/basics.png
+64|Basics|Hello. |你好|你好|nǐ hǎo |file:///android_asset/basics.png
+65|Basics|How much is it? |多少钱|多少钱|duō shǎo qián |file:///android_asset/basics.png
+66|Basics|I am American. |我是美国人|我是美国人|wǒ shì měi guó rén |file:///android_asset/basics.png
+67|Basics|See you in a little bit. |一會兒見|一会儿见|yī huì ér jiàn |file:///android_asset/basics.png
+68|Basics|Thank you. |谢谢|谢谢|xiè xiè |file:///android_asset/basics.png
+69|Basics|That's all right. Never mind. |沒關係|没关系；没事|méi guān xì|file:///android_asset/basics.png
+70|Basics|That's too expensive. |太贵了|太贵了|tài guì liǎo |file:///android_asset/basics.png
+71|Basics|Welcome. |歡迎|欢迎|huān yíng |file:///android_asset/basics.png
+72|Basics|What time is it? |几點了|几点了|jī diǎn liǎo |file:///android_asset/basics.png
+73|Basics|Where is the bathroom? |洗手間在哪兒|洗手间在哪儿|xǐ shǒu jiān zài nǎ ér |file:///android_asset/basics.png
+74|Basics|Wonderful! |太好了|太好了|tài hǎo liǎo |file:///android_asset/basics.png
+75|Basics|You are welcome. |不客氣|不客气；没事|bù kè qì|file:///android_asset/basics.png
+76|Beverages|alcohol|酒|酒|jiǔ |file:///android_asset/beverages.png
+77|Beverages|Apple juice|蘋果汁|苹果汁|Píng  guǒ  zhī |file:///android_asset/beverages.png
+78|Beverages|Beer|啤酒|啤酒|Pí  jiǔ |file:///android_asset/beverages.png
+79|Beverages|black tea|紅茶|红茶|hóng chá |file:///android_asset/beverages.png
+80|Beverages|Chrysanthemum tea|菊花茶|菊花茶|Jù  huā  chá |file:///android_asset/beverages.png
+81|Beverages|Coca cola|可口可樂|可口可乐|Ké  kǒu  kě  lè |file:///android_asset/beverages.png
+82|Beverages|cocoa|可可|可可|kě kě |file:///android_asset/beverages.png
+83|Beverages|Coffee|咖啡|咖啡|Kā  fēi |file:///android_asset/beverages.png
+84|Beverages|Coke – diet|健怡可樂|健怡可乐|Jiàn  yí  kě  lè |file:///android_asset/beverages.png
+85|Beverages|cola|可樂|可乐|kě lè |file:///android_asset/beverages.png
+86|Beverages|fruit juice|果汁|果汁|guǒ zhī |file:///android_asset/beverages.png
+87|Beverages|Green tea|綠茶|绿茶|Lü chá |file:///android_asset/beverages.png
+88|Beverages|Ice|冰|冰|Bīng |file:///android_asset/beverages.png
+89|Beverages|jasmine tea|茉莉花茶/香片|茉莉花茶/香片|mò lì huā chá / xiāng piàn |file:///android_asset/beverages.png
+90|Beverages|lemonade|檸檬水|柠檬水|níng méng shuǐ |file:///android_asset/beverages.png
+91|Beverages|milk|牛奶|牛奶|niú nǎi |file:///android_asset/beverages.png
+92|Beverages|mineral water|礦泉水|矿泉水|kuàng quán shuǐ |file:///android_asset/beverages.png
+93|Beverages|No ice|不要冰|不要冰|Bú  yào  bīng |file:///android_asset/beverages.png
+94|Beverages|oolong tea|烏龍茶|乌龙茶|wū lóng chá |file:///android_asset/beverages.png
+95|Beverages|Orange juice|橙汁|橙汁|Chéng  zhī |file:///android_asset/beverages.png
+96|Beverages|Pepsi|百事可樂|百事可乐|Bǎi  shì  kě  lè |file:///android_asset/beverages.png
+97|Beverages|Pepsi – diet|健怡百事可樂|健怡百事可乐|Jiàn  yí  bǎi  shī  kě  lè |file:///android_asset/beverages.png
+98|Beverages|red wine|紅葡萄酒|红葡萄酒|hóng pú táo jiǔ |file:///android_asset/beverages.png
+99|Beverages|soda|汽水|汽水|qì shuǐ |file:///android_asset/beverages.png
+100|Beverages|Sprite|雪碧|雪碧|Xuě  bī |file:///android_asset/beverages.png
+101|Beverages|tea |茶|茶|chá |file:///android_asset/beverages.png
+102|Beverages|water|水|水|shuǐ |file:///android_asset/beverages.png
+103|Beverages|White spirit (Chinese hard liquor)|白酒|白酒|bái jiǔ |file:///android_asset/beverages.png
+104|Beverages|white wine|白葡萄酒|白葡萄酒|bái pú táo jiǔ |file:///android_asset/beverages.png
+105|Beverages|yoghurt|酸奶|酸奶|suān nǎi |file:///android_asset/beverages.png
+106|Body  |abdomen|腹部/肚子|腹部/肚子|fù bù / dù zǐ |file:///android_asset/body.png
+107|Body  |arm|手臂|手臂|shǒu bì |file:///android_asset/body.png
+108|Body  |back|背部|背部|bèi bù |file:///android_asset/body.png
+109|Body  |beard/mustache|鬍子|胡子|hú zǐ |file:///android_asset/body.png
+110|Body  |body|身體|身体|shēn tǐ |file:///android_asset/body.png
+111|Body  |buttocks|臀部/屁股|臀部/屁股|tún bù / pì gǔ |file:///android_asset/body.png
+112|Body  |chest|胸部|胸部|xiōng bù |file:///android_asset/body.png
+113|Body  |ear|耳朵|耳朵|ěr duǒ |file:///android_asset/body.png
+114|Body  |eye|眼睛|眼睛|yǎn jīng |file:///android_asset/body.png
+115|Body  |eyebrow|眉毛|眉毛|méi máo |file:///android_asset/body.png
+116|Body  |eyelash|睫毛|睫毛|jié máo |file:///android_asset/body.png
+117|Body  |face|臉|脸|liǎn |file:///android_asset/body.png
+118|Body  |finger|手指|手指|shǒu zhǐ |file:///android_asset/body.png
+119|Body  |foot|脚|脚|jiǎo |file:///android_asset/body.png
+120|Body  |hair|頭髮|头发|tóu fā |file:///android_asset/body.png
+121|Body  |hand|手|手|shǒu |file:///android_asset/body.png
+122|Body  |head|頭髮|头|tóu |file:///android_asset/body.png
+123|Body  |knee|膝蓋|膝盖|xī gài |file:///android_asset/body.png
+124|Body  |leg|腿|腿|tuǐ |file:///android_asset/body.png
+125|Body  |lip|嘴唇|嘴唇|zuǐ chún |file:///android_asset/body.png
+126|Body  |mouth|嘴|嘴|zuǐ |file:///android_asset/body.png
+127|Body  |nail|指甲|指甲|zhǐ jiǎ |file:///android_asset/body.png
+128|Body  |neck|脖子|脖子|bó zǐ |file:///android_asset/body.png
+129|Body  |nose|鼻子|鼻子|bí zǐ |file:///android_asset/body.png
+130|Body  |tongue|舌頭|舌头|shé tóu |file:///android_asset/body.png
+131|Clothings|belt|皮带|皮带|pí dài |file:///android_asset/clothing.png
+132|Clothings|clothes|衣服|衣服|yī fú |file:///android_asset/clothing.png
+133|Clothings|dress|洋装/連衣裙|洋装/连衣裙|yáng zhuāng / lián yī qún |file:///android_asset/clothing.png
+134|Clothings|eyeglasses |眼鏡|眼镜|yǎn jìng |file:///android_asset/clothing.png
+135|Clothings|gloves |手套|手套|shǒu tào |file:///android_asset/clothing.png
+136|Clothings|hat|帽子|帽子|mào zǐ |file:///android_asset/clothing.png
+137|Clothings|jeans|牛仔裤|牛仔裤|niú zī kù |file:///android_asset/clothing.png
+138|Clothings|necktie|领带|领带|lǐng dài |file:///android_asset/clothing.png
+139|Clothings|overcoat |大衣|大衣|dà yī |file:///android_asset/clothing.png
+140|Clothings|pants|裤子/长裤|裤子/长裤|kù zǐ / cháng kù |file:///android_asset/clothing.png
+141|Clothings|shirt/blouse|襯衫|衬衫|chèn shān |file:///android_asset/clothing.png
+142|Clothings|shoes|鞋|鞋|xié |file:///android_asset/clothing.png
+143|Clothings|shorts|短裤|短裤|duǎn kù |file:///android_asset/clothing.png
+144|Clothings|skirt|裙子|裙子|qún zǐ |file:///android_asset/clothing.png
+145|Clothings|sneakers|球鞋/運動鞋|球鞋/运动鞋|qiú xié / yùn dòng xié |file:///android_asset/clothing.png
+146|Clothings|socks|襪子|袜子|wà zǐ |file:///android_asset/clothing.png
+147|Clothings|suit|西装|西装|xī zhuāng |file:///android_asset/clothing.png
+148|Clothings|sweater|毛衣|毛衣|máo yī |file:///android_asset/clothing.png
+149|Clothings|top|上衣|上衣|shàng yī |file:///android_asset/clothing.png
+150|Clothings|T-shirt |T恤衬|T恤衬|T xù chèn |file:///android_asset/clothing.png
+151|Colors|black|黑色|黑色|hēi sè |file:///android_asset/colors.png
+152|Colors|blue|藍色|蓝色|lán sè |file:///android_asset/colors.png
+153|Colors|brown|咖啡色/棕色|咖啡色/棕色|kā fēi sè / zōng sè |file:///android_asset/colors.png
+154|Colors|color|顏色|颜色|yán sè |file:///android_asset/colors.png
+155|Colors|dark purple|深紫色|深紫色|shēn zǐ sè |file:///android_asset/colors.png
+156|Colors|gold|金色|金色|jīn sè |file:///android_asset/colors.png
+157|Colors|green|綠色|绿色|lǜ sè |file:///android_asset/colors.png
+158|Colors|light purple/lavender|淺紫色/淡紫色|浅紫色/淡紫色|qiǎn zǐ sè / dàn zǐ sè |file:///android_asset/colors.png
+159|Colors|orange |橙色|橙色|chéng sè |file:///android_asset/colors.png
+160|Colors|pink|粉紅色|粉红色|fěn hóng sè |file:///android_asset/colors.png
+161|Colors|purple|紫色|紫色|zǐ sè |file:///android_asset/colors.png
+162|Colors|red|紅色|红色|hóng sè |file:///android_asset/colors.png
+163|Colors|silver|銀色|银色|yín sè |file:///android_asset/colors.png
+164|Colors|white|白色|白色|bái sè |file:///android_asset/colors.png
+165|Colors|yellow|黃色|黄色|huáng sè |file:///android_asset/colors.png
+166|Cooking methods|boil |煮|煮|zhǔ |file:///android_asset/cooking.png
+167|Cooking methods|cube|丁|丁|dīng |file:///android_asset/cooking.png
+168|Cooking methods|deep fry|炸|炸|zhà |file:///android_asset/cooking.png
+169|Cooking methods|diced|末|末|mò |file:///android_asset/cooking.png
+170|Cooking methods|piece|塊|块|kuài |file:///android_asset/cooking.png
+171|Cooking methods|shredded|絲|丝|sī |file:///android_asset/cooking.png
+172|Cooking methods|sliced|片|片|piàn |file:///android_asset/cooking.png
+173|Cooking methods|steam|蒸|蒸|zhēng |file:///android_asset/cooking.png
+174|Cooking methods|stir fry|炒|炒|chǎo |file:///android_asset/cooking.png
+175|Counters|academic course|門|门|mén |file:///android_asset/counter.png
+176|Counters|"appliance/machine;  EX: computer,  dryer "|台|台|tái |file:///android_asset/counter.png
+177|Counters|"brisk action;  EX: pat, knock, pinch"|下|下|xià |file:///android_asset/counter.png
+178|Counters|chunk/piece/cube;  EX: piece of cake|塊|块|kuài |file:///android_asset/counter.png
+179|Counters|class period|節|节|jié |file:///android_asset/counter.png
+180|Counters|class period|堂|堂|táng |file:///android_asset/counter.png
+181|Counters|day|天|天|tiān |file:///android_asset/counter.png
+182|Counters|"flat object; EX: paper, photo, bed"|張|张|zhāng |file:///android_asset/counter.png
+183|Counters|from beginning to end|遍|遍|biàn |file:///android_asset/counter.png
+184|Counters|hour|小時|小时|xiǎo shí |file:///android_asset/counter.png
+185|Counters|"in bound form;  EX: books, magazine"|本|本|běn |file:///android_asset/counter.png
+186|Counters|"institution/building;  EX: school, hospital"|所|所|suǒ |file:///android_asset/counter.png
+187|Counters|lesson|课|课|kè |file:///android_asset/counter.png
+188|Counters|"limited actions: heat, scold, heat up "|顿|顿|dùn |file:///android_asset/counter.png
+189|Counters|minute|分鐘|分钟|fēn zhōng |file:///android_asset/counter.png
+190|Counters|object usually in pair;  EX: earrings|副|副|fù |file:///android_asset/counter.png
+191|Counters|"object with handle;  EX: umbrella, knife"|把|把|bǎ |file:///android_asset/counter.png
+192|Counters|"piece of clothing;  EX: shirt, coat"|件|件|jiàn |file:///android_asset/counter.png
+193|Counters|"piece of writing;  EX: article, paper"|篇|篇|piān |file:///android_asset/counter.png
+194|Counters|repeatable action ( more informal) |回|回|huí |file:///android_asset/counter.png
+195|Counters|"reputable action;  EX: go, discuss, say "|次|次|cì |file:///android_asset/counter.png
+196|Counters|"room;  EX: classroom, restroom "|間|间|jiān |file:///android_asset/counter.png
+197|Counters|second|秒鐘|秒钟|miǎo zhōng |file:///android_asset/counter.png
+198|Counters|"stick-like object; EX: pen, ruler"|枝|枝|zhī |file:///android_asset/counter.png
+199|Counters|"strip of object;  EX: belt, fish, river"|條|条|tiáo |file:///android_asset/counter.png
+200|Counters|"vehicle;  EX: car, bus, truck "|辆|辆|liàng |file:///android_asset/counter.png
+201|Counters|week|星期|星期|xīng qī |file:///android_asset/counter.png
+202|Counters|year|年|年|nián |file:///android_asset/counter.png
+203|Directions & Taxi|Close the window|關上窗戶|关上窗户|Guān  shang chuāng  hù |file:///android_asset/taxi.png
+204|Directions & Taxi|Don’t smoke|請忽抽煙|请忽抽烟|Qǐng  wù  chōu  yān |file:///android_asset/taxi.png
+205|Directions & Taxi|Don’t stop the meter|繼續打表|继续打表|Jì  xù  dá  biǎo |file:///android_asset/taxi.png
+206|Directions & Taxi|Drive carefully|開車小心點兒|开车小心点儿|Kāi  chē  xiǎo  xīn  diǎn  er|file:///android_asset/taxi.png
+207|Directions & Taxi|Go east|往東走|往东走|Wǎng  dōng  zǒu |file:///android_asset/taxi.png
+208|Directions & Taxi|Go north|往北走|往北走|Wǎng  bēi  zǒu |file:///android_asset/taxi.png
+209|Directions & Taxi|Go south|往南走|往南走|Wǎng  nān  zǒu |file:///android_asset/taxi.png
+210|Directions & Taxi|Go straight|直走|直走|Zhí  zǒu |file:///android_asset/taxi.png
+211|Directions & Taxi|Go west|往西走|往西走|Wǎng  xī  zǒu |file:///android_asset/taxi.png
+212|Directions & Taxi|How far is ...|有多遠…|有多远…|Yǒu  duō  yuǎn |file:///android_asset/taxi.png
+213|Directions & Taxi|How long will it take to get to ...|去…用多長時間|去...用多长时间|Qù  ... yòng  duō  cháng  shí  jiān |file:///android_asset/taxi.png
+214|Directions & Taxi|Open the window|開開窗戶|开开窗户|Kāi  kāi  chuāng  hù |file:///android_asset/taxi.png
+215|Directions & Taxi|Pick my friend up|接下我朋友|接下我朋友|Jiē  xià  wǒ  péng  yǒu |file:///android_asset/taxi.png
+216|Directions & Taxi|Please wait|稍等|稍等|Shāo  děng |file:///android_asset/taxi.png
+217|Directions & Taxi|Receipt|發票|发票|Fā  piào |file:///android_asset/taxi.png
+218|Directions & Taxi|Stop|停車|停车|Tíng  chē |file:///android_asset/taxi.png
+219|Directions & Taxi|Straight ahead|一直走|一直走|Yì  zhí  zhǒu |file:///android_asset/taxi.png
+220|Directions & Taxi|Take me to airport|去機場|去机场|Qù  jī  chǎng |file:///android_asset/taxi.png
+221|Directions & Taxi|Take me to nearest subway station|去最近的地鐵站|去最近的地铁站|Qù  zuì  jīn  de dì  tiě  zhàn |file:///android_asset/taxi.png
+222|Directions & Taxi|Thank you|謝謝你|谢谢你|Xiē  xiē  nǐ |file:///android_asset/taxi.png
+223|Directions & Taxi|Turn left|左轉|左转|Zuó  zhuǎn |file:///android_asset/taxi.png
+224|Directions & Taxi|Turn off the heating|關上暖氣|关上暖气|Guān  shàng  nuǎn  qī |file:///android_asset/taxi.png
+225|Directions & Taxi|Turn on the air-conditioning|開空調|开空调|Kāi  kōng  tiáo |file:///android_asset/taxi.png
+226|Directions & Taxi|Turn on the heating|開暖氣|开暖气|Kāi  kāi  nuǎn  qì |file:///android_asset/taxi.png
+227|Directions & Taxi|Turn right|右轉|右转|Yòu  zhuǎn |file:///android_asset/taxi.png
+228|Directions & Taxi|Turn-off the air-conditioning|把空調關了|把空调关了|Bǎ  kōng  tiáo  guān  le|file:///android_asset/taxi.png
+229|Directions & Taxi|Use the meter|打表|打表|Dá  biǎo |file:///android_asset/taxi.png
+230|Directions & Taxi|We’ve arrived|到了|到了|Dào  le|file:///android_asset/taxi.png
+231|Directions & Taxi|Where is ...|...在哪兒|…在哪儿|... zài  nǎ  er?|file:///android_asset/taxi.png
+232|Everyday Activities|brush teeth|刷牙|刷牙|shuā yá |file:///android_asset/everyday.png
+233|Everyday Activities|cook|做飯|做饭|zuò fàn |file:///android_asset/everyday.png
+234|Everyday Activities|do laundry |洗衣服|洗衣服|xǐ yī fú |file:///android_asset/everyday.png
+235|Everyday Activities|drive a car|開車|开车|kāi chē |file:///android_asset/everyday.png
+236|Everyday Activities|eat a meal|吃飯|吃饭|chī fàn |file:///android_asset/everyday.png
+237|Everyday Activities|get dressed|穿衣服|穿衣服|chuān yī fú |file:///android_asset/everyday.png
+238|Everyday Activities|get up|起床|起床|qǐ chuáng |file:///android_asset/everyday.png
+239|Everyday Activities|go to school|上学|上学|shàng xué |file:///android_asset/everyday.png
+240|Everyday Activities|go to the bathroom|上廁所|上厕所|shàng cè suǒ |file:///android_asset/everyday.png
+241|Everyday Activities|go to work |上班|上班|shàng bān |file:///android_asset/everyday.png
+242|Everyday Activities|ride a bicycle|騎自行車|骑自行车|qí zì xíng chē |file:///android_asset/everyday.png
+243|Everyday Activities|shower/bathe|洗澡|洗澡|xǐ zǎo |file:///android_asset/everyday.png
+244|Everyday Activities|sleep|睡觉|睡觉|shuì jué |file:///android_asset/everyday.png
+245|Everyday Activities|wash face|洗臉|洗脸|xǐ liǎn |file:///android_asset/everyday.png
+246|Food Basics|American food|美國菜|美国菜|měi guó cài |file:///android_asset/foodbasics.png
+247|Food Basics|bread|面包|面包|miàn bāo |file:///android_asset/foodbasics.png
+248|Food Basics|breakfast|早點早飯|早点早饭|zǎo diǎn zǎo fàn |file:///android_asset/foodbasics.png
+249|Food Basics|burger|漢堡/包漢堡|汉堡/包汉堡|hàn bǎo / bāo hàn bǎo |file:///android_asset/foodbasics.png
+250|Food Basics|butter|黃油/奶油|黄油/奶油|huáng yóu / nǎi yóu |file:///android_asset/foodbasics.png
+251|Food Basics|cake|蛋糕|蛋糕|dàn gāo |file:///android_asset/foodbasics.png
+252|Food Basics|candy|糖果|糖果|táng guǒ |file:///android_asset/foodbasics.png
+253|Food Basics|cheese|奶酪/起司|奶酪/起司|nǎi lào / qǐ sī |file:///android_asset/foodbasics.png
+254|Food Basics|Chinese food|中國菜|中国菜|zhōng guó cài |file:///android_asset/foodbasics.png
+255|Food Basics|chocolate|巧克力|巧克力|qiǎo kè lì |file:///android_asset/foodbasics.png
+256|Food Basics|cooked rice|飯/米飯|饭/米饭|fàn / mǐ fàn |file:///android_asset/foodbasics.png
+257|Food Basics|cookie/cracker|餅干|饼干|bǐng gān |file:///android_asset/foodbasics.png
+258|Food Basics|dessert|甜點|甜点|tián diǎn |file:///android_asset/foodbasics.png
+259|Food Basics|dinner|晚飯|晚饭|wǎn fàn |file:///android_asset/foodbasics.png
+260|Food Basics|dumpling|餃子/水餃|饺子/水饺|jiǎo zǐ / shuǐ jiǎo |file:///android_asset/foodbasics.png
+261|Food Basics|food (formal)|食品/食物|食品/食物|shí pǐn / shí wù |file:///android_asset/foodbasics.png
+262|Food Basics|"food (informal, ""thing"")"|東西|东西|dōng xī |file:///android_asset/foodbasics.png
+263|Food Basics|French fries|炸薯條|炸薯条|zhà shǔ tiáo |file:///android_asset/foodbasics.png
+264|Food Basics|fruit|水果|水果|shuǐ guǒ |file:///android_asset/foodbasics.png
+265|Food Basics|hot dog|熱狗|热狗|rè gǒu |file:///android_asset/foodbasics.png
+266|Food Basics|hot pot|火鍋|火锅|huǒ guō |file:///android_asset/foodbasics.png
+267|Food Basics|ice cream|冰淇淋|冰淇淋|bīng qí lín |file:///android_asset/foodbasics.png
+268|Food Basics|lunch|中飯|中饭|zhōng fàn |file:///android_asset/foodbasics.png
+269|Food Basics|noodle |面/面條|面/面条|miàn / miàn tiáo |file:///android_asset/foodbasics.png
+270|Food Basics|salad|沙拉|沙拉|shā lā |file:///android_asset/foodbasics.png
+271|Food Basics|sandwich|三明治|三明治|sān míng zhì |file:///android_asset/foodbasics.png
+272|Food Basics|snack|點心|点心|diǎn xīn |file:///android_asset/foodbasics.png
+273|Food Basics|soup|湯|汤|tāng |file:///android_asset/foodbasics.png
+274|Food Basics|Szechwan cuisine|四川菜|四川菜|sì chuān cài |file:///android_asset/foodbasics.png
+275|Food Basics|vegetable|蔬菜|蔬菜|shū cài |file:///android_asset/foodbasics.png
+276|Food Basics|wonton|餛飩|馄饨|hún tún |file:///android_asset/foodbasics.png
+277|Grocery - Dairy|Butter|黃油|黄油|Huáng  yóu |file:///android_asset/dairy.png
+278|Grocery - Dairy|Cheese|奶酪|奶酪|Nǎi  lào |file:///android_asset/dairy.png
+279|Grocery - Dairy|Cream|奶油|奶油|Nǎi  yóu |file:///android_asset/dairy.png
+280|Grocery - Dairy|Fresh cream|鮮奶油|鲜奶油|Xiān  nǎi  yóu |file:///android_asset/dairy.png
+281|Grocery - Dairy|Fresh milk|鮮奶|鲜奶|Xiān  nǎi |file:///android_asset/dairy.png
+282|Grocery - Dairy|Ice cream|冰激凌|冰激凌|Bīng  jì  líng |file:///android_asset/dairy.png
+283|Grocery - Dairy|Low fat milk|脫脂奶|脱脂奶|Tuō  zhī  nǎi |file:///android_asset/dairy.png
+284|Grocery - Dairy|Organic milk|有機奶|有机奶|Yǒu  jī  nǎi |file:///android_asset/dairy.png
+285|Grocery - Dairy|Organic yoghurt|有機酸奶|有机酸奶|Yǒu  jī  suān  nǎi |file:///android_asset/dairy.png
+286|Grocery - Dairy|Soya Milk|豆奶|豆奶|Dòu  nǎi |file:///android_asset/dairy.png
+287|Grocery - Dairy|Yoghurt|酸奶|酸奶|Suān  nāi |file:///android_asset/dairy.png
+288|Grocery - Dry goods|Baking soda|發酵粉|发酵粉|Fā  jiào  fen|file:///android_asset/drygoods.png
+289|Grocery - Dry goods|Brown rice|黑米|黑米|Hēi  mǐ |file:///android_asset/drygoods.png
+290|Grocery - Dry goods|Brown sugar|紅糖|红糖|Hóng  táng |file:///android_asset/drygoods.png
+291|Grocery - Dry goods|Corn starch|玉米澱粉|玉米淀粉|yù  mǐ  dian fěn|file:///android_asset/drygoods.png
+292|Grocery - Dry goods|Egg noodles|雞蛋麵條|鸡蛋面条|Jī  dān  miàn  tiáo |file:///android_asset/drygoods.png
+293|Grocery - Dry goods|Flour|麵粉|面粉|miàn  fěn |file:///android_asset/drygoods.png
+294|Grocery - Dry goods|Jasmine rice|香米|香米|Xiāng  mǐ |file:///android_asset/drygoods.png
+295|Grocery - Dry goods|Kidney beans|奶花芸豆|奶花芸豆|Nǎi  huà  yūn  dòu |file:///android_asset/drygoods.png
+296|Grocery - Dry goods|Oats|燕麥|燕麦|Yàn  māi |file:///android_asset/drygoods.png
+297|Grocery - Dry goods|Organic rice|有機米|有机米|Yǒu  jī  mī |file:///android_asset/drygoods.png
+298|Grocery - Dry goods|Pasta|意大利麵|意大利面|Yì  dà  li miàn |file:///android_asset/drygoods.png
+299|Grocery - Dry goods|Rice|米|米|Mǐ |file:///android_asset/drygoods.png
+300|Grocery - Dry goods|Rice noodles|米粉|米粉|Mí  fěn |file:///android_asset/drygoods.png
+301|Grocery - Dry goods|Salt|鹽|盐|Yán |file:///android_asset/drygoods.png
+302|Grocery - Dry goods|Sugar|糖|糖|Táng |file:///android_asset/drygoods.png
+303|Grocery - Dry goods|Whole wheat|全麥|全麦|Quán  mài |file:///android_asset/drygoods.png
+304|Grocery - Fish & Meat|Bacon|培根|培根|Péi  gēn |file:///android_asset/fishmeat.png
+305|Grocery - Fish & Meat|Beef|牛肉|牛肉|Niú  ròu |file:///android_asset/fishmeat.png
+306|Grocery - Fish & Meat|Beef and mutton|牛羊肉|牛羊肉|Niú  yáng  ròu |file:///android_asset/fishmeat.png
+307|Grocery - Fish & Meat|Beef minced|牛肉餡|牛肉馅|Niú  ròu  xiān |file:///android_asset/fishmeat.png
+308|Grocery - Fish & Meat|Beef steak|牛排|牛排|Niú  pái |file:///android_asset/fishmeat.png
+309|Grocery - Fish & Meat|Chicken|雞肉|鸡肉|Jī  ròu |file:///android_asset/fishmeat.png
+310|Grocery - Fish & Meat|Chicken breast|雞胸肉|鸡胸肉|Jī  xiōng  rōu |file:///android_asset/fishmeat.png
+311|Grocery - Fish & Meat|Cod|鲑魚|鲑鱼|Guī  yú |file:///android_asset/fishmeat.png
+312|Grocery - Fish & Meat|crab|螃蟹|螃蟹|páng xiè |file:///android_asset/fishmeat.png
+313|Grocery - Fish & Meat|duck|鴨/鴨肉|鸭/鸭肉|yā / yā ròu |file:///android_asset/fishmeat.png
+314|Grocery - Fish & Meat|egg (from a chicken)|雞蛋|鸡蛋|jī dàn |file:///android_asset/fishmeat.png
+315|Grocery - Fish & Meat|Fish|魚|鱼|Yú |file:///android_asset/fishmeat.png
+316|Grocery - Fish & Meat|Ham|火腿|火腿|Huó  tuǐ |file:///android_asset/fishmeat.png
+317|Grocery - Fish & Meat|Lamb|羊肉|羊肉|Yáng  ròu |file:///android_asset/fishmeat.png
+318|Grocery - Fish & Meat|Lamb leg|羊排|羊排|Yáng  pái |file:///android_asset/fishmeat.png
+319|Grocery - Fish & Meat|Lean meat|里脊|里脊|Lǐ  ji|file:///android_asset/fishmeat.png
+320|Grocery - Fish & Meat|lobster|龍蝦|龙虾|lóng xiā |file:///android_asset/fishmeat.png
+321|Grocery - Fish & Meat|meat|肉|肉|ròu |file:///android_asset/fishmeat.png
+322|Grocery - Fish & Meat|mutton|羊肉|羊肉|yáng ròu |file:///android_asset/fishmeat.png
+323|Grocery - Fish & Meat|Peking duck|北京烤鴨|北京烤鸭|běi jīng kǎo yā |file:///android_asset/fishmeat.png
+324|Grocery - Fish & Meat|Pork|豬肉|猪肉|Zhū  ròu |file:///android_asset/fishmeat.png
+325|Grocery - Fish & Meat|Salami|色拉米|色拉米|Sè  lā  mǐ |file:///android_asset/fishmeat.png
+326|Grocery - Fish & Meat|Salmon|三文魚|三文鱼|Sān  wén  yú |file:///android_asset/fishmeat.png
+327|Grocery - Fish & Meat|Sausages|香腸|香肠|Xiāng  cháng |file:///android_asset/fishmeat.png
+328|Grocery - Fish & Meat|seafood|海產/海鮮|海产/海鲜|hǎi chǎn / hǎi xiān |file:///android_asset/fishmeat.png
+329|Grocery - Fish & Meat|shrimp|蝦|虾|xiā |file:///android_asset/fishmeat.png
+330|Grocery - Fish & Meat|squid|魷魚|鱿鱼|yóu yú |file:///android_asset/fishmeat.png
+331|Grocery - Fruits|Apple|蘋果|苹果|Píng  guǒ |file:///android_asset/fruits.png
+332|Grocery - Fruits|Avocado|鱷梨|鳄梨|È  lí |file:///android_asset/fruits.png
+333|Grocery - Fruits|banana|香蕉|香蕉|xiāng jiāo |file:///android_asset/fruits.png
+334|Grocery - Fruits|fruit juice|水果|水果|shuǐ guǒ |file:///android_asset/fruits.png
+335|Grocery - Fruits|grape|葡萄|葡萄|pú táo |file:///android_asset/fruits.png
+336|Grocery - Fruits|Grapes|葡萄|葡萄|Pú  táo |file:///android_asset/fruits.png
+337|Grocery - Fruits|Grapes - seedless|無籽葡萄|无籽葡萄|Wú  zǐ  pú  táo |file:///android_asset/fruits.png
+338|Grocery - Fruits|Honey melon|蜜瓜|蜜瓜|Mì  guā |file:///android_asset/fruits.png
+339|Grocery - Fruits|"lemon, lime"|檸檬|柠檬|níng méng |file:///android_asset/fruits.png
+340|Grocery - Fruits|lychee|荔枝|荔枝|lì zhī |file:///android_asset/fruits.png
+341|Grocery - Fruits|mango|芒果|芒果|máng guǒ |file:///android_asset/fruits.png
+342|Grocery - Fruits|Orange|橙子|橙子|Chéng  zi|file:///android_asset/fruits.png
+343|Grocery - Fruits|peach|桃兒/桃子|桃儿/桃子|táo ér / táo zǐ |file:///android_asset/fruits.png
+344|Grocery - Fruits|Pear|梨|梨|Lí |file:///android_asset/fruits.png
+345|Grocery - Fruits|Persimmon|柿子|柿子|Shì  zi|file:///android_asset/fruits.png
+346|Grocery - Fruits|pineapple|菠蘿/鳳梨|菠萝/凤梨|bō luó / fèng lí |file:///android_asset/fruits.png
+347|Grocery - Fruits|plumber and electrician|李子|李子|lǐ zǐ |file:///android_asset/fruits.png
+348|Grocery - Fruits|Ripe|熟了|熟了|Shú  le|file:///android_asset/fruits.png
+349|Grocery - Fruits|Sour (taste)|酸的|酸的|Suān  de|file:///android_asset/fruits.png
+350|Grocery - Fruits|star fruit|楊桃|杨桃|yáng táo |file:///android_asset/fruits.png
+351|Grocery - Fruits|strawberry|草莓|草莓|cǎo méi |file:///android_asset/fruits.png
+352|Grocery - Fruits|Sweet (taste)|甜的|甜的|Tián  de|file:///android_asset/fruits.png
+353|Grocery - Fruits|tangerine|橘子|橘子|jú zǐ |file:///android_asset/fruits.png
+354|Grocery - Fruits|Watermelon|西瓜|西瓜|Xī  guā |file:///android_asset/fruits.png
+355|Grocery - Spices & Preserves|Band aid/Plaster|繃帶/創可貼|绷带/创可贴|Bēng  dài / Chuàng  kě  tiē |file:///android_asset/spices.png
+356|Grocery - Spices & Preserves|Basil|羅勒|罗勒|Luó  lè |file:///android_asset/spices.png
+357|Grocery - Spices & Preserves|Bay leaf|月桂樹葉|月桂树叶|Yuè  guì  shù  yè |file:///android_asset/spices.png
+358|Grocery - Spices & Preserves|cooking oil|油|油|yóu |file:///android_asset/spices.png
+359|Grocery - Spices & Preserves|cooking wine|料酒|料酒|liào jiǔ |file:///android_asset/spices.png
+360|Grocery - Spices & Preserves|Corn oil|玉米油|玉米油|Yù  mǐ  yóu |file:///android_asset/spices.png
+361|Grocery - Spices & Preserves|Garlic powder|蒜粉|蒜粉|Suān  fěn |file:///android_asset/spices.png
+362|Grocery - Spices & Preserves|Honey|蜂蜜|蜂蜜|Fēng  mì |file:///android_asset/spices.png
+363|Grocery - Spices & Preserves|Jam|果醬|果酱|Guǒ  jiàng |file:///android_asset/spices.png
+364|Grocery - Spices & Preserves|MSG|味精|味精|wèi jīng |file:///android_asset/spices.png
+365|Grocery - Spices & Preserves|Olive oil|橄欖油|橄榄油|Gān  lān  yóu |file:///android_asset/spices.png
+366|Grocery - Spices & Preserves|Oregano|小葉薄荷|小叶薄荷|Xiǎo  yè  bó  hé |file:///android_asset/spices.png
+367|Grocery - Spices & Preserves|Oyster sauce|耗油|耗油|Háo  yóu |file:///android_asset/spices.png
+368|Grocery - Spices & Preserves|Paprika|紅燈籠辣椒|红灯笼辣椒|Hóng  dēng  lōng  là  jiāo |file:///android_asset/spices.png
+369|Grocery - Spices & Preserves|Pepper - black|黑胡椒粉|黑胡椒粉|Hēi  hú  jiāo  fěn |file:///android_asset/spices.png
+370|Grocery - Spices & Preserves|Pepper - white|白胡椒粉|白胡椒粉|Bái  hú  jiāo  fěn |file:///android_asset/spices.png
+371|Grocery - Spices & Preserves|salt|鹽|盐|yán |file:///android_asset/spices.png
+372|Grocery - Spices & Preserves|seasoning|佐料|佐料|zuǒ liào |file:///android_asset/spices.png
+373|Grocery - Spices & Preserves|Sesame sauce|芝麻醬|芝麻酱|Zhī  má  jiàng |file:///android_asset/spices.png
+374|Grocery - Spices & Preserves|Soy sauce|醬油|酱油|Jiàng  yóu |file:///android_asset/spices.png
+375|Grocery - Spices & Preserves|Sugar|糖|糖|Táng |file:///android_asset/spices.png
+376|Grocery - Spices & Preserves|Tomato sauce|番茄醬|番茄酱|Fān  qié  jiàng |file:///android_asset/spices.png
+377|Grocery - Spices & Preserves|Vanilla|香草|香草|Xiāng  cǎo |file:///android_asset/spices.png
+378|Grocery - Spices & Preserves|Vanilla stick|香草枝|香草枝|Xiāng  cǎo  zhī |file:///android_asset/spices.png
+379|Grocery - Spices & Preserves|vinegar|醋|醋|cù |file:///android_asset/spices.png
+380|Grocery - Useful|Baking paper|燒烤紙|烧烤纸|Shāo  kǎo  zhǐ |file:///android_asset/grocery.png
+381|Grocery - Useful|Can I pay with a foreign credit card|我可以用國外的信用卡支付嗎|我可以用国外的信用卡支付吗|Wǒ  ké  yí  yòng  guó  wài  de xìn  yòng  kǎ  zhī  fù  ma|file:///android_asset/grocery.png
+382|Grocery - Useful|Cling wrap|保鮮膜|保鲜膜|Bǎo  xiān  mó |file:///android_asset/grocery.png
+383|Grocery - Useful|Large garbage bag|大垃圾袋|大垃圾袋|Dà  lā  jī  dài |file:///android_asset/grocery.png
+384|Grocery - Useful|No plastic bag|沒有塑料袋|没有塑料袋|Méi  yǒu  sù  liào  dà i|file:///android_asset/grocery.png
+385|Grocery - Useful|Plastic bag|塑料袋|塑料袋|Sù  liào  dài |file:///android_asset/grocery.png
+386|Grocery - Useful|Receipt|發票|发票|Fā  piào |file:///android_asset/grocery.png
+387|Grocery - Vegetables|bakchoi|小白菜|小白菜|xiǎo bái cài |file:///android_asset/vegetables.png
+388|Grocery - Vegetables|bean curd/tofu|豆腐|豆腐|dòu fǔ |file:///android_asset/vegetables.png
+389|Grocery - Vegetables|Broccoli|西蘭花|西兰花|Xī  lán  huā |file:///android_asset/vegetables.png
+390|Grocery - Vegetables|Cabbage|圓白菜|圆白菜|Yuán  bái  cài |file:///android_asset/vegetables.png
+391|Grocery - Vegetables|Carrot|胡蘿蔔|胡萝卜|Hú  luó  bó |file:///android_asset/vegetables.png
+392|Grocery - Vegetables|Cherry tomato|小番茄|小番茄|Xiǎo  fān  qié |file:///android_asset/vegetables.png
+393|Grocery - Vegetables|Chinese cabbage/Napa cabbage|大白菜|大白菜|dà bái cài |file:///android_asset/vegetables.png
+394|Grocery - Vegetables|Corn|玉米油|玉米|Yù  mǐ |file:///android_asset/vegetables.png
+395|Grocery - Vegetables|cucumber|黃瓜|黄瓜|huáng guā |file:///android_asset/vegetables.png
+396|Grocery - Vegetables|Egg plant|茄子|茄子|Qié  zī |file:///android_asset/vegetables.png
+397|Grocery - Vegetables|French beans|荷蘭豆|荷兰豆|Hé  lán  dòu |file:///android_asset/vegetables.png
+398|Grocery - Vegetables|Garlic|蒜|蒜|Suàn |file:///android_asset/vegetables.png
+399|Grocery - Vegetables|garlic|蒜|蒜|suàn |file:///android_asset/vegetables.png
+400|Grocery - Vegetables|ginger|姜|姜|jiāng |file:///android_asset/vegetables.png
+401|Grocery - Vegetables|green pepper|青椒|青椒|qīng jiāo |file:///android_asset/vegetables.png
+402|Grocery - Vegetables|green vegetable|青菜|青菜|qīng cài |file:///android_asset/vegetables.png
+403|Grocery - Vegetables|hot pepper|辣椒|辣椒|là jiāo |file:///android_asset/vegetables.png
+404|Grocery - Vegetables|Kailan|芥蘭|芥兰|Jiè  lán |file:///android_asset/vegetables.png
+405|Grocery - Vegetables|Leak|大蔥|大葱|Dà  cōng |file:///android_asset/vegetables.png
+406|Grocery - Vegetables|Lettuce|生菜|生菜|Shēng  cài |file:///android_asset/vegetables.png
+407|Grocery - Vegetables|Long beans|長豆角|长豆角|Cháng  dòu  jiǎo |file:///android_asset/vegetables.png
+408|Grocery - Vegetables|Mushroom|蘑菇|蘑菇|Mó  gū |file:///android_asset/vegetables.png
+409|Grocery - Vegetables|Onion|洋蔥|洋葱|Yáng  cōng |file:///android_asset/vegetables.png
+410|Grocery - Vegetables|potato|土豆兒/馬鈴薯|土豆儿/马铃薯|tǔ dòu ér / mǎ líng shǔ |file:///android_asset/vegetables.png
+411|Grocery - Vegetables|radish|蘿卜|萝卜|luó bǔ |file:///android_asset/vegetables.png
+412|Grocery - Vegetables|scallion|蔥|葱|cōng |file:///android_asset/vegetables.png
+413|Grocery - Vegetables|Spinach|菠菜|菠菜|Bō  cài |file:///android_asset/vegetables.png
+414|Grocery - Vegetables|Spring onion|小蔥|小葱|Xiǎo  cōng |file:///android_asset/vegetables.png
+415|Grocery - Vegetables|Squash|西葫蘆|西葫芦|Xī  hú  lú |file:///android_asset/vegetables.png
+416|Grocery - Vegetables|string bean|四季豆/豆角|四季豆/豆角|sì jì dòu / dòu jiǎo |file:///android_asset/vegetables.png
+417|Grocery - Vegetables|tomato|西紅柿/番茄|西红柿/番茄|xī hóng shì / fān qié |file:///android_asset/vegetables.png
+418|Grocery - Vegetables|Yam/Tarot|番薯|番薯|Fān  shú |file:///android_asset/vegetables.png
+419|House|air conditioning |空调/冷气|空调/冷气|kōng diào / lěng qì |file:///android_asset/house.png
+420|House|apartment|公寓|公寓|gōng yù |file:///android_asset/house.png
+421|House|basement|地下室|地下室|dì xià shì |file:///android_asset/house.png
+422|House|door|門|门|mén |file:///android_asset/house.png
+423|House|electric light|電燈|电灯|diàn dēng |file:///android_asset/house.png
+424|House|floor/storey|樓/層|楼/层|lóu / céng |file:///android_asset/house.png
+425|House|heat|暖氣|暖气|nuǎn qì |file:///android_asset/house.png
+426|House|home|家|家|jiā |file:///android_asset/house.png
+427|House|house|房子|房子|fáng zǐ |file:///android_asset/house.png
+428|House|stairs|樓梯|楼梯|lóu tī |file:///android_asset/house.png
+429|House|wall|墻|墙|qiáng |file:///android_asset/house.png
+430|House|window|窗户|窗户|chuāng hù |file:///android_asset/house.png
+431|House|yard|院子|院子|yuàn zǐ |file:///android_asset/house.png
+432|House - Bathroom |Aluminum foil|錫紙|锡纸|Xì  zhǐ |file:///android_asset/bathroom.png
+433|House - Bathroom |bath tub|浴缸|浴缸/澡盆|yù gāng|file:///android_asset/bathroom.png
+434|House - Bathroom |bathroom tissue|手纸|手纸/卫生纸|shǒu zhǐ|file:///android_asset/bathroom.png
+435|House - Bathroom |bathroom |廁所|厕所/浴室|cè suǒ|file:///android_asset/bathroom.png
+436|House - Bathroom |comb/hairbrush|梳子|梳子|shū zǐ |file:///android_asset/bathroom.png
+437|House - Bathroom |Conditioner|護髮素|护发素|Hù  fǎ  sù |file:///android_asset/bathroom.png
+438|House - Bathroom |Diapers|尿不濕|尿不湿|Niào  bù  shī |file:///android_asset/bathroom.png
+439|House - Bathroom |dryer|干衣機|干衣机|gān yī jī |file:///android_asset/bathroom.png
+440|House - Bathroom |faucet|水龍頭|水龙头|shuǐ lóng tóu |file:///android_asset/bathroom.png
+441|House - Bathroom |Lotion|護膚油|护肤油|Hù  fū  yóu |file:///android_asset/bathroom.png
+442|House - Bathroom |mirror |鏡子|镜子|jìng zǐ |file:///android_asset/bathroom.png
+443|House - Bathroom |perfumed soap|香皂|香皂|xiāng zào |file:///android_asset/bathroom.png
+444|House - Bathroom |Sanitary pad|衛生巾|卫生巾|Wèi  shēng  jīn |file:///android_asset/bathroom.png
+445|House - Bathroom |Shampoo|香波|香波|Xiāng  bō |file:///android_asset/bathroom.png
+446|House - Bathroom |Shaving blade|刮鬍刀|刮胡刀|Guā  hú  dāo |file:///android_asset/bathroom.png
+447|House - Bathroom |Shoe polish|鞋油|鞋油|Xié  yóu |file:///android_asset/bathroom.png
+448|House - Bathroom |sink/washbasin|洗臉池|洗脸池|xǐ liǎn chí |file:///android_asset/bathroom.png
+449|House - Bathroom |tissue |面紙|面纸|miàn zhǐ |file:///android_asset/bathroom.png
+450|House - Bathroom |toilet|馬桶|马桶|mǎ tǒng |file:///android_asset/bathroom.png
+451|House - Bathroom |Toothbrush|牙刷|牙刷|Yá  shuā |file:///android_asset/bathroom.png
+452|House - Bathroom |Toothpaste|牙膏|牙膏|Yá  gāo |file:///android_asset/bathroom.png
+453|House - Bathroom |towel|毛巾|毛巾|máo jīn |file:///android_asset/bathroom.png
+454|House - Bathroom |washer|洗衣機|洗衣机|xǐ yī jī |file:///android_asset/bathroom.png
+455|House - Bedroom|alarm clock|鬧鐘|闹钟|nào zhōng |file:///android_asset/bedroom.png
+456|House - Bedroom|bed|床|床|chuáng |file:///android_asset/bedroom.png
+457|House - Bedroom|bed sheet|床單|床单|chuáng dān |file:///android_asset/bedroom.png
+458|House - Bedroom|bedroom|卧室|卧室|wò shì |file:///android_asset/bedroom.png
+459|House - Bedroom|blanket|毯子|毯子|tǎn zǐ |file:///android_asset/bedroom.png
+460|House - Bedroom|comforter |被子|被子|bèi zǐ |file:///android_asset/bedroom.png
+461|House - Bedroom|pajama|睡衣|睡衣|shuì yī |file:///android_asset/bedroom.png
+462|House - Bedroom|pillow|枕頭|枕头|zhěn tóu |file:///android_asset/bedroom.png
+463|House - Bedroom|wardrobe|衣櫃|衣柜|yī guì |file:///android_asset/bedroom.png
+464|House - Dining room|bowl|碗|碗|wǎn |file:///android_asset/housedining.png
+465|House - Dining room|chair|椅子|椅子|yǐ zǐ |file:///android_asset/housedining.png
+466|House - Dining room|chopsticks|筷子|筷子|kuài zǐ |file:///android_asset/housedining.png
+467|House - Dining room|cup|杯子|杯子|bēi zǐ |file:///android_asset/housedining.png
+468|House - Dining room|dining room|飯廳|饭厅|fàn tīng |file:///android_asset/housedining.png
+469|House - Dining room|dining table|飯桌|饭桌|fàn zhuō |file:///android_asset/housedining.png
+470|House - Dining room|napkin|餐巾|餐巾|cān jīn |file:///android_asset/housedining.png
+471|House - Dining room|plate|盤子|盘子|pán zǐ |file:///android_asset/housedining.png
+472|House - Kitchen|coffee maker|咖啡壶|咖啡壶|kā fēi hú |file:///android_asset/kitchen.png
+473|House - Kitchen|kitchen knife|菜刀|菜刀|cài dāo |file:///android_asset/kitchen.png
+474|House - Kitchen|kitchen |厨房|厨房|chú fáng |file:///android_asset/kitchen.png
+475|House - Kitchen|microwave|微波爐|微波炉|wēi bō lú |file:///android_asset/kitchen.png
+476|House - Kitchen|refrigerator|電冰箱|电冰箱|diàn bīng xiāng |file:///android_asset/kitchen.png
+477|House - Kitchen|stove|爐子|炉子|lú zǐ |file:///android_asset/kitchen.png
+478|House - Kitchen|telephone|電话|电话|diàn huà |file:///android_asset/kitchen.png
+479|House - Kitchen|wok/pot|锅子|锅子|guō zǐ |file:///android_asset/kitchen.png
+480|House - Living Room|coffee table|茶几|茶几|chá jī |file:///android_asset/livingroom.png
+481|House - Living Room|living room|客廳|客厅|kè tīng |file:///android_asset/livingroom.png
+482|House - Living Room|rug/carpet|地毯|地毯|dì tǎn |file:///android_asset/livingroom.png
+483|House - Living Room|sofa|沙發|沙发|shā fā |file:///android_asset/livingroom.png
+484|House - Living Room|television|電視|电视|diàn shì |file:///android_asset/livingroom.png
+485|Job Status|benefits |福利|福利|fú lì |file:///android_asset/jobstatus.png
+486|Job Status|between jobs|待業|待业|dài yè |file:///android_asset/jobstatus.png
+487|Job Status|employed/employment |就業|就业|jiù yè |file:///android_asset/jobstatus.png
+488|Job Status|interview|面試|面试|miàn shì |file:///android_asset/jobstatus.png
+489|Job Status|pension|退休金|退休金|tuì xiū jīn |file:///android_asset/jobstatus.png
+490|Job Status|probation |試用|试用|shì yòng |file:///android_asset/jobstatus.png
+491|Job Status|raise|加薪|加薪|jiā xīn |file:///android_asset/jobstatus.png
+492|Job Status|salary deduction|减薪|减薪|jiǎn xīn |file:///android_asset/jobstatus.png
+493|Job Status|to apply for job|申请工作|申请工作|shēn qǐng gōng zuò |file:///android_asset/jobstatus.png
+494|Job Status|to demote|降级|降级|jiàng jí |file:///android_asset/jobstatus.png
+495|Job Status|to fire|解雇|解雇|jiě gù |file:///android_asset/jobstatus.png
+496|Job Status|to promote|提升|提升|tí shēng |file:///android_asset/jobstatus.png
+497|Job Status|to retire|退休|退休|tuì xiū |file:///android_asset/jobstatus.png
+498|Job Status|unemployed/to lose job|失業|失业|shī yè |file:///android_asset/jobstatus.png
+499|Money|basic unit of money|塊|块|kuài |file:///android_asset/money.png
+500|Money|cash|現金|现金|xiàn jīn |file:///android_asset/money.png
+501|Money|cent|分|分|fēn |file:///android_asset/money.png
+502|Money|Chinese currency|人民幣|人民币|rén mín bì |file:///android_asset/money.png
+503|Money|credit card|信用卡|信用卡|xìn yòng qiǎ |file:///android_asset/money.png
+504|Money|money|錢|钱|qián |file:///android_asset/money.png
+505|Money|Taiwanese currency|台幣|台币|tái bì |file:///android_asset/money.png
+506|Money|ten cents|角/毛|角/毛|jiǎo / máo |file:///android_asset/money.png
+507|Money|three Chinese yuan|三塊人民幣|三块人民币|sān kuài rén mín bì |file:///android_asset/money.png
+508|Money|three U.S. dollars|三塊美元|三块美元|sān kuài měi yuán |file:///android_asset/money.png
+509|Money|U.S. dollar|美元|美元|měi yuán |file:///android_asset/money.png
+510|Numbers|1|一|一|yī |file:///android_asset/numbers.png
+511|Numbers|2|二|二|èr |file:///android_asset/numbers.png
+512|Numbers|3|三|三|sān |file:///android_asset/numbers.png
+513|Numbers|4|四|四|sì |file:///android_asset/numbers.png
+514|Numbers|5|五|五|wǔ |file:///android_asset/numbers.png
+515|Numbers|6|六|六|liù |file:///android_asset/numbers.png
+516|Numbers|7|七|七|qī |file:///android_asset/numbers.png
+517|Numbers|8|八|八|bā |file:///android_asset/numbers.png
+518|Numbers|9|九|九|jiǔ |file:///android_asset/numbers.png
+519|Numbers|10|十|十|shí |file:///android_asset/numbers.png
+520|Numbers|11|十一|十一|shí yī |file:///android_asset/numbers.png
+521|Numbers|12|十二|十二|shí èr |file:///android_asset/numbers.png
+522|Numbers|20|二十|二十|èr shí |file:///android_asset/numbers.png
+523|Numbers|21|二十一|二十一|èr shí yī |file:///android_asset/numbers.png
+524|Numbers|22|二十二|二十二|èr shí èr |file:///android_asset/numbers.png
+525|Numbers|30|三十|三十|sān shí |file:///android_asset/numbers.png
+526|Numbers|31|三十一|三十一|sān shí yī |file:///android_asset/numbers.png
+527|Numbers|32|三十二|三十二|sān shí èr |file:///android_asset/numbers.png
+528|Numbers|40|四十|四十|sì shí |file:///android_asset/numbers.png
+529|Numbers|50|五十|五十|wǔ shí |file:///android_asset/numbers.png
+530|Numbers|60|六十|六十|liù shí |file:///android_asset/numbers.png
+531|Numbers|70|七十|七十|qī shí |file:///android_asset/numbers.png
+532|Numbers|80|八十|八十|bā shí |file:///android_asset/numbers.png
+533|Numbers|90|九十|九十|jiǔ shí |file:///android_asset/numbers.png
+534|Numbers|100|一百|一百|yī bǎi |file:///android_asset/numbers.png
+535|Numbers|101|一百零一|一百零一|yī bǎi líng yī |file:///android_asset/numbers.png
+536|Numbers|102|一百零二|一百零二|yī bǎi líng èr |file:///android_asset/numbers.png
+537|Numbers|110|一百一十|一百一十|yī bǎi yī shí |file:///android_asset/numbers.png
+538|Numbers|111|一百一十一|一百一十一|yī bǎi yī shí yī |file:///android_asset/numbers.png
+539|Numbers|112|一百一十二|一百一十二|yī bǎi yī shí èr |file:///android_asset/numbers.png
+540|Numbers|200|兩百|两百|liǎng bǎi |file:///android_asset/numbers.png
+541|Numbers|201|兩百零一|两百零一|liǎng bǎi líng yī |file:///android_asset/numbers.png
+542|Numbers|202|兩百零二|两百零二|liǎng bǎi líng èr |file:///android_asset/numbers.png
+543|Numbers|210|兩百一十|两百一十|liǎng bǎi yī shí |file:///android_asset/numbers.png
+544|Numbers|211|兩百一十一|两百一十一|liǎng bǎi yī shí yī |file:///android_asset/numbers.png
+545|Numbers|212|兩百一十二|两百一十二|liǎng bǎi yī shí èr |file:///android_asset/numbers.png
+546|Numbers|"1,000"|一千|一千|yī qiān |file:///android_asset/numbers.png
+547|Numbers|"1,001"|一千零一|一千零一|yī qiān líng yī |file:///android_asset/numbers.png
+548|Numbers|"1,011"|一千零一十一|一千零一十一|yī qiān líng yī shí yī |file:///android_asset/numbers.png
+549|Numbers|"1,100"|一千一百|一千一百|yī qiān yī bǎi |file:///android_asset/numbers.png
+550|Numbers|"1,101"|一千一百零一|一千一百零一|yī qiān yī bǎi líng yī |file:///android_asset/numbers.png
+551|Numbers|"2,000"|兩千|两千|liǎng qiān |file:///android_asset/numbers.png
+552|Numbers|"10,000"|一萬|一万|yī wàn |file:///android_asset/numbers.png
+553|Numbers|"11,111"|一萬一千一百一十一|一万一千一百一十一|yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
+554|Numbers|"20,000"|兩萬|两万|liǎng wàn |file:///android_asset/numbers.png
+555|Numbers|"100,000"|十萬|十万|shí wàn |file:///android_asset/numbers.png
+556|Numbers|"111,111"|十一萬一千一百一十一|十一万一千一百一十一|shí yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
+557|Numbers|"200,000"|二十萬|二十万|èr shí wàn |file:///android_asset/numbers.png
+558|Numbers|"1,000,000"|一百萬|一百万|yī bǎi wàn |file:///android_asset/numbers.png
+559|Numbers|"1,111,111"|一百一十一萬一千一百一十一|一百一十一万一千一百一十一|yī bǎi yī shí yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
+560|Numbers|"2,000,000"|兩百萬|两百万|liǎng bǎi wàn |file:///android_asset/numbers.png
+561|Numbers|"10,000,000"|一千萬|一千万|yī qiān wàn |file:///android_asset/numbers.png
+562|Numbers|"11,111,111"|一千一百一十一萬一千一百一十一|一千一百一十一万一千一百一十一|yī qiān yī bǎi yī shí yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
+563|Numbers|"100,000,000"|一億|一亿|yī yì |file:///android_asset/numbers.png
+564|Numbers|"111,111,111"|一億一千一百一十一萬一千一百一十一|一亿一千一百一十一万一千一百一十一|yī yì yī qiān yī bǎi yī shí yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
+565|Numbers|"1,000,000,000"|十億|十亿|shí yì |file:///android_asset/numbers.png
+566|Numbers|"1,111,111,111"|十一億一千一百一十一萬一千一百一十一|十一亿一千一百一十一万一千一百一十一|shí yī yì yī qiān yī bǎi yī shí yī wàn yī qiān yī bǎi yī shí yī |file:///android_asset/numbers.png
+567|Occupations|accountant |會計|会计|huì jì |file:///android_asset/occupation.png
+568|Occupations|actor/actress|演員|演员|yǎn yuán |file:///android_asset/occupation.png
+569|Occupations|artist/painter |畫家|画家|huà jiā |file:///android_asset/occupation.png
+570|Occupations|athlete|運動員|运动员|yùn dòng yuán |file:///android_asset/occupation.png
+571|Occupations|bellhop|行李員|行李员|xíng lǐ yuán |file:///android_asset/occupation.png
+572|Occupations|chef|廚師|厨师|chú shī |file:///android_asset/occupation.png
+573|Occupations|dentist|牙醫|牙医|yá yī |file:///android_asset/occupation.png
+574|Occupations|doorman|門房|门房|mén fáng |file:///android_asset/occupation.png
+575|Occupations|driver|司機|司机|sī jī |file:///android_asset/occupation.png
+576|Occupations|engineer|工程师|工程师|gōng chéng shī |file:///android_asset/occupation.png
+577|Occupations|farmer|農人|农人|nóng rén |file:///android_asset/occupation.png
+578|Occupations|government employee |公務员|公务员|gōng wù yuán |file:///android_asset/occupation.png
+579|Occupations|hairdresser|美發师|美发师|měi fā shī |file:///android_asset/occupation.png
+580|Occupations|housewife |家庭主婦|家庭主妇|jiā tíng zhǔ fù |file:///android_asset/occupation.png
+581|Occupations|janitor|清潔工|清洁工|qīng jié gōng |file:///android_asset/occupation.png
+582|Occupations|lawyer|律师|律师|lǜ shī |file:///android_asset/occupation.png
+583|Occupations|musician|音樂家|音乐家|yīn lè jiā |file:///android_asset/occupation.png
+584|Occupations|nurse|護士|护士|hù shì |file:///android_asset/occupation.png
+585|Occupations|owner of business|老板|老板|lǎo bǎn |file:///android_asset/occupation.png
+586|Occupations|physician|醫生|医生|yī shēng |file:///android_asset/occupation.png
+587|Occupations|plumber and electrician|水電匠|水电匠|shuǐ diàn jiàng |file:///android_asset/occupation.png
+588|Occupations|policeman |警察|警察|jǐng chá |file:///android_asset/occupation.png
+589|Occupations|professor|教授|教授|jiào shòu |file:///android_asset/occupation.png
+590|Occupations|programmer|程式设计师|程式设计师|chéng shì shè jì shī |file:///android_asset/occupation.png
+591|Occupations|receptionist|接待员|接待员|jiē dài yuán |file:///android_asset/occupation.png
+592|Occupations|secretary |秘書|秘书|mì shū |file:///android_asset/occupation.png
+593|Occupations|security guard|警衛|警卫|jǐng wèi |file:///android_asset/occupation.png
+594|Occupations|soldier|軍人|军人|jūn rén |file:///android_asset/occupation.png
+595|Occupations|store attendant |店員|店员|diàn yuán |file:///android_asset/occupation.png
+596|Occupations|surgeon|外科醫生|外科医生|wài kē yī shēng |file:///android_asset/occupation.png
+597|Occupations|teacher |老师|老师|lǎo shī |file:///android_asset/occupation.png
+598|Occupations|veterinarian|獸醫|兽医|shòu yī |file:///android_asset/occupation.png
+599|Occupations|waiter/waitress|服务員|服务员|fú wù yuán |file:///android_asset/occupation.png
+600|Occupations|worker|工人|工人|gōng rén |file:///android_asset/occupation.png
+601|Occupations|writer/author|作家|作家|zuò jiā |file:///android_asset/occupation.png
+602|People|advisor|指導教授|指导教授|zhǐ dǎo jiào shòu |file:///android_asset/people.png
+603|People|boyfriend|男朋友|男朋友|nán péng yǒu |file:///android_asset/people.png
+604|People|classmate|同學|同学|tóng xué |file:///android_asset/people.png
+605|People|college student|大學生|大学生|dà xué shēng |file:///android_asset/people.png
+606|People|dad/father |爸爸|爸爸|bà bà |file:///android_asset/people.png
+607|People|elementary student|小學生|小学生|xiǎo xué shēng |file:///android_asset/people.png
+608|People|father's older brother |伯伯|伯伯|bó bó |file:///android_asset/people.png
+609|People|father's sister|姑姑/姑媽|姑姑/姑妈|gū gū / gū mā |file:///android_asset/people.png
+610|People|father's younger brother|叔叔|叔叔|shū shū |file:///android_asset/people.png
+611|People|foreign student|留學生|留学生|liú xué shēng |file:///android_asset/people.png
+612|People|freshman year|一年级|一年级|yī nián jí |file:///android_asset/people.png
+613|People|friend|朋友|朋友|péng yǒu |file:///android_asset/people.png
+614|People|girlfriend|女朋友|女朋友|nǚ péng yǒu |file:///android_asset/people.png
+615|People|graduate student|研究生|研究生|yán jiū shēng |file:///android_asset/people.png
+616|People|granddaughter from daughter |外孫女|外孙女|wài sūn nǚ |file:///android_asset/people.png
+617|People|granddaughter from son|孫女|孙女|sūn nǚ |file:///android_asset/people.png
+618|People|grandson from daughter|外孫|外孙|wài sūn |file:///android_asset/people.png
+619|People|grandson from son|孫子|孙子|sūn zǐ |file:///android_asset/people.png
+620|People|high school student|高中生|高中生|gāo zhōng shēng |file:///android_asset/people.png
+621|People|husband|丈夫/先生|丈夫/先生|zhàng fū / xiān shēng |file:///android_asset/people.png
+622|People|immediate family member|家人|家人|jiā rén |file:///android_asset/people.png
+623|People|junior year|三年级|三年级|sān nián jí |file:///android_asset/people.png
+624|People|maternal grandfather|外公|外公/外祖父|wài gōng|file:///android_asset/people.png
+625|People|maternal grandmother|外婆|外婆/外祖母|wài pó |file:///android_asset/people.png
+626|People|middle school student|中學生|中学生|zhōng xué shēng |file:///android_asset/people.png
+627|People|mom/mother|媽媽|妈妈|mā mā |file:///android_asset/people.png
+628|People|mother's brother |舅舅|舅舅|jiù jiù |file:///android_asset/people.png
+629|People|mother's sister|姨媽/阿姨|姨妈/阿姨|yí mā / ā yí |file:///android_asset/people.png
+630|People|older brother|哥哥|哥哥|gē gē |file:///android_asset/people.png
+631|People|older female cousin (father's brother's side) |堂姐|堂姐|táng jiě |file:///android_asset/people.png
+632|People|older female cousin (last same different from yours) |表姐|表姐|biǎo jiě |file:///android_asset/people.png
+633|People|older male cousin (father's brother's side) |堂哥|堂哥|táng gē |file:///android_asset/people.png
+634|People|older male cousin (last name different from yours) |表哥|表哥|biǎo gē |file:///android_asset/people.png
+635|People|older sister|姐姐|姐姐|jiě jiě |file:///android_asset/people.png
+636|People|paternal grandfather |爺爺|爷爷/祖父|yé yé|file:///android_asset/people.png
+637|People|paternal grandmother |奶奶|奶奶/祖母|nǎi nǎi|file:///android_asset/people.png
+638|People|president of university |校長|校长|xiào cháng |file:///android_asset/people.png
+639|People|professor|教授|教授|jiào shòu |file:///android_asset/people.png
+640|People|relative|親戚|亲戚|qīn qī |file:///android_asset/people.png
+641|People|roommate|同屋|同屋|tóng wū |file:///android_asset/people.png
+642|People|school|學校|学校|xué xiào |file:///android_asset/people.png
+643|People|senior year|四年级|四年级|sì nián jí |file:///android_asset/people.png
+644|People|siblings|兄弟姐妹|兄弟姐妹|xiōng dì jiě mèi |file:///android_asset/people.png
+645|People|sophomore year|二年级|二年级|èr nián jí |file:///android_asset/people.png
+646|People|teacher|老师|老师|lǎo shī |file:///android_asset/people.png
+647|People|teaching assistant |助教|助教|zhù jiào |file:///android_asset/people.png
+648|People|wife|妻子|妻子/太太|qī zǐ|file:///android_asset/people.png
+649|People|younger brother|弟弟|弟弟|dì dì |file:///android_asset/people.png
+650|People|younger female cousin (last name different from yours) |表妹|表妹|biǎo mèi |file:///android_asset/people.png
+651|People|younger female cousin (father's brother's side)|堂妹|堂妹|táng mèi |file:///android_asset/people.png
+652|People|younger male cousin (father's brother's side)|堂弟|堂弟|táng dì |file:///android_asset/people.png
+653|People|younger male cousin) |表弟|表弟|biǎo dì |file:///android_asset/people.png
+654|People|younger sister (last name different from yours) |妹妹|妹妹|mèi mèi |file:///android_asset/people.png
+655|Places|auditorium|禮堂|礼堂|lǐ táng |file:///android_asset/places.png
+656|Places|bookstore|書店|书店|shū diàn |file:///android_asset/places.png
+657|Places|business school|商學院|商学院|shāng xué yuàn |file:///android_asset/places.png
+658|Places|café |咖啡店|咖啡店|kā fēi diàn |file:///android_asset/places.png
+659|Places|cafeteria |食堂|食堂/学生餐厅|shí táng|file:///android_asset/places.png
+660|Places|campus|校圓|校园|xiào yuán |file:///android_asset/places.png
+661|Places|classroom|教室|教室|jiào shì |file:///android_asset/places.png
+662|Places|computer cluster|電腦房|电脑房|diàn nǎo fáng |file:///android_asset/places.png
+663|Places|department|系|系|xì |file:///android_asset/places.png
+664|Places|dormitory|宿舍|宿舍|sù shè |file:///android_asset/places.png
+665|Places|gym|體育管|体育管|tǐ yù guǎn |file:///android_asset/places.png
+666|Places|laboratory|實驗室|实验室|shí yàn shì |file:///android_asset/places.png
+667|Places|language laboratory|语言實驗室|语言实验室|yǔ yán shí yàn shì |file:///android_asset/places.png
+668|Places|law school|法學院|法学院|fǎ xué yuàn |file:///android_asset/places.png
+669|Places|library|圖書館|图书馆|tú shū guǎn |file:///android_asset/places.png
+670|Places|medical school |医學院|医学院|yī xué yuàn |file:///android_asset/places.png
+671|Places|office|辦公室|办公室|bàn gōng shì |file:///android_asset/places.png
+672|Places|stadium |運動場|运动场|yùn dòng cháng |file:///android_asset/places.png
+673|Restaurant - Chinese|Another colour|別的顏色|别的颜色|Bié  de yán  sè |file:///android_asset/food.png
+674|Restaurant - Chinese|Barbecue pork dumpling|燒烤豬肉餃子|烧烤猪肉饺子|Shāo  kǎo  zhū  ròu  jiǎo  zi|file:///android_asset/food.png
+675|Restaurant - Chinese|Chicken and cashew nuts|腰果雞丁|腰果鸡丁|Yāo  guǒ  jī  dīng |file:///android_asset/food.png
+676|Restaurant - Chinese|Fried broccoli with garlic|蒜蓉西蘭花|蒜蓉西兰花|Suàn  róng  xī  lán  huā |file:///android_asset/food.png
+677|Restaurant - Chinese|Fried egg noodles|炒雞蛋麵|炒鸡蛋面|Chǎo  jī  dàn  miàn |file:///android_asset/food.png
+678|Restaurant - Chinese|Fried flat noodles|炒寬麵條|炒宽面条|Chǎo  kuān  miàn  tiáo |file:///android_asset/food.png
+679|Restaurant - Chinese|Fried long beans|乾煸四季豆|干煸四季豆|Gān  biǎn  sì  jì  dòu |file:///android_asset/food.png
+680|Restaurant - Chinese|Fried mixed vegetables|炒時菜|炒时菜|Chǎo  shí  cài |file:///android_asset/food.png
+681|Restaurant - Chinese|Fried rice|炒米飯|炒米饭|Chǎo  mǐ  fàn |file:///android_asset/food.png
+682|Restaurant - Chinese|Fried rice noodles|炒米粉|炒米粉|Chǎo  mí  fěn |file:///android_asset/food.png
+683|Restaurant - Chinese|Fried toufu|炸豆腐|炸豆腐|Zhā  dǒu  fū |file:///android_asset/food.png
+684|Restaurant - Chinese|Lamb on a barbecue skewer|羊肉串兒|羊肉串儿|Yáng  ròu  chuàn  er|file:///android_asset/food.png
+685|Restaurant - Chinese|Naan bread|囊|囊|Náng |file:///android_asset/food.png
+686|Restaurant - Chinese|Noodles with black bean paste - Beijing style|豆麵條|豆面条|Dòu  miàn  tiáo -běi  jīng  fēng  wèi |file:///android_asset/food.png
+687|Restaurant - Chinese|Pan fried spicy lamb|孜然羊肉|孜然羊肉|Zǐ  rán  yáng  ròu |file:///android_asset/food.png
+688|Restaurant - Chinese|Pasta squares in a tangy tomato-lamb sauce|炒麵片兒|炒面片儿|Chǎo  miàn  piàn  er|file:///android_asset/food.png
+689|Restaurant - Chinese|Rice|米飯|米饭|Mǐ  fàn |file:///android_asset/food.png
+690|Restaurant - Chinese|Roast lamb|烤羊肉|烤羊肉|Kǎo  yáng  ròu |file:///android_asset/food.png
+691|Restaurant - Chinese|Sichuan deep fried chicken|四川炸雞|四川炸鸡|Sì  chuān  zhá  jī |file:///android_asset/food.png
+692|Restaurant - Chinese|Steamed broccoli|清蒸西蘭花|清蒸西兰花|Qīng  zhēng  xī  lán  huā |file:///android_asset/food.png
+693|Restaurant - Chinese|Steamed fish|蒸魚|蒸鱼|Zhēng  yú |file:///android_asset/food.png
+694|Restaurant - Chinese|Wonton noodles in soup|雲吞麵湯|云吞面汤|Yún  tūn  miàn  tāng |file:///android_asset/food.png
+695|Restaurant - Dim Sum|Barbecue pork in pastry|叉燒酥|叉烧酥|Chā  shāo  sù |file:///android_asset/dimsum.png
+696|Restaurant - Dim Sum|Beijing beef dumpling|北京牛肉餡餃子|北京牛肉馅饺子|Běi  jīng  niú  ròu  xiān  jiǎo  zi|file:///android_asset/dimsum.png
+697|Restaurant - Dim Sum|Beijing lamb dumpling|北京羊肉餡餃子|北京羊肉馅饺子|Běi  jīng  yáng  ròu  xiān  jiǎo  zi|file:///android_asset/dimsum.png
+698|Restaurant - Dim Sum|Beijing pork dumpling|北京豬肉餡餃子|北京猪肉馅饺子|Běi  jīng  zhū  ròu  xiān  jiǎo  zi|file:///android_asset/dimsum.png
+699|Restaurant - Dim Sum|Beijing vegetarian dumpling|北京素餃子|北京素饺子|Běi  jīng  sū  jiǎo  zi|file:///android_asset/dimsum.png
+700|Restaurant - Dim Sum|Chicken porridge with preserved egg|皮蛋粥|皮蛋粥|Pí  dàn  zhōu |file:///android_asset/dimsum.png
+701|Restaurant - Dim Sum|Crispy deep fried yam dumpling|脆薯餅|脆薯饼|Cuì  shú  bǐng |file:///android_asset/dimsum.png
+702|Restaurant - Dim Sum|Fish porridge|魚粥|鱼粥|Yú  zhōu |file:///android_asset/dimsum.png
+703|Restaurant - Dim Sum|Fried yam cake|煎芋頭餅|煎芋头饼|Jiān  yú  tóu  bǐng |file:///android_asset/dimsum.png
+704|Restaurant - Dim Sum|Pork and shrimp dumpling|豬肉和蝦餡餃子|猪肉和虾馅饺子|Zhū  ròu  hé  xiā  xiàn  jiǎo  zi|file:///android_asset/dimsum.png
+705|Restaurant - Dim Sum|Pork porridge|肉粥|肉粥|Ròu  zhōu |file:///android_asset/dimsum.png
+706|Restaurant - Dim Sum|Prawn dumpling|蝦餃|虾饺|Xiā  jiǎo |file:///android_asset/dimsum.png
+707|Restaurant - Dim Sum|Spring roll|春卷|春卷|Chūn  juǎn |file:///android_asset/dimsum.png
+708|Restaurant - Dim Sum|Sticky rice with chicken wrapped in lotus leaf|荷葉糯米雞|荷叶糯米鸡|Hé  yè  nuò  mǐ  jī |file:///android_asset/dimsum.png
+709|Restaurant - Useful|Bowl|碗|碗|Wǎn |file:///android_asset/restaurant.png
+710|Restaurant - Useful|Can we move to another table|我們可以換到另外的桌子嗎|我们可以换到另外的桌子吗|Wǒ  mén  ké  yǐ  huàn  dào  lìng  wāi  de zhuō  zi ma|file:///android_asset/restaurant.png
+711|Restaurant - Useful|Chopsticks|筷子|筷子|Kuài  zi|file:///android_asset/restaurant.png
+712|Restaurant - Useful|Deep fried|炸狠一點|炸狠一点|Zhà  hěn  yī  diǎn |file:///android_asset/restaurant.png
+713|Restaurant - Useful|Do you have a no smoking area|請問有無吸煙區嗎|请问有无吸烟区吗|Qǐng  wèn  yǒu  wú  xī yān  qū  ma|file:///android_asset/restaurant.png
+714|Restaurant - Useful|I am vegetarian|我是素食者|我是素食者|Wǒ  shi sù  shí  zhě |file:///android_asset/restaurant.png
+715|Restaurant - Useful|I can’t eat beef|我不吃牛肉|我不吃牛肉|Wǒ  bù  chī  niú  ròu |file:///android_asset/restaurant.png
+716|Restaurant - Useful|I can’t eat pork|我不吃豬肉|我不吃猪肉|Wǒ  bù  chī  zhū  ròu |file:///android_asset/restaurant.png
+717|Restaurant - Useful|I think you forgot one of my orders|我想你忘了我們點的東西|我想你忘了我们点的东西|Wó  xiǎng  nǐ  wàng  lè  wǒ  mén  diǎn  de dōng  xī |file:///android_asset/restaurant.png
+718|Restaurant - Useful|Knife|刀|刀|Dāo |file:///android_asset/restaurant.png
+719|Restaurant - Useful|Less salt|少放點鹽|少放点盐|Shǎo  fàng  diǎn  yán |file:///android_asset/restaurant.png
+720|Restaurant - Useful|Napkins|餐巾|餐巾|Cān  jīn |file:///android_asset/restaurant.png
+721|Restaurant - Useful|No MSG|不要味精|不要味精|Bú  yào  wèi  jīng |file:///android_asset/restaurant.png
+722|Restaurant - Useful|No spicy dishes|不要辣的菜|不要辣的菜|Bú  yào  là  dě  cài |file:///android_asset/restaurant.png
+723|Restaurant - Useful|Plate|盤子|盘子|Pān  zi|file:///android_asset/restaurant.png
+724|Restaurant - Useful|Receipt please|請開發票|请开发票|Qǐng  kāi  fā  piào |file:///android_asset/restaurant.png
+725|Restaurant - Useful|Soup|湯|汤|Táng |file:///android_asset/restaurant.png
+726|Restaurant - Useful|Spicy dishes|辣的菜|辣的菜|Là  de cài |file:///android_asset/restaurant.png
+727|Restaurant - Useful|Spoon|勺子|勺子|Shǎo  zi|file:///android_asset/restaurant.png
+728|Restaurant - Useful|Steamed|蒸|蒸|Zhēng |file:///android_asset/restaurant.png
+729|Restaurant - Useful|That was a great meal|飯很好吃|饭很好吃|Fàn  hén  hǎo  chī |file:///android_asset/restaurant.png
+730|Shopping|Battery|電池|电池|Diàn  chí |file:///android_asset/shopping.png
+731|Shopping|Call this number before you deliver|送之前拨這個電話|送之前这个电话|Sòng  zhī  qián  bō  zhè  ge diàn  huà |file:///android_asset/shopping.png
+732|Shopping|Can I pay with a foreign credit card|我可以用國外的信用卡支付嗎|我可以用国外的信用卡支付吗|Wǒ  ké  yǐ  yòng  guó  wài  dè  xìn  yòng  kǎ  zhī  fū  ma|file:///android_asset/shopping.png
+733|Shopping|Can you deliver|可以送貨嗎|可以送货吗|Ké  yǐ  sòng  huò  ma|file:///android_asset/shopping.png
+734|Shopping|Can you lower the price|可以便宜點嗎|可以便宜点吗|Ké  yǐ  pián  yí  diǎn  ma|file:///android_asset/shopping.png
+735|Shopping|Deliver to ...|送到…|送到…|Sòng  dào  ...|file:///android_asset/shopping.png
+736|Shopping|How long will it take|得多長時間|得多长时间|Děi  duō  cháng  shí  jiān |file:///android_asset/shopping.png
+737|Shopping|I live here. I am not a tourist|我住在這，不是遊客|我住在这，不是游客|"Wǒ  zhù  zài  zhè , bú  shì  yóu  kè "|file:///android_asset/shopping.png
+738|Shopping|I will recommend your shop to my friends|我會給我的朋友推薦你的網店|我会给我的朋友推荐你的网店|Wǒ  huì  géi  wǒ  de péng  yǒu  tuī  jiàn  nǐ  de shāng  diàn |file:///android_asset/shopping.png
+739|Shopping|Is there an ATM machine nearby|附近有提款機嗎|附近有提款机吗|Fù  jìn  yǒu  tí  kuǎn  jī  ma|file:///android_asset/shopping.png
+740|Shopping|Receipt|發票|发票|Fā  piào |file:///android_asset/shopping.png
+741|Shopping|Thank you|謝謝|谢谢|Xiē  xiē |file:///android_asset/shopping.png
+742|Shopping|Too big|太大了|太大了|Tài  dà  le|file:///android_asset/shopping.png
+743|Shopping|Too small|太小了|太小了|Tài  xiǎo  le|file:///android_asset/shopping.png
+744|Shopping|When do you close|什麼時候關門|什么时候关门|Shén  me shì  hòu  guān  mén |file:///android_asset/shopping.png
+745|Shopping|Wrap carefully|包裝的時候小心點|包装的时候小心点|Bāo  zhuāng  de shí  hòu  xiǎo  xīn  diǎn |file:///android_asset/shopping.png
+746|Shopping|Your price is very high|太貴了|太贵了|Tài  guì  le|file:///android_asset/shopping.png
+747|Sports & Recreation|American football|美式足球|美式足球|měi shì zú qiú |file:///android_asset/sports.png
+748|Sports & Recreation|baseball|棒球|棒球|bàng qiú |file:///android_asset/sports.png
+749|Sports & Recreation|basketball|籃球|篮球|lán qiú |file:///android_asset/sports.png
+750|Sports & Recreation|bicycling|自行車|自行车|zì xíng chē |file:///android_asset/sports.png
+751|Sports & Recreation|classical music|古典音樂|古典音乐|gǔ diǎn yīn lè |file:///android_asset/sports.png
+752|Sports & Recreation|concert|音樂會|音乐会|yīn lè huì |file:///android_asset/sports.png
+753|Sports & Recreation|golf|高爾夫球|高尔夫球|gāo ěr fū qiú |file:///android_asset/sports.png
+754|Sports & Recreation|ice hockey|冰棍球/冰球|冰棍球/冰球|bīng gùn qiú / bīng qiú |file:///android_asset/sports.png
+755|Sports & Recreation|ice skating|溜冰|溜冰|liū bīng |file:///android_asset/sports.png
+756|Sports & Recreation|jogging|慢跑|慢跑|màn pǎo |file:///android_asset/sports.png
+757|Sports & Recreation|movie|電影|电影|diàn yǐng |file:///android_asset/sports.png
+758|Sports & Recreation|museum|博物館|博物馆|bó wù guǎn |file:///android_asset/sports.png
+759|Sports & Recreation|photography|攝影|摄影|shè yǐng |file:///android_asset/sports.png
+760|Sports & Recreation|rock & roll|搖滾樂|摇滚乐|yáo gǔn lè |file:///android_asset/sports.png
+761|Sports & Recreation|sailing|帆船|帆船|fān chuán |file:///android_asset/sports.png
+762|Sports & Recreation|skiing|滑雪|滑雪|huá xuě |file:///android_asset/sports.png
+763|Sports & Recreation|soccer|足球|足球|zú qiú |file:///android_asset/sports.png
+764|Sports & Recreation|sports|運動|运动|yùn dòng |file:///android_asset/sports.png
+765|Sports & Recreation|swimming|游泳|游泳|yóu yǒng |file:///android_asset/sports.png
+766|Sports & Recreation|television|電視|电视|diàn shì |file:///android_asset/sports.png
+767|Sports & Recreation|tennis|網球|网球|wǎng qiú |file:///android_asset/sports.png
+768|Sports & Recreation|to dance|跳舞|跳舞|tiào wǔ |file:///android_asset/sports.png
+769|Sports & Recreation|to sing|唱歌|唱歌|chàng gē |file:///android_asset/sports.png
+770|Study|book|書|书|shū |file:///android_asset/study.png
+771|Study|bookshelf|書架|书架|shū jià |file:///android_asset/study.png
+772|Study|desk|書桌|书桌|shū zhuō |file:///android_asset/study.png
+773|Study|lamp|檯燈|台灯|tái dēng |file:///android_asset/study.png
+774|Study|magazine|雜誌|杂志|zá zhì |file:///android_asset/study.png
+775|Study|map|地圖|地图|dì tú |file:///android_asset/study.png
+776|Study|newspaper|報紙|报纸|bào zhǐ |file:///android_asset/study.png
+777|Study|study |書房|书房|shū fáng |file:///android_asset/study.png
+778|Tech & Gadget|Bluetooth|藍牙|蓝牙|Lán  yá |file:///android_asset/tech.png
+779|Tech & Gadget|cell phone|手機|手机|shǒu jī |file:///android_asset/tech.png
+780|Tech & Gadget|Cordless telephone|無線電話|无线电话|Wú  xiàn  diàn  huā |file:///android_asset/tech.png
+781|Tech & Gadget|Do you have an English version|有英文版本的嗎|有英文版本的吗|Yǒu  yīng  wēn  bǎn  dē  ma|file:///android_asset/tech.png
+782|Tech & Gadget|Duplexer|雙工器|双工器|Shuāng  gōng  qǐ |file:///android_asset/tech.png
+783|Tech & Gadget|Earphone|耳機|耳机|Er3  jī |file:///android_asset/tech.png
+784|Tech & Gadget|Fax|傳真|传真|Chuán  zhēn |file:///android_asset/tech.png
+785|Tech & Gadget|Hard drive|硬盤|硬盘|Yìng  pán |file:///android_asset/tech.png
+786|Tech & Gadget|Headphone with mic|帶麥克的相機|带麦克的耳机|Dài  mài  kē  dě  ēr  jī |file:///android_asset/tech.png
+787|Tech & Gadget|How long is the warranty for|保修期多長|保修期多长|Bǎo  xiū  qī  duó  cháng |file:///android_asset/tech.png
+788|Tech & Gadget|Ink jet cartridge|墨盒|墨盒|Mó  hé |file:///android_asset/tech.png
+789|Tech & Gadget|Ink jet printer|磨粉打印機|磨粉打印机|Mó  fěn  dǎ  yìn  jī |file:///android_asset/tech.png
+790|Tech & Gadget|Is the warranty valid outside of China|保修期在國外有效嗎|保修在国外有效吗|Bǎo  xiū  zài  guō  wài  yǒu  xiào  ma|file:///android_asset/tech.png
+791|Tech & Gadget|Is this compatible with a Mac|這個能用在蘋果機上嗎|这个能用在苹果机上吗|Zhè  gē  néng  yòng  zài  píng  guó  jī  shàng  ma|file:///android_asset/tech.png
+792|Tech & Gadget|Keyboard|鍵盤|键盘|Jiàn  pán |file:///android_asset/tech.png
+793|Tech & Gadget|Laser printer|激光打印機|激光打印机|Jì  guāng  dǎ  yìn  ji|file:///android_asset/tech.png
+794|Tech & Gadget|Laser printer cartridge|鐳射打印機碳粉盒|镭射打印机碳粉盒|Léi  shè  dǎ  yìn  jī  tàn  fěn  hé |file:///android_asset/tech.png
+795|Tech & Gadget|LCD monitor|液晶顯示器|液晶显示器|Yè  jīng  xiǎn  shì  qì |file:///android_asset/tech.png
+796|Tech & Gadget|Lens|鏡頭|镜头|Jìng  tóu |file:///android_asset/tech.png
+797|Tech & Gadget|Mother board|主板|主板|Zhú  bǎn |file:///android_asset/tech.png
+798|Tech & Gadget|Mouse|鼠標|鼠标|Shǔ  biāo |file:///android_asset/tech.png
+799|Tech & Gadget|Photo printer|照片打印機|照片打印机|Zhào  piàn  dǎ  yìn  jī |file:///android_asset/tech.png
+800|Tech & Gadget|Printer|打印機|打印机|dǎ yìn jī |file:///android_asset/tech.png
+801|Tech & Gadget|RAM|內存|内存|Néi  cún |file:///android_asset/tech.png
+802|Tech & Gadget|Receipt|發票|发票|Fā  piào |file:///android_asset/tech.png
+803|Tech & Gadget|Scanner|掃描儀|扫描仪|Sào  miáo  yí |file:///android_asset/tech.png
+804|Tech & Gadget|SD/CF card reader|SD/CF卡讀卡器|SD/CF卡读卡器|SD kǎ  dú  kǎ  qì |file:///android_asset/tech.png
+805|Tech & Gadget|SLR camera|單反相機|单反相机|Dān  fǎn  xiàng  jī |file:///android_asset/tech.png
+806|Tech & Gadget|Software|軟件|软件|Ruǎn  jiàn |file:///android_asset/tech.png
+807|Tech & Gadget|Video card|視頻卡|视频卡|Shì  pín  kǎ |file:///android_asset/tech.png
+808|Tech & Gadget|Web camera|網絡攝像頭|网络摄像头|Wǎng  luò  shè  xiàng  tóu |file:///android_asset/tech.png
+809|Tech & Gadget|What is the password|密碼是什麼|密码是什么|Mì  mǎ  shī  shén  me|file:///android_asset/tech.png
+810|Tech & Gadget|What is the user name|用戶名是什麼|用户名是什么|Yòng  hù  míng  shī  shén  me|file:///android_asset/tech.png
+811|Tech & Gadget|Wide angle lens|廣角鏡頭|广角镜头|Guáng  jiǎo  jìng  tóu |file:///android_asset/tech.png
+812|Tech & Gadget|Wireless router|無線路由器|无线路由器|Wú  xiàn  lù  yóu  qī |file:///android_asset/tech.png
+813|Time - Days of the Week|day after tomorrow|后天|后天|hòu tiān |file:///android_asset/timeweek.png
+814|Time - Days of the Week|day before yesterday|前天|前天|qián tiān |file:///android_asset/timeweek.png
+815|Time - Days of the Week|Friday|星期五|星期五|xīng qī wǔ |file:///android_asset/timeweek.png
+816|Time - Days of the Week|last Monday (last week)|上個星期一|上个星期一|shàng gè xīng qī yī |file:///android_asset/timeweek.png
+817|Time - Days of the Week|last Monday (this week)|這個星期一|这个星期一|zhè gè xīng qī yī |file:///android_asset/timeweek.png
+818|Time - Days of the Week|Monday|星期一|星期一|xīng qī yī |file:///android_asset/timeweek.png
+819|Time - Days of the Week|next Monday|下個星期一|下个星期一|xià gè xīng qī yī |file:///android_asset/timeweek.png
+820|Time - Days of the Week|next Saturday (next week)|下個星期六|下个星期六|xià gè xīng qī liù |file:///android_asset/timeweek.png
+821|Time - Days of the Week|next Saturday (this week)|這個星期六|这个星期六|zhè gè xīng qī liù |file:///android_asset/timeweek.png
+822|Time - Days of the Week|Saturday|星期六|星期六|xīng qī liù |file:///android_asset/timeweek.png
+823|Time - Days of the Week|Sunday|星期日/星期天|星期日/星期天|xīng qī rì / xīng qī tiān |file:///android_asset/timeweek.png
+824|Time - Days of the Week|this Monday (this week)|這個星期一|这个星期一|zhè gè xīng qī yī |file:///android_asset/timeweek.png
+825|Time - Days of the Week|Thursday|星期四|星期四|xīng qī sì |file:///android_asset/timeweek.png
+826|Time - Days of the Week|today|今天|今天|jīn tiān |file:///android_asset/timeweek.png
+827|Time - Days of the Week|tomorrow|明天|明天|míng tiān |file:///android_asset/timeweek.png
+828|Time - Days of the Week|Tuesday|星期二|星期二|xīng qī èr |file:///android_asset/timeweek.png
+829|Time - Days of the Week|Wednesday|星期三|星期三|xīng qī sān |file:///android_asset/timeweek.png
+830|Time - Days of the Week|yesterday|昨天|昨天|zuó tiān |file:///android_asset/timeweek.png
+831|Time - Months of the Year|April|四月|四月|sì yuè |file:///android_asset/monthyear.png
+832|Time - Months of the Year|August|八月|八月|bā yuè |file:///android_asset/monthyear.png
+833|Time - Months of the Year|December|十二月|十二月|shí èr yuè |file:///android_asset/monthyear.png
+834|Time - Months of the Year|February|二月|二月|èr yuè |file:///android_asset/monthyear.png
+835|Time - Months of the Year|January|一月|一月|yī yuè |file:///android_asset/monthyear.png
+836|Time - Months of the Year|July|七月|七月|qī yuè |file:///android_asset/monthyear.png
+837|Time - Months of the Year|June|六月|六月|liù yuè |file:///android_asset/monthyear.png
+838|Time - Months of the Year|last January (last year)|去年一月|去年一月|qù nián yī yuè |file:///android_asset/monthyear.png
+839|Time - Months of the Year|last January (this year)|今年一月|今年一月|jīn nián yī yuè |file:///android_asset/monthyear.png
+840|Time - Months of the Year|last month|上個月|上个月|shàng gè yuè |file:///android_asset/monthyear.png
+841|Time - Months of the Year|March|三月|三月|sān yuè |file:///android_asset/monthyear.png
+842|Time - Months of the Year|May|五月|五月|wǔ yuè |file:///android_asset/monthyear.png
+843|Time - Months of the Year|month after next|下下個月|下下个月|xià xià gè yuè |file:///android_asset/monthyear.png
+844|Time - Months of the Year|month before last|上上個月|上上个月|shàng shàng gè yuè |file:///android_asset/monthyear.png
+845|Time - Months of the Year|next month|下個月|下个月|xià gè yuè |file:///android_asset/monthyear.png
+846|Time - Months of the Year|November|十一月|十一月|shí yī yuè |file:///android_asset/monthyear.png
+847|Time - Months of the Year|October|十月|十月|shí yuè |file:///android_asset/monthyear.png
+848|Time - Months of the Year|September|九月|九月|jiǔ yuè |file:///android_asset/monthyear.png
+849|Time - Months of the Year|this monfth|這個月|这个月|zhè gè yuè |file:///android_asset/monthyear.png
+850|Time - Years|last year|去年|去年|qù nián |file:///android_asset/timeyear.png
+851|Time - Years|next year|明年|明年|míng nián |file:///android_asset/timeyear.png
+852|Time - Years|this year|今年|今年|jīn nián |file:///android_asset/timeyear.png
+853|Time - Years|year after next|后年|后年|hòu nián |file:///android_asset/timeyear.png
+854|Time - Years|year before last|前年|前年|qián nián |file:///android_asset/timeyear.png
+855|Time of Day|1:00 A.M. |凌晨一點|凌晨一点|líng chén yī diǎn |file:///android_asset/timeday.png
+856|Time of Day|1:05 P.M. |下午一點零五分|下午一点零五分|xià wǔ yī diǎn líng wǔ fēn |file:///android_asset/timeday.png
+857|Time of Day|10:30 A.M. |上午十點半|上午十点半|shàng wǔ shí diǎn bàn |file:///android_asset/timeday.png
+858|Time of Day|12:00 P.M. |中午十二點|中午十二点|zhōng wǔ shí èr diǎn |file:///android_asset/timeday.png
+859|Time of Day|2:55 P.M. |下午差五分三點|下午差五分三点|xià wǔ chà wǔ fēn sān diǎn |file:///android_asset/timeday.png
+860|Time of Day|6:15 A.M. |早上六點一刻|早上六点一刻|zǎo shàng liù diǎn yī kè |file:///android_asset/timeday.png
+861|Time of Day|8:15 P.M. |晚上八點一刻|晚上八点一刻|wǎn shàng bā diǎn yī kè |file:///android_asset/timeday.png
+862|Time of Day|9:45:50 P.M. |九點四十五分五十秒|九点四十五分五十秒|jiǔ diǎn sì shí wǔ fēn wǔ shí miǎo |file:///android_asset/timeday.png
+863|Time of Day|afternoon |下午|下午|xià wǔ |file:///android_asset/timeday.png
+864|Time of Day|early morning|早上|早上|zǎo shàng |file:///android_asset/timeday.png
+865|Time of Day|evening/night|晚上|晚上|wǎn shàng |file:///android_asset/timeday.png
+866|Time of Day|fall short of/ minutes until |差|差|chà |file:///android_asset/timeday.png
+867|Time of Day|half hour |半|半|bàn |file:///android_asset/timeday.png
+868|Time of Day|midnight to early morning|凌晨|凌晨|líng chén |file:///android_asset/timeday.png
+869|Time of Day|minute|分|分|fēn |file:///android_asset/timeday.png
+870|Time of Day|morning (general)|上午|上午|shàng wǔ |file:///android_asset/timeday.png
+871|Time of Day|noon|中午|中午|zhōng wǔ |file:///android_asset/timeday.png
+872|Time of Day|o'clock|点|点|diǎn |file:///android_asset/timeday.png
+873|Time of Day|quarter hour|刻|刻|kè |file:///android_asset/timeday.png
+874|Time of Day|second|秒钟|秒钟|miǎo zhōng |file:///android_asset/timeday.png
+875|Travel & Transportation|airlines|航空公司|航空公司|háng kōng gōng sī |file:///android_asset/airport2.png
+876|Travel & Transportation|airplane|飛機|飞机|fēi jī |file:///android_asset/airport2.png
+877|Travel & Transportation|airport|機場|机场|jī cháng |file:///android_asset/airport2.png
+878|Travel & Transportation|aisle seat|走道|走道|zǒu dào |file:///android_asset/airport2.png
+879|Travel & Transportation|bicycle|自行車|自行车|zì xíng chē |file:///android_asset/airport2.png
+880|Travel & Transportation|boat/ship|船|船|chuán |file:///android_asset/airport2.png
+881|Travel & Transportation|bus|公共汽車|公共汽车|gōng gòng qì chē |file:///android_asset/airport2.png
+882|Travel & Transportation|bus stop|站牌|站牌|zhàn pái |file:///android_asset/airport2.png
+883|Travel & Transportation|car|汽車|汽车|qì chē |file:///android_asset/airport2.png
+884|Travel & Transportation|direct flight|直飛|直飞|zhí fēi |file:///android_asset/airport2.png
+885|Travel & Transportation|direct/through|直達|直达|zhí dá |file:///android_asset/airport2.png
+886|Travel & Transportation|express|特快|特快|tè kuài |file:///android_asset/airport2.png
+887|Travel & Transportation|gas station|加油站|加油站|jiā yóu zhàn |file:///android_asset/airport2.png
+888|Travel & Transportation|hard seater (train)|硬座|硬座|yìng zuò |file:///android_asset/airport2.png
+889|Travel & Transportation|hard sleeper (train)|硬臥|硬卧|yìng wò |file:///android_asset/airport2.png
+890|Travel & Transportation|luggage|行李|行李|xíng lǐ |file:///android_asset/airport2.png
+891|Travel & Transportation|motorcycle|摩托車|摩托车|mó tuō chē |file:///android_asset/airport2.png
+892|Travel & Transportation|one-way ticket|單程票|单程票|dān chéng piào |file:///android_asset/airport2.png
+893|Travel & Transportation|passport|護照|护照|hù zhào |file:///android_asset/airport2.png
+894|Travel & Transportation|round-trip ticket|來回票|来回票|lái huí piào |file:///android_asset/airport2.png
+895|Travel & Transportation|soft seater (train)|軟座|软座|ruǎn zuò |file:///android_asset/airport2.png
+896|Travel & Transportation|soft sleeper (train)|軟臥|软卧|ruǎn wò |file:///android_asset/airport2.png
+897|Travel & Transportation|subway|地鐵|地铁|dì tiě |file:///android_asset/airport2.png
+898|Travel & Transportation|taxi|出租車/計程車|出租车/计程车|chū zū chē / jì chéng chē |file:///android_asset/airport2.png
+899|Travel & Transportation|ticket|票|票|piào |file:///android_asset/airport2.png
+900|Travel & Transportation|time schedule|時刻表|时刻表|shí kè biǎo |file:///android_asset/airport2.png
+901|Travel & Transportation|to arrive|抵達|抵达|dǐ dá |file:///android_asset/airport2.png
+902|Travel & Transportation|to board (aircraft)|登機|登机|dēng jī |file:///android_asset/airport2.png
+903|Travel & Transportation|to book ticket|訂票|订票|dìng piào |file:///android_asset/airport2.png
+904|Travel & Transportation|to check luggage|托運|托运|tuō yùn |file:///android_asset/airport2.png
+905|Travel & Transportation|to depart (train/bus)|發車|发车|fā chē |file:///android_asset/airport2.png
+906|Travel & Transportation|to drive|開車|开车|kāi chē |file:///android_asset/airport2.png
+907|Travel & Transportation|to land (plane)|降落|降落|jiàng luò |file:///android_asset/airport2.png
+908|Travel & Transportation|to ride|騎|骑|qí |file:///android_asset/airport2.png
+909|Travel & Transportation|to take (vehicle)|坐搭|坐搭|zuò dā |file:///android_asset/airport2.png
+910|Travel & Transportation|to take off (plane)|起飛|起飞|qǐ fēi |file:///android_asset/airport2.png
+911|Travel & Transportation|to travel|旅行|旅行|lǚ xíng |file:///android_asset/airport2.png
+912|Travel & Transportation|to walk|走路|走路|zǒu lù |file:///android_asset/airport2.png
+913|Travel & Transportation|train|火車|火车|huǒ chē |file:///android_asset/airport2.png
+914|Travel & Transportation|train station|火車站|火车站|huǒ chē zhàn |file:///android_asset/airport2.png
+915|Travel & Transportation|travel agency|旅行社|旅行社|lǚ xíng shè |file:///android_asset/airport2.png
+916|Travel & Transportation|visa|簽証|签证|qiān zhèng |file:///android_asset/airport2.png
+917|Travel & Transportation|window seat|靠窗|靠窗|kào chuāng |file:///android_asset/airport2.png
+918|Useful Adjective| tired|累|累|léi |file:///android_asset/adjectives.png
+919|Useful Adjective|angry|生氣|生气|shēng qì |file:///android_asset/adjectives.png
+920|Useful Adjective|bad|壞|坏|huài |file:///android_asset/adjectives.png
+921|Useful Adjective|big |大|大|dà |file:///android_asset/adjectives.png
+922|Useful Adjective|busy|忙|忙|máng |file:///android_asset/adjectives.png
+923|Useful Adjective|cheap|便宜|便宜|biàn yí |file:///android_asset/adjectives.png
+924|Useful Adjective|clean|干淨|干净|gān jìng |file:///android_asset/adjectives.png
+925|Useful Adjective|cold|冷|冷|lěng |file:///android_asset/adjectives.png
+926|Useful Adjective|convenient|方便|方便|fāng biàn |file:///android_asset/adjectives.png
+927|Useful Adjective|difficult|難|难|nán |file:///android_asset/adjectives.png
+928|Useful Adjective|dirty|臟|脏|zàng |file:///android_asset/adjectives.png
+929|Useful Adjective|easy|容易|容易|róng yì |file:///android_asset/adjectives.png
+930|Useful Adjective|expensive|貴|贵|guì |file:///android_asset/adjectives.png
+931|Useful Adjective|far|遠|远|yuǎn |file:///android_asset/adjectives.png
+932|Useful Adjective|fast|快|快|kuài |file:///android_asset/adjectives.png
+933|Useful Adjective|fat|胖|胖|pàng |file:///android_asset/adjectives.png
+934|Useful Adjective|female|女|女|nǚ |file:///android_asset/adjectives.png
+935|Useful Adjective|good|好|好|hǎo |file:///android_asset/adjectives.png
+936|Useful Adjective|good-looking|好看|好看|hǎo kàn |file:///android_asset/adjectives.png
+937|Useful Adjective|happy |高興|高兴|gāo xīng |file:///android_asset/adjectives.png
+938|Useful Adjective|hot/warm|熱|热|rè |file:///android_asset/adjectives.png
+939|Useful Adjective|hungry|餓|饿|è |file:///android_asset/adjectives.png
+940|Useful Adjective|interesting|有意思|有意思|yǒu yì sī |file:///android_asset/adjectives.png
+941|Useful Adjective|little/few|少|少|shǎo |file:///android_asset/adjectives.png
+942|Useful Adjective|long|長|长|cháng |file:///android_asset/adjectives.png
+943|Useful Adjective|male|男|男|nán |file:///android_asset/adjectives.png
+944|Useful Adjective|much/many|多|多|duō |file:///android_asset/adjectives.png
+945|Useful Adjective|near|近|近|jìn |file:///android_asset/adjectives.png
+946|Useful Adjective|newspaper|新|新|xīn |file:///android_asset/adjectives.png
+947|Useful Adjective|"old (age, building, etc. )"|老|老|lǎo |file:///android_asset/adjectives.png
+948|Useful Adjective|old (used/not new)|舊|旧|jiù |file:///android_asset/adjectives.png
+949|Useful Adjective|pretty|漂亮|漂亮|piāo liàng |file:///android_asset/adjectives.png
+950|Useful Adjective|sad|難過|难过|nán guò |file:///android_asset/adjectives.png
+951|Useful Adjective|short (height)|矮|矮|ǎi |file:///android_asset/adjectives.png
+952|Useful Adjective|short (length)|短|短|duǎn |file:///android_asset/adjectives.png
+953|Useful Adjective|slow|慢|慢|màn |file:///android_asset/adjectives.png
+954|Useful Adjective|small|小|小|xiǎo |file:///android_asset/adjectives.png
+955|Useful Adjective|tall|高|高|gāo |file:///android_asset/adjectives.png
+956|Useful Adjective|tasteless (liquid)|不好喝|不好喝|bù hǎo hē |file:///android_asset/adjectives.png
+957|Useful Adjective|tasteless (solid food)|不好吃|不好吃|bù hǎo chī |file:///android_asset/adjectives.png
+958|Useful Adjective|tasty (liquid)|好喝|好喝|hǎo hē |file:///android_asset/adjectives.png
+959|Useful Adjective|tasty (solid food)|好吃|好吃|hǎo chī |file:///android_asset/adjectives.png
+960|Useful Adjective|thin|瘦|瘦|shòu |file:///android_asset/adjectives.png
+961|Useful Adjective|ugly|難看|难看|nán kàn |file:///android_asset/adjectives.png
+962|Useful Adjective|young|年輕|年轻|nián qīng |file:///android_asset/adjectives.png
+963|"Weather, Climate Seasons"|autumn|秋天|秋天|qiū tiān |file:///android_asset/weather.png
+964|"Weather, Climate Seasons"|climate|氣候|气候|qì hòu |file:///android_asset/weather.png
+965|"Weather, Climate Seasons"|cold|冷|冷|lěng |file:///android_asset/weather.png
+966|"Weather, Climate Seasons"|fog|霧|雾|wù |file:///android_asset/weather.png
+967|"Weather, Climate Seasons"|hot|熱|热|rè |file:///android_asset/weather.png
+968|"Weather, Climate Seasons"|humid|悶|闷|mèn |file:///android_asset/weather.png
+969|"Weather, Climate Seasons"|overcast day|陰天|阴天|yīn tiān |file:///android_asset/weather.png
+970|"Weather, Climate Seasons"|pleasantly cool|涼快|凉快|liáng kuài |file:///android_asset/weather.png
+971|"Weather, Climate Seasons"|rainbow|彩虹|彩虹|cǎi hóng |file:///android_asset/weather.png
+972|"Weather, Climate Seasons"|spring|春天|春天|chūn tiān |file:///android_asset/weather.png
+973|"Weather, Climate Seasons"|summer|夏天|夏天|xià tiān |file:///android_asset/weather.png
+974|"Weather, Climate Seasons"|sunny day|晴天|晴天|qíng tiān |file:///android_asset/weather.png
+975|"Weather, Climate Seasons"|temperature|氣溫|气温|qì wēn |file:///android_asset/weather.png
+976|"Weather, Climate Seasons"|to blow (wind)|刮風|刮风|guā fēng |file:///android_asset/weather.png
+977|"Weather, Climate Seasons"|to rain |下雨|下雨|xià yǔ |file:///android_asset/weather.png
+978|"Weather, Climate Seasons"|to snow|下雪|下雪|xià xuě |file:///android_asset/weather.png
+979|"Weather, Climate Seasons"|to thunder|打雷|打雷|dǎ léi |file:///android_asset/weather.png
+980|"Weather, Climate Seasons"|tornado|龍卷風|龙卷风|lóng juàn fēng |file:///android_asset/weather.png
+981|"Weather, Climate Seasons"|typhoon/hurricane|台風|台风|tái fēng |file:///android_asset/weather.png
+982|"Weather, Climate Seasons"|weather|天氣|天气|tiān qì |file:///android_asset/weather.png
+983|"Weather, Climate Seasons"|winter|冬天|冬天|dōng tiān |file:///android_asset/weather.png

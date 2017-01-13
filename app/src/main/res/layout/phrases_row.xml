@@ -63,7 +63,7 @@
         android:orientation="vertical">
         <View
             android:layout_width="0px"
-            android:layout_height="140px"
+            android:layout_height="50px"
             android:background="#000000"/>
 
         <LinearLayout
@@ -72,25 +72,21 @@
             android:orientation="horizontal">
 
             <ImageButton
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
                 android:scaleType="fitXY"
                 android:layout_marginRight="10dp"
                 app:srcCompat="@drawable/copy"
                 android:id="@+id/copyImageButton"
                 android:background="@drawable/ripple"
-                android:stateListAnimator="@animator/anim"
-                android:elevation="4dp"
                 android:layout_weight="1" />
 
             <ImageButton
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
                 android:scaleType="fitXY"
                 android:layout_marginRight="10dp"
                 android:background="@drawable/ripple"
-                android:stateListAnimator="@animator/anim"
-                android:elevation="4dp"
                 app:srcCompat="@drawable/speaker"
                 android:id="@+id/voiceImageButton"
                 android:layout_weight="1" />
