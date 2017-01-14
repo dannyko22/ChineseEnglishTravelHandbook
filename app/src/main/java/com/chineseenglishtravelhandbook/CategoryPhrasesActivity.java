@@ -7,6 +7,10 @@ import android.preference.PreferenceManager;
 import android.speech.tts.TextToSpeech;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.DefaultItemAnimator;
+import android.support.v7.widget.GridLayoutManager;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
@@ -25,7 +29,7 @@ import java.util.ArrayList;
 public class CategoryPhrasesActivity extends AppCompatActivity {
 
     ArrayList<TravelPhraseData> travelList;
-    ListView phrasesListView;
+    RecyclerView phrasesRecyclerView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -58,7 +62,12 @@ public class CategoryPhrasesActivity extends AppCompatActivity {
 
     public void setupPhrasesListView() {
         final Context context = this;
-        phrasesListView = (ListView) findViewById(R.id.phrasesListView);
+        phrasesRecyclerView = (RecyclerView) findViewById(R.id.phrasesListView);
+        phrasesRecyclerView.setHasFixedSize(true);
+        phrasesRecyclerView.setLayoutManager(new LinearLayoutManager(context));
+        phrasesRecyclerView.setItemAnimator(new DefaultItemAnimator());
+
+
         populatePhrasesListView(travelList);
 
 
@@ -66,7 +75,7 @@ public class CategoryPhrasesActivity extends AppCompatActivity {
 
     public void populatePhrasesListView(ArrayList travelPhrasesList) {
         PhrasesAdapterClass phrasesAdapter = new PhrasesAdapterClass(this, travelPhrasesList);
-        phrasesListView.setAdapter(phrasesAdapter);
+        phrasesRecyclerView.setAdapter(phrasesAdapter);
     }
 
 

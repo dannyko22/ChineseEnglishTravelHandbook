@@ -30,7 +30,7 @@
 30|School|Psychology|心理学|心理学|xīn lǐ xué |file:///android_asset/academic.png
 31|School|quiz|小考|小考|xiǎo kǎo |file:///android_asset/academic.png
 32|School|register|注册|注册|zhù cè |file:///android_asset/academic.png
-33|School|shop for courses|選课|逃选课|táo xuǎn kè |file:///android_asset/academic.png
+33|School|shop for courses|選课|逃选课|xuǎn kè |file:///android_asset/academic.png
 34|School|student ID|學生證|学生证|xué shēng zhèng |file:///android_asset/academic.png
 35|School|textbook|課本|课本|kè běn |file:///android_asset/academic.png
 36|School|to graduate|畢業|毕业|bì yè |file:///android_asset/academic.png
@@ -172,34 +172,34 @@
 172|Cooking methods|sliced|片|片|piàn |file:///android_asset/cooking.png
 173|Cooking methods|steam|蒸|蒸|zhēng |file:///android_asset/cooking.png
 174|Cooking methods|stir fry|炒|炒|chǎo |file:///android_asset/cooking.png
-175|Counters|academic course|門|门|mén |file:///android_asset/counter.png
-176|Counters|"appliance/machine;  EX: computer,  dryer "|台|台|tái |file:///android_asset/counter.png
-177|Counters|"brisk action;  EX: pat, knock, pinch"|下|下|xià |file:///android_asset/counter.png
-178|Counters|chunk/piece/cube;  EX: piece of cake|塊|块|kuài |file:///android_asset/counter.png
-179|Counters|class period|節|节|jié |file:///android_asset/counter.png
-180|Counters|class period|堂|堂|táng |file:///android_asset/counter.png
-181|Counters|day|天|天|tiān |file:///android_asset/counter.png
-182|Counters|"flat object; EX: paper, photo, bed"|張|张|zhāng |file:///android_asset/counter.png
-183|Counters|from beginning to end|遍|遍|biàn |file:///android_asset/counter.png
-184|Counters|hour|小時|小时|xiǎo shí |file:///android_asset/counter.png
-185|Counters|"in bound form;  EX: books, magazine"|本|本|běn |file:///android_asset/counter.png
-186|Counters|"institution/building;  EX: school, hospital"|所|所|suǒ |file:///android_asset/counter.png
-187|Counters|lesson|课|课|kè |file:///android_asset/counter.png
-188|Counters|"limited actions: heat, scold, heat up "|顿|顿|dùn |file:///android_asset/counter.png
-189|Counters|minute|分鐘|分钟|fēn zhōng |file:///android_asset/counter.png
-190|Counters|object usually in pair;  EX: earrings|副|副|fù |file:///android_asset/counter.png
-191|Counters|"object with handle;  EX: umbrella, knife"|把|把|bǎ |file:///android_asset/counter.png
-192|Counters|"piece of clothing;  EX: shirt, coat"|件|件|jiàn |file:///android_asset/counter.png
-193|Counters|"piece of writing;  EX: article, paper"|篇|篇|piān |file:///android_asset/counter.png
-194|Counters|repeatable action ( more informal) |回|回|huí |file:///android_asset/counter.png
-195|Counters|"reputable action;  EX: go, discuss, say "|次|次|cì |file:///android_asset/counter.png
-196|Counters|"room;  EX: classroom, restroom "|間|间|jiān |file:///android_asset/counter.png
-197|Counters|second|秒鐘|秒钟|miǎo zhōng |file:///android_asset/counter.png
-198|Counters|"stick-like object; EX: pen, ruler"|枝|枝|zhī |file:///android_asset/counter.png
-199|Counters|"strip of object;  EX: belt, fish, river"|條|条|tiáo |file:///android_asset/counter.png
-200|Counters|"vehicle;  EX: car, bus, truck "|辆|辆|liàng |file:///android_asset/counter.png
-201|Counters|week|星期|星期|xīng qī |file:///android_asset/counter.png
-202|Counters|year|年|年|nián |file:///android_asset/counter.png
+175|Measure Word|academic course|門|门|mén |file:///android_asset/measure.png
+176|Measure Word|"appliance/machine;  EX: computer,  dryer "|台|台|tái |file:///android_asset/measure.png
+177|Measure Word|"brisk action;  EX: pat, knock, pinch"|下|下|xià |file:///android_asset/measure.png
+178|Measure Word|chunk/piece/cube;  EX: piece of cake|塊|块|kuài |file:///android_asset/measure.png
+179|Measure Word|class period|節|节|jié |file:///android_asset/measure.png
+180|Measure Word|class period|堂|堂|táng |file:///android_asset/measure.png
+181|Measure Word|day|天|天|tiān |file:///android_asset/measure.png
+182|Measure Word|"flat object; EX: paper, photo, bed"|張|张|zhāng |file:///android_asset/measure.png
+183|Measure Word|from beginning to end|遍|遍|biàn |file:///android_asset/measure.png
+184|Measure Word|hour|小時|小时|xiǎo shí |file:///android_asset/measure.png
+185|Measure Word|"in bound form;  EX: books, magazine"|本|本|běn |file:///android_asset/measure.png
+186|Measure Word|"institution/building;  EX: school, hospital"|所|所|suǒ |file:///android_asset/measure.png
+187|Measure Word|lesson|课|课|kè |file:///android_asset/measure.png
+188|Measure Word|"limited actions: heat, scold, heat up "|顿|顿|dùn |file:///android_asset/measure.png
+189|Measure Word|minute|分鐘|分钟|fēn zhōng |file:///android_asset/measure.png
+190|Measure Word|object usually in pair;  EX: earrings|副|副|fù |file:///android_asset/measure.png
+191|Measure Word|"object with handle;  EX: umbrella, knife"|把|把|bǎ |file:///android_asset/measure.png
+192|Measure Word|"piece of clothing;  EX: shirt, coat"|件|件|jiàn |file:///android_asset/measure.png
+193|Measure Word|"piece of writing;  EX: article, paper"|篇|篇|piān |file:///android_asset/measure.png
+194|Measure Word|repeatable action ( more informal) |回|回|huí |file:///android_asset/measure.png
+195|Measure Word|"reputable action;  EX: go, discuss, say "|次|次|cì |file:///android_asset/measure.png
+196|Measure Word|"room;  EX: classroom, restroom "|間|间|jiān |file:///android_asset/measure.png
+197|Measure Word|second|秒鐘|秒钟|miǎo zhōng |file:///android_asset/measure.png
+198|Measure Word|"stick-like object; EX: pen, ruler"|枝|枝|zhī |file:///android_asset/measure.png
+199|Measure Word|"strip of object;  EX: belt, fish, river"|條|条|tiáo |file:///android_asset/measure.png
+200|Measure Word|"vehicle;  EX: car, bus, truck "|辆|辆|liàng |file:///android_asset/measure.png
+201|Measure Word|week|星期|星期|xīng qī |file:///android_asset/measure.png
+202|Measure Word|year|年|年|nián |file:///android_asset/measure.png
 203|Directions & Taxi|Close the window|關上窗戶|关上窗户|Guān  shang chuāng  hù |file:///android_asset/taxi.png
 204|Directions & Taxi|Don’t smoke|請忽抽煙|请忽抽烟|Qǐng  wù  chōu  yān |file:///android_asset/taxi.png
 205|Directions & Taxi|Don’t stop the meter|繼續打表|继续打表|Jì  xù  dá  biǎo |file:///android_asset/taxi.png
@@ -380,7 +380,7 @@
 380|Grocery - Useful|Baking paper|燒烤紙|烧烤纸|Shāo  kǎo  zhǐ |file:///android_asset/grocery.png
 381|Grocery - Useful|Can I pay with a foreign credit card|我可以用國外的信用卡支付嗎|我可以用国外的信用卡支付吗|Wǒ  ké  yí  yòng  guó  wài  de xìn  yòng  kǎ  zhī  fù  ma|file:///android_asset/grocery.png
 382|Grocery - Useful|Cling wrap|保鮮膜|保鲜膜|Bǎo  xiān  mó |file:///android_asset/grocery.png
-383|Grocery - Useful|Large garbage bag|大垃圾袋|大垃圾袋|Dà  lā  jī  dài |file:///android_asset/grocery.png
+383|Grocery - Useful|Large garbage bag|大垃圾袋|大垃圾袋|Dà  lā  sè  dài |file:///android_asset/grocery.png
 384|Grocery - Useful|No plastic bag|沒有塑料袋|没有塑料袋|Méi  yǒu  sù  liào  dà i|file:///android_asset/grocery.png
 385|Grocery - Useful|Plastic bag|塑料袋|塑料袋|Sù  liào  dài |file:///android_asset/grocery.png
 386|Grocery - Useful|Receipt|發票|发票|Fā  piào |file:///android_asset/grocery.png
@@ -659,12 +659,12 @@
 659|Places|cafeteria |食堂|食堂/学生餐厅|shí táng|file:///android_asset/places.png
 660|Places|campus|校圓|校园|xiào yuán |file:///android_asset/places.png
 661|Places|classroom|教室|教室|jiào shì |file:///android_asset/places.png
-662|Places|computer cluster|電腦房|电脑房|diàn nǎo fáng |file:///android_asset/places.png
+662|Places|computer room|電腦房|电脑房|diàn nǎo fáng |file:///android_asset/places.png
 663|Places|department|系|系|xì |file:///android_asset/places.png
 664|Places|dormitory|宿舍|宿舍|sù shè |file:///android_asset/places.png
 665|Places|gym|體育管|体育管|tǐ yù guǎn |file:///android_asset/places.png
 666|Places|laboratory|實驗室|实验室|shí yàn shì |file:///android_asset/places.png
-667|Places|language laboratory|语言實驗室|语言实验室|yǔ yán shí yàn shì |file:///android_asset/places.png
+667|Places|language laboratory|語言實驗室|语言实验室|yǔ yán shí yàn shì |file:///android_asset/places.png
 668|Places|law school|法學院|法学院|fǎ xué yuàn |file:///android_asset/places.png
 669|Places|library|圖書館|图书馆|tú shū guǎn |file:///android_asset/places.png
 670|Places|medical school |医學院|医学院|yī xué yuàn |file:///android_asset/places.png
@@ -734,7 +734,7 @@
 734|Shopping|Can you lower the price|可以便宜點嗎|可以便宜点吗|Ké  yǐ  pián  yí  diǎn  ma|file:///android_asset/shopping.png
 735|Shopping|Deliver to ...|送到…|送到…|Sòng  dào  ...|file:///android_asset/shopping.png
 736|Shopping|How long will it take|得多長時間|得多长时间|Děi  duō  cháng  shí  jiān |file:///android_asset/shopping.png
-737|Shopping|I live here. I am not a tourist|我住在這，不是遊客|我住在这，不是游客|"Wǒ  zhù  zài  zhè , bú  shì  yóu  kè "|file:///android_asset/shopping.png
+737|Shopping|I live here. I am not a tourist|我住在這裡，不是遊客|我住在这里，不是游客|"Wǒ  zhù  zài  zhè lǐ, bú  shì  yóu  kè "|file:///android_asset/shopping.png
 738|Shopping|I will recommend your shop to my friends|我會給我的朋友推薦你的網店|我会给我的朋友推荐你的网店|Wǒ  huì  géi  wǒ  de péng  yǒu  tuī  jiàn  nǐ  de shāng  diàn |file:///android_asset/shopping.png
 739|Shopping|Is there an ATM machine nearby|附近有提款機嗎|附近有提款机吗|Fù  jìn  yǒu  tí  kuǎn  jī  ma|file:///android_asset/shopping.png
 740|Shopping|Receipt|發票|发票|Fā  piào |file:///android_asset/shopping.png
@@ -774,27 +774,27 @@
 774|Study|magazine|雜誌|杂志|zá zhì |file:///android_asset/study.png
 775|Study|map|地圖|地图|dì tú |file:///android_asset/study.png
 776|Study|newspaper|報紙|报纸|bào zhǐ |file:///android_asset/study.png
-777|Study|study |書房|书房|shū fáng |file:///android_asset/study.png
+777|Study|study room|書房|书房|shū fáng |file:///android_asset/study.png
 778|Tech & Gadget|Bluetooth|藍牙|蓝牙|Lán  yá |file:///android_asset/tech.png
 779|Tech & Gadget|cell phone|手機|手机|shǒu jī |file:///android_asset/tech.png
 780|Tech & Gadget|Cordless telephone|無線電話|无线电话|Wú  xiàn  diàn  huā |file:///android_asset/tech.png
-781|Tech & Gadget|Do you have an English version|有英文版本的嗎|有英文版本的吗|Yǒu  yīng  wēn  bǎn  dē  ma|file:///android_asset/tech.png
+781|Tech & Gadget|Do you have an English version|有英文版本的嗎|有英文版本的吗|Yǒu  yīng  wēn  bǎn  běn dē  ma|file:///android_asset/tech.png
 782|Tech & Gadget|Duplexer|雙工器|双工器|Shuāng  gōng  qǐ |file:///android_asset/tech.png
 783|Tech & Gadget|Earphone|耳機|耳机|Er3  jī |file:///android_asset/tech.png
 784|Tech & Gadget|Fax|傳真|传真|Chuán  zhēn |file:///android_asset/tech.png
 785|Tech & Gadget|Hard drive|硬盤|硬盘|Yìng  pán |file:///android_asset/tech.png
-786|Tech & Gadget|Headphone with mic|帶麥克的相機|带麦克的耳机|Dài  mài  kē  dě  ēr  jī |file:///android_asset/tech.png
+786|Tech & Gadget|Headphone with mic|帶麥克的相機|带麦克的耳机|Dài  mài  kē  dě  xiàng  jī |file:///android_asset/tech.png
 787|Tech & Gadget|How long is the warranty for|保修期多長|保修期多长|Bǎo  xiū  qī  duó  cháng |file:///android_asset/tech.png
 788|Tech & Gadget|Ink jet cartridge|墨盒|墨盒|Mó  hé |file:///android_asset/tech.png
 789|Tech & Gadget|Ink jet printer|磨粉打印機|磨粉打印机|Mó  fěn  dǎ  yìn  jī |file:///android_asset/tech.png
-790|Tech & Gadget|Is the warranty valid outside of China|保修期在國外有效嗎|保修在国外有效吗|Bǎo  xiū  zài  guō  wài  yǒu  xiào  ma|file:///android_asset/tech.png
+790|Tech & Gadget|Is the warranty valid outside of China|保修在國外有效嗎|保修在国外有效吗|Bǎo  xiū  zài  guō  wài  yǒu  xiào  ma|file:///android_asset/tech.png
 791|Tech & Gadget|Is this compatible with a Mac|這個能用在蘋果機上嗎|这个能用在苹果机上吗|Zhè  gē  néng  yòng  zài  píng  guó  jī  shàng  ma|file:///android_asset/tech.png
 792|Tech & Gadget|Keyboard|鍵盤|键盘|Jiàn  pán |file:///android_asset/tech.png
 793|Tech & Gadget|Laser printer|激光打印機|激光打印机|Jì  guāng  dǎ  yìn  ji|file:///android_asset/tech.png
 794|Tech & Gadget|Laser printer cartridge|鐳射打印機碳粉盒|镭射打印机碳粉盒|Léi  shè  dǎ  yìn  jī  tàn  fěn  hé |file:///android_asset/tech.png
 795|Tech & Gadget|LCD monitor|液晶顯示器|液晶显示器|Yè  jīng  xiǎn  shì  qì |file:///android_asset/tech.png
 796|Tech & Gadget|Lens|鏡頭|镜头|Jìng  tóu |file:///android_asset/tech.png
-797|Tech & Gadget|Mother board|主板|主板|Zhú  bǎn |file:///android_asset/tech.png
+797|Tech & Gadget|Motherboard|主板|主板|Zhú  bǎn |file:///android_asset/tech.png
 798|Tech & Gadget|Mouse|鼠標|鼠标|Shǔ  biāo |file:///android_asset/tech.png
 799|Tech & Gadget|Photo printer|照片打印機|照片打印机|Zhào  piàn  dǎ  yìn  jī |file:///android_asset/tech.png
 800|Tech & Gadget|Printer|打印機|打印机|dǎ yìn jī |file:///android_asset/tech.png
