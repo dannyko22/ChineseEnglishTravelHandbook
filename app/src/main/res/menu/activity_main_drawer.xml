@@ -9,7 +9,7 @@
         <item
             android:id="@+id/settingsdrawer"
             android:icon="@drawable/settingpic"
-            android:title="Settings" />
+            android:title="@string/action_settings" />
     </group>
 
     <item android:title="Communicate">

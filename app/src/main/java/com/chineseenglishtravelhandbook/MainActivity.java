@@ -43,6 +43,7 @@ import com.google.android.gms.analytics.Tracker;
 import com.google.firebase.analytics.FirebaseAnalytics;
 import com.google.firebase.analytics.FirebaseAnalytics.Event;
 import com.google.firebase.analytics.FirebaseAnalytics.Param;
+import com.kobakei.ratethisapp.RateThisApp;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -129,6 +130,14 @@ public class MainActivity extends AppCompatActivity
         initializeAdNetwork();
 
         checkEngineExist(this);
+
+        // Monitor launch times and interval from installation
+        RateThisApp.onStart(this);
+        // If the criteria is satisfied, "Rate this app" dialog will be shown
+        RateThisApp.Config config = new RateThisApp.Config(2,2);
+        config.setUrl("market://details?id=com.chineseenglishtravelhandbook");
+        RateThisApp.init(config);
+        RateThisApp.showRateDialogIfNeeded(this);
 
     }
 
