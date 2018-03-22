@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity
         // Monitor launch times and interval from installation
         RateThisApp.onStart(this);
         // If the criteria is satisfied, "Rate this app" dialog will be shown
-        RateThisApp.Config config = new RateThisApp.Config(2,2);
+        RateThisApp.Config config = new RateThisApp.Config(1,1);
         config.setUrl("market://details?id=com.chineseenglishtravelhandbook");
         RateThisApp.init(config);
         RateThisApp.showRateDialogIfNeeded(this);
