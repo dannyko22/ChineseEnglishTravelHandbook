@@ -25,7 +25,7 @@
             <item
                 android:id="@+id/nav_send"
                 android:icon="@drawable/ic_directions_bike_black_24dp"
-                android:title="About Me" />
+                android:title="About Me and Privacy Policy" />
         </menu>
     </item>
 

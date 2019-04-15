@@ -28,6 +28,15 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView2"
         android:textColor="@color/colorPrimary" />
+
+    <TextView
+        android:text="\n\nPrivacy Policy: \n \n  https://sites.google.com/view/chinesespeaklearnlisten/home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView7"
+        android:textColor="@color/colorPrimary" />
+
+
     <View
         android:id="@+id/bottomemptyview"
         android:clickable="true"
