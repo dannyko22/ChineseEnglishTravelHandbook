@@ -9,15 +9,15 @@ android {
             storePassword 'dannyko1'
         }
     }
-    compileSdkVersion 26
+    compileSdkVersion 28
     buildToolsVersion '28.0.3'
 
     defaultConfig {
         applicationId "com.chineseenglishtravelhandbook"
         minSdkVersion 16
-        targetSdkVersion 26
-        versionCode 10
-        versionName "10.0"
+        targetSdkVersion 28
+        versionCode 11
+        versionName "11.0"
 
         multiDexEnabled true
         ndk.abiFilters 'armeabi-v7a','arm64-v8a','x86','x86_64'
@@ -37,12 +37,12 @@ android {
 }
 
 dependencies {
-    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support:appcompat-v7:28.+'
     implementation 'com.google.android.gms:play-services:12.0.1'
-    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.android.support:design:28.+'
     implementation 'com.squareup.picasso:picasso:2.5.0'
-    implementation 'com.android.support:recyclerview-v7:26.1.0'
-    implementation 'com.android.support:cardview-v7:26.1.0'
+    implementation 'com.android.support:recyclerview-v7:28.+'
+    implementation 'com.android.support:cardview-v7:28.+'
     implementation 'com.google.android.gms:play-services-analytics:12.0.1'
     implementation 'io.github.kobakei:ratethisapp:1.1.1'
 
